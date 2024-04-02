@@ -1,7 +1,7 @@
 ---
 title: 4 Effective Methods Fake GPS Location on Apple iPhone 12 mini/iPad | Dr.fone
-date: 2024-04-01T07:01:34.676Z
-updated: 2024-04-02T07:01:34.676Z
+date: 2024-04-01T13:01:36.271Z
+updated: 2024-04-02T13:01:36.271Z
 tags: 
   - virtual location chang
   - location changer

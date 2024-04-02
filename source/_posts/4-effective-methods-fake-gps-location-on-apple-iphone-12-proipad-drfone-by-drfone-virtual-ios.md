@@ -1,7 +1,7 @@
 ---
 title: 4 Effective Methods Fake GPS Location on Apple iPhone 12 Pro/iPad | Dr.fone
-date: 2024-04-01T07:01:34.690Z
-updated: 2024-04-02T07:01:34.690Z
+date: 2024-04-01T13:01:36.273Z
+updated: 2024-04-02T13:01:36.273Z
 tags: 
   - virtual location chang
   - location changer

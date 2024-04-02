@@ -1,7 +1,7 @@
 ---
 title: 3 Smart and Simple Ways to Change Home Address on Apple iPhone 12 mini | Dr.fone
-date: 2024-04-01T07:01:34.613Z
-updated: 2024-04-02T07:01:34.613Z
+date: 2024-04-01T13:01:36.221Z
+updated: 2024-04-02T13:01:36.221Z
 tags: 
   - virtual location chang
   - location changer
