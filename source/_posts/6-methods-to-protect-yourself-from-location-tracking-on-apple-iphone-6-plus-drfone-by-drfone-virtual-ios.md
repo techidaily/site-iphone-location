@@ -1,7 +1,7 @@
 ---
 title: 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6 Plus | Dr.fone
-date: 2024-04-07T03:08:01.212Z
-updated: 2024-04-08T03:08:01.212Z
+date: 2024-04-07T20:36:47.703Z
+updated: 2024-04-08T20:36:47.703Z
 tags: 
   - virtual location chang
   - location changer

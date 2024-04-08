@@ -1,7 +1,7 @@
 ---
 title: 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone X/iPad | Dr.fone
-date: 2024-04-07T03:08:01.201Z
-updated: 2024-04-08T03:08:01.201Z
+date: 2024-04-07T20:36:47.667Z
+updated: 2024-04-08T20:36:47.667Z
 tags: 
   - virtual location chang
   - location changer

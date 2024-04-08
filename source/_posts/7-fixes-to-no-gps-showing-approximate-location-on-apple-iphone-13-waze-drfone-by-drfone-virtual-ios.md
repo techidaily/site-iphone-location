@@ -1,7 +1,7 @@
 ---
 title: 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 13 Waze | Dr.fone
-date: 2024-04-07T03:08:01.221Z
-updated: 2024-04-08T03:08:01.221Z
+date: 2024-04-07T20:36:47.753Z
+updated: 2024-04-08T20:36:47.753Z
 tags: 
   - virtual location chang
   - location changer

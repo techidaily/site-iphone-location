@@ -1,7 +1,7 @@
 ---
 title: 4 Effective Methods Fake GPS Location on Apple iPhone XS/iPad | Dr.fone
-date: 2024-04-07T03:08:01.187Z
-updated: 2024-04-08T03:08:01.187Z
+date: 2024-04-07T20:36:47.612Z
+updated: 2024-04-08T20:36:47.612Z
 tags: 
   - virtual location chang
   - location changer
