@@ -1,7 +1,7 @@
 ---
 title: 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 12 mini Waze | Dr.fone
-date: 2024-04-07T20:36:47.744Z
-updated: 2024-04-08T20:36:47.744Z
+date: 2024-04-08T23:40:48.574Z
+updated: 2024-04-09T23:40:48.574Z
 tags: 
   - virtual location chang
   - location changer

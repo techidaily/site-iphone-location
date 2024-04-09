@@ -1,7 +1,7 @@
 ---
 title: 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 13 Pro Max | Dr.fone
-date: 2024-04-07T20:36:47.694Z
-updated: 2024-04-08T20:36:47.694Z
+date: 2024-04-08T23:40:48.524Z
+updated: 2024-04-09T23:40:48.524Z
 tags: 
   - virtual location chang
   - location changer

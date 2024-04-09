@@ -1,7 +1,7 @@
 ---
 title: 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 14 Pro | Dr.fone
-date: 2024-04-07T20:36:47.697Z
-updated: 2024-04-08T20:36:47.697Z
+date: 2024-04-08T23:40:48.526Z
+updated: 2024-04-09T23:40:48.526Z
 tags: 
   - virtual location chang
   - location changer
