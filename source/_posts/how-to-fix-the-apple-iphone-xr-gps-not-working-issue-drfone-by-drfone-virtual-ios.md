@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Apple iPhone XR GPS not Working Issue | Dr.fone
-date: 2024-04-30T12:45:08.235Z
-updated: 2024-05-01T12:45:08.235Z
+date: 2024-05-19T02:40:09.877Z
+updated: 2024-05-20T02:40:09.877Z
 tags: 
   - virtual location chang
   - location changer
@@ -375,4 +375,5 @@ As you can see, it is pretty easy to view GPX online or offline using the right 
 <li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-12-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi 12 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-15-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 15 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

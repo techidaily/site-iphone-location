@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Apple iPhone 12 mini GPS not Working Issue | Dr.fone
-date: 2024-04-30T12:45:08.188Z
-updated: 2024-05-01T12:45:08.188Z
+date: 2024-05-19T02:40:09.791Z
+updated: 2024-05-20T02:40:09.791Z
 tags: 
   - virtual location chang
   - location changer
@@ -499,4 +499,5 @@ In this guide, you have learned how to **change location on the Apple iPhone 12 
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Poco C65 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-note-50-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Note 50 To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 
