@@ -1,7 +1,7 @@
 ---
 title: Does PokeGo++ still work on Apple iPhone 15 Pro/iPad? | Dr.fone
-date: 2024-05-19T02:40:09.327Z
-updated: 2024-05-20T02:40:09.327Z
+date: 2024-06-30T14:29:11.816Z
+updated: 2024-07-01T14:29:11.816Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Does PokeGo++ still work on Apple iPhone 15 Pro/iPad?
 excerpt: This article describes Does PokeGo++ still work on Apple iPhone 15 Pro/iPad?
 keywords: fake gps location on ios,change location on ios,change location on iphone,fake location on ios,change gps location on ios,fake location on iPhone 15 Pro,fake location on iphone,change location on iPhone 15 Pro
-thumbnail: https://www.lifewire.com/thmb/BPYPQrXsNWygpcoCT-Bo8NlAS2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1094009490-2694d308001d46049e0755f4dd7fdf4c.jpg
+thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg
 ---
 
 ## Does PokeGo++ still work on Apple iPhone 15 Pro/iPad?
