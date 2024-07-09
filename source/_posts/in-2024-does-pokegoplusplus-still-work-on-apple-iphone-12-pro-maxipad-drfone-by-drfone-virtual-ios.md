@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does PokeGo++ still work on Apple iPhone 12 Pro Max/iPad? | Dr.fone
-date: 2024-05-19T02:40:10.847Z
-updated: 2024-05-20T02:40:10.847Z
+date: 2024-07-08T02:55:29.833Z
+updated: 2024-07-09T02:55:29.833Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Does PokeGo++ still work on Apple iPhone 12 Pro Max/iPad?
 excerpt: This article describes Does PokeGo++ still work on Apple iPhone 12 Pro Max/iPad?
 keywords: fake gps location on ios,fake location on iphone,change location on iPhone 12 Pro Max,fake location on ios,change location on iphone,fake location on iPhone 12 Pro Max,change gps location on ios,change location on ios
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## Does PokeGo++ still work on Apple iPhone 12 Pro Max/iPad?
