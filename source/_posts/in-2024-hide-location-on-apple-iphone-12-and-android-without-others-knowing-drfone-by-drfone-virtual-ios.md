@@ -1,7 +1,7 @@
 ---
 title: In 2024, Hide location on Apple iPhone 12 and Android without others knowing | Dr.fone
-date: 2024-07-10T13:50:23.575Z
-updated: 2024-07-11T13:50:23.575Z
+date: 2024-08-14T11:51:41.291Z
+updated: 2024-08-15T11:51:41.291Z
 tags: 
   - virtual location chang
   - location changer
@@ -34,10 +34,16 @@ It’s no secret that online crimes are now rampant everywhere. Anyone who has i
 
 Once again, it’s hard to say that turning off the location services on your Apple iPhone 12 is a must. We need to consider numerous things before we do that. But in a way, concealing our location information can be of great help to somehow protect us from cyber fraud. Do you want to try it now? Find the tutorials below on how to hide location on Apple iPhone 12. One of them can assist you in this regard.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2. How to Hide Location on Apple iPhone 12?
 
 The truth is that it’s only you who can tell whether or not to hide your location on your Apple iPhone 12. The discussions provided above serve only as a guide to help you arrive at a wise decision. If you decide to prioritize your privacy and hide your location, take note that there are many ways to do it. Check out the tutorials below on how to hide your location on your Apple iPhone 12.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Deactivate location services on your Apple iPhone 12
 
 How do you stop sharing location on Apple iPhone 12? Well, the easiest way is to turn off the location services. Once applied, access to your location information will be immediately restricted across your mobile device. Do you want to try it now? Check out the guide provided below on how to hide location on Apple iPhone 12 by deactivating the location services.
@@ -54,7 +60,13 @@ How do you stop sharing location on Apple iPhone 12? Well, the easiest way is to
 - **Step 4:** Toggle off the radio button next to **Location Services.**
 
 ![turn off location services](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Turn on Airplane Mode
 
 For Apple iPhone 12 and other iOS devices, you can instantly deactivate location sharing by putting your device in Airplane Mode. You may opt for this method if you’re planning to turn off the location services for just a little while. However, it’s not recommended for long-term use because Airplane Mode also shuts down access to mobile data and Wi-Fi. Do you want to try it now? Here’s the tutorial on how to hide location on your Apple iPhone 12 by activating Airplane Mode.
@@ -89,12 +101,23 @@ In a specific way, the Apple iPhone 12 is capable of remembering certain places 
 - **Step 4:** Scroll down and then click **System Services.**
 
 ![iphone system service](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-8.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 
 - **Step 5:** Find and click **Significant Locations.**
 - **Step 6:** From there, toggle off the radio button next to **Significant Location.** Furthermore, scroll down and click **Clear History** to get rid of the previous records.
 
 ![turn off significant locations](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-9.jpg)
+<!-- affiliate ads begin -->
 
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Method 5: Deactivate Location Services on individual mobile applications
 
 Instead of entirely turning off the Location Services across your Apple iPhone 12, you may just reconfigure the access of individual apps. For instance, the Maps app retains access while Apple TV is restricted. Is it possible? Definitely. Here’s a short guide on how to hide your location on your Apple iPhone 12 by reviewing the location access of each application.
@@ -109,6 +132,9 @@ Instead of entirely turning off the Location Services across your Apple iPhone 1
 - **Step 5:** Click **Never** under the Allow Location Access section. Alternatively, you may select **Ask Next Time** or **While Using the App** if you just wish to keep the location access within bounds.
 
 ![iphone location access](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 
 **NOTE:** The changes on this setting are individually applied. You need to do the same procedure in all the apps you want to reconfigure the location access.
 
@@ -124,14 +150,23 @@ The tutorials above on how to hide location on Apple iPhone 12 are indeed helpfu
 - **Step 4:** Once the downloading process has concluded, Wondershare Dr.Fone - Virtual Location will immediately open on a separate window. From there, locate and click **Teleport Mode** at the top-right menu bar. It’s the first icon in the row.
 
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 
 - **Step 5:** Go back to the top-left corner of your screen and then hit the search bar. Type in your preferred location and choose one among the suggested results. After that, click the **Enter** icon.
 
 ![type in your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 
 - **Step 6:** The full details about your chosen location will be then displayed on the screen. Review the information provided and make sure that it’s what exactly you’re looking for. Once confirmed, click **Move Here.**
 
 ![confirm the suggested location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 - **Step 7:** Your inputs will be immediately applied to the location settings on your Apple iPhone 12. From then on, you may now browse the internet without worrying about location privacy. If you wish to restore the original location settings on your Apple iPhone 12, simply close the Wondershare Dr.Fone application on your computer and restart your device.
 
@@ -139,12 +174,18 @@ The tutorials above on how to hide location on Apple iPhone 12 are indeed helpfu
 
 **NOTE:** Resort to this option if your actual location information is not required in the transaction or procedure. For example, you may change your location if you wish to use a dating app or play GPS-based games on your mobile device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Location services are there for a reason. It generally helps mobile devices deliver smooth performance and provide convenience to the users. However, we cannot deny that online frauds are everywhere nowadays. That’s why most of us feel uncomfortable sharing our whereabouts and other sensitive information with anyone or anything online. Don’t worry. There’s nothing wrong with that. If you opt to protect your privacy, the tutorials above on how to hide location on your Apple iPhone 12 can surely help you. Meanwhile, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a great alternative if you wish to mask your location details with different coordinates. It has a powerful Virtual Location feature capable of modifying your location settings and simulating GPS movements. All you have to do is connect your Apple iPhone 12 to the computer and set it up from there. In a minute or two, your location settings will be instantly modified according to your preferences.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Quick Steps to Change Weather Location on Apple iPhone 12
 
 It’s no secret that Weather is not everyone’s go-to app on a daily basis. People only open it when the atmospheric conditions around their area suddenly take an unexpected turn. More often than not, the Weather app remains untouched for a long period of time. But don’t worry. That’s completely understandable. Just remember that if you need to know the latest local forecast, Weather can certainly provide it to you.
@@ -165,12 +206,21 @@ Apart from its well-circulated weather updates, the Apple iPhone 12’s Weather 
 
 Are you planning a particular activity in the coming days? If so, the Ten-Day Forecast feature of Apple iPhone 12’s Weather app can surely help you in this regard. Basically, it provides estimated predictions on atmospheric conditions, precipitations, and temperature for the next ten days.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Severe Weather Alerts
 
 ![severe weather alert](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-2.JPG)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If an extreme weather disturbance is detected in your area, the Weather app will send you an alert straight away. It can be a weather advisory issued by the state meteorological bureau or a flash report from a credible source. That’s why you should ensure the location settings on your Apple iPhone 12 are well-calibrated. If not, take a moment to reconfigure it. There are lots of tutorials out there on how to change weather location on Apple iPhone 12. One of them can certainly assist you.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Maps
 
 ![weather map](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-3.JPG)
@@ -183,6 +233,9 @@ The Apple iPhone 12’s Weather app has a map feature that exclusively displays 
 
 If information regarding air quality is widely available in your country, it will also show up on the Apple iPhone 12’s Weather app. You can view from there the recorded air quality index in your area together with a rating if it is good or not. At present, we cannot deny that being aware of the air quality around us is indeed essential. It somehow helps us lessen our exposure to harmful pollutants in the atmosphere. That’s why you should take advantage of this feature. Read the tutorial on how to change the weather location on your Apple iPhone 12 and configure your settings. This way, you’ll stay updated on the air quality of the places you will visit going forward.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2. How to Change Weather Location on Apple iPhone 12?
 
 We have previously learned that location services play a key role in the accuracy and precision of Apple iPhone 12’s weather reports. That’s why you need to ensure the location settings on your Apple iPhone 12 are well-configured. Don’t worry. In case it needs a few adjustments, there are lots of techniques on how to change weather location on Apple iPhone 12. Just choose the best one that perfectly suits your situation. Do you want to try it now? Check out the list of methods provided below.
@@ -195,6 +248,9 @@ Let’s say you just need to check the weather conditions in another location. C
 - **Step 2:** Click the **Menu** icon at the top-left corner of your screen.
 
 ![weather app menu](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-5.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Enter your preferred location into the search bar. Find and click it from the suggested results.
 
@@ -204,6 +260,9 @@ Let’s say you just need to check the weather conditions in another location. C
 
 ![reorder location list](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Change the Weather app’s primary location on the widget
 
 Do you have a Weather widget on your Apple iPhone 12’s home screen? If so, you can directly modify the location settings from there. Don’t worry. It’s as easy as shooting fish in a barrel. Here’s how to change the weather location on Apple iPhone 12 from the home screen widget.
@@ -212,6 +271,10 @@ Do you have a Weather widget on your Apple iPhone 12’s home screen? If so, you
 - **Step 2:** Click **Edit Weather.**
 
 ![edit weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-8.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 
 - **Step 3:** Click **Location.** From there, enter your desired location into the search bar and choose one from the suggested results.
 
@@ -235,10 +298,16 @@ Is there any other way in case the first two techniques do not bring positive re
 - **Step 5:** Enter your desired location into the search bar and choose one from the list of suggestions. Right after, click the **Enter** icon to proceed.
 
 ![search for your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 6:** The details pertaining to your selected location will be displayed on the screen. Check them very carefully and confirm that it is the exact location you’re looking for. Once you’re done verifying the details, click the **Move Here** button below to continue.
 
 ![move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 - **Step 7:** In no time, the current location registered on your Apple iPhone 12 will be changed along with your weather location. See? It’s just as simple as that. Therefore, it’s best to use Wondershare Dr.Fone if you wish to change the weather location on your Apple iPhone 12.
 
@@ -252,12 +321,18 @@ It’s fair to say that Weather is not a primary iOS application. You can contin
 
 It doesn’t take much to follow the tutorials above on how to change weather location on Apple iPhone 12. Most of them can instantly be conducted and finished with just the snap of a finger. That’s why you should regularly calibrate its location settings and make sure that it’s showing appropriate weather reports. Who knows? Keeping tabs on the atmospheric conditions around your local area can help you in a specific way you don’t actually expect. For instance, severe weather alerts are definitely capable of preventing you from running or driving toward a bad storm. Another thing is that the Weather’s Ten-Day Forecast feature can help you organize your weekly schedules accordingly. For sure, Weather has a lot more to offer. Thus, try to explore it once in a while and take advantage of the benefits.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 By default, the Apple iPhone 12’s Weather app uses your current location for updates and reports. You don’t have to do anything if your location settings are configured properly. But just in case you need to change your location for various reasons, you can do it very easily. The tutorials above on how to change weather location on Apple iPhone 12 can surely help you with that. Follow the steps indicated and finish the instructions accordingly. For a more convenient and extremely effective approach, try to download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). It offers a powerful Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Don’t worry. It’s very easy to use. You just have to connect your Apple iPhone 12 to the computer and calibrate the location settings from there. In a minute or two, the location on your device will be then changed according to your choice.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12
 
 With the advent of digitalization in everything, GPS is one feature that has taken world by the storm. There are abundance of apps and websites that demand location for better exposure and services according to the current location. Apple always does the best for keeping the privacy and security features and allows users to have control over location permissions.
@@ -288,6 +363,9 @@ When you want to stop someone tracking your Apple iPhone 12, why just turning of
 To start the process, you are required to get the Dr.Fone – Virtual Location (iOS) downloaded in your PC. Install it eventually and then launch it. Once it is launched successfully, click on the “Virtual Location” tab given in the main interface.
 
 ![launch Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Connect the Apple iPhone 12 device**
 
@@ -315,6 +393,9 @@ You can now easily stop tracking on Apple iPhone 12 by deceiving your location a
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Disable location tracking of Apple iPhone 12 completely
 
 If the above method didn’t suit you, this is how you can turn off tracking on Apple iPhone 12. Using this method, you will end up deactivating the location services of Apple iPhone 12 completely. The steps are no rocket science and with just one toggling, you can reach to what you want. By doing this, any app in the Apple iPhone 12 that uses your location will be of no use. For instance, the maps, Find My Friends and Find My Apple iPhone 12 apps will not be able to track your location. Also, you will stop anyone from tracking you this way. Here are the steps on how to stop tracking on Apple iPhone 12 completely:
@@ -322,6 +403,9 @@ If the above method didn’t suit you, this is how you can turn off tracking on 
 **Step 1:** Go to the “Settings” in your Apple iPhone 12 as the initial step. Now, look for “Privacy” option and tap on it.
 
 ![disable location](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-1.jpg)
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Now, go for the “Location Services” and tap on it.
 
@@ -331,6 +415,9 @@ If the above method didn’t suit you, this is how you can turn off tracking on 
 
 ![use the switch](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Method 3: Disable location tracking of specific apps
 
 In the above section, you have stopped tracking on Apple iPhone 12 entirely which means any of the location based app or service won’t be able to locate you. Nevertheless, completely turning it off can sometimes be useless as there are some apps that need the tracking of your location so as to give you better experience. As a solution for this, you can follow the steps below and can turn off location for specific apps only. Here is how to stop tracking on Apple iPhone 12 for specific apps.
@@ -362,6 +449,9 @@ Apart from the apps, Apple iPhone 12 itself keeps record of where you travel the
 **Step 5:** Toggle off the green slider near “Significant Locations”. This is it!
 
 ![Significant Locations](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Disable Share My Location service
 
@@ -372,7 +462,13 @@ The feature “Share My Locations” enables you to share your locations with yo
 **Step 2:** Look for the “Share My Location” and toggle it off.
 
 ![turn off Share My Location](https://images.wondershare.com/drfone/article/2019/09/disable-share-my-location.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Disable location-based notifications or alerts
 
 iPhone provides three kinds of location based services. These include the services regarding alerts, Apple ads and suggestions. If this feature is turned on, you may get the notifications, suggestions or iAds according to what is best for your location. If this bothers you and you don’t want this to happen, you can turn it off by following steps below. This is how to turn off tracking on Apple iPhone 12 in terms of location-based alerts and notifications:
@@ -384,6 +480,9 @@ iPhone provides three kinds of location based services. These include the servic
 **Step 3:** Subsequently, you can disable the location based services or alerts as you want.
 
 ![disable the location services or alerts](https://images.wondershare.com/drfone/article/2019/09/disable-location-based-alerts.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -412,3 +511,72 @@ We are concluding the topic here with a great hope that you now are well informe
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pure-audio-on-mac-studio-overview/"><u>[New] 2024 Approved  Pure Audio on Mac  Studio Overview</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unveiling-strategies-for-building-impressive-youtube-teaser-vids/"><u>[New] 2024 Approved  Unveiling Strategies for Building Impressive YouTube Teaser Vids</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/udio-alchemy-free-perfectly-crafted-dj-template-videos/"><u>[New] Audio Alchemy  Free, Perfectly Crafted DJ Template Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-elude-the-invisible-threat-unshadowbanned-on-tiktok/"><u>[New] Elude the Invisible Threat  Unshadowbanned on TikTok</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-safeguard-against-youtube-prohibitions-for-2024/"><u>[New] How to Safeguard Against Youtube Prohibitions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimize-youtube-submission-swift-rendering-and-uploading-methods/"><u>[New] Optimize YouTube Submission - Swift Rendering and Uploading Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-science-behind-the-best-sized-videos-for-your-instagram-story-for-2024/"><u>[New] The Science Behind the Best-Sized Videos for Your Instagram Story for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-convincing-openers-stellar-podcast-entries/"><u>[Updated] Convincing Openers  Stellar Podcast Entries</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-covert-story-consumption-5-must-try-apps/"><u>[Updated] Covert Story Consumption  5 Must-Try Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-harmonizing-tech-and-artistry-mac-studios-for-2024/"><u>[Updated] Harmonizing Tech & Artistry  Mac Studios for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-remove-black-bars-from-existing-youtube-videos/"><u>[Updated] How to Remove Black Bars From Existing YouTube Videos?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-peakpixel-optimizer-windows-mac-and-online/"><u>[Updated] In 2024, PeakPixel Optimizer  Windows, Mac & Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-stay-updated-the-latest-instagram-filter-updates-for-2024/"><u>[Updated] Stay Updated  The Latest Instagram Filter Updates for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-synthizing-screenshots-and-slides-seamlessly/"><u>[Updated] Synthizing Screenshots & Slides Seamlessly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-5-innovative-youtube-thumbnail-designers-for-aspiring-filmmakers/"><u>2024 Approved  5 Innovative YouTube Thumbnail Designers for Aspiring Filmmakers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-metaverse-laughs-creating-viral-digital-cartoons/"><u>2024 Approved  Metaverse Laughs  Creating Viral Digital Cartoons</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-preparing-your-pc-and-room-for-the-ultimate-vr/"><u>2024 Approved  Preparing Your PC and Room for the Ultimate VR</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-14-proipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 14 Pro/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-15-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 15 Waze | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-7-plusipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 7 Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/advanced-lighting-strategies-for-superior-iphone-photos-for-2024/"><u>Advanced Lighting Strategies for Superior iPhone Photos for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-11ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 11/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-xipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone X/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-spark-20-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Spark 20 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-review-of-vivacuts-latest-edits-and-enhancements/"><u>Expert Review of VivaCut's Latest Edits and Enhancements</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-se-2020-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone SE (2020) and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-7-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 7 GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-11-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 11 Pro Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 11/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 8/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-12-pro-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 12 Pro Waze | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-15-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 15 Pro Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone XS Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-se-2022ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone SE (2022)/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-14-proipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 14 Pro/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exemplary-narratives-distributed-by-category/"><u>In 2024, Exemplary Narratives Distributed by Category</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-7-plus-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 7 Plus and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y02t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo Y02T Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-top-10-final-cut-pro-plug-ins/"><u>In 2024, Top 10 Final Cut Pro Plug-Ins</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-12r-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus 12R Phone FRP Lock</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/odins-legacy-destiny-of-ragnarok/"><u>Odin's Legacy  Destiny of Ragnarök</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-user-friendly-untangle-for-youtube-earnings-assessment/"><u>The Ultimate User-Friendly Untangle for YouTube Earnings Assessment</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unlocking-drone-knowledge-must-know-before-making-a-deal/"><u>Unlocking Drone Knowledge  Must-Know Before Making a Deal</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-7-plusipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 7 Plus/iPad? Solved | Dr.fone</u></a></li>
+</ul></div>
