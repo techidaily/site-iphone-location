@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to See Someones Location on Apple iPhone XS | Dr.fone
-date: 2024-08-07T11:05:58.172Z
-updated: 2024-08-08T11:05:58.172Z
+date: 2024-09-03T23:32:51.517Z
+updated: 2024-09-04T23:32:51.517Z
 tags: 
   - virtual location chang
   - location changer
@@ -24,25 +24,16 @@ This article will address three methods for **seeing someone’s location on Ap
 
 [Find My iPhone](https://www.apple.com/icloud/find-my/) is one of the popular apps to locate iPhones effectively. iPhone users utilize this app to navigate lost or stolen phones efficiently. Through this app, you can also learn **how to check someone's location on Apple iPhone XS** through their iCloud. First, make sure to activate Find My Apple iPhone XS feature in the target’s iCloud settings. After that, you can easily see the targets’ location on your Apple iPhone XS from your screen with a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find my iphone interface](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-1.jpg)
 
 ### Steps to See Someone’s Location on Apple iPhone XS through Find My iPhone
 
 **Step 1:** Initiate activating the feature of Find My iPhone on the target’s phone. For this, navigate to the “Settings” of the target iPhone. Then find and click on the option of “iCloud," where you will see the feature "Find My iPhone." Next, turn on its toggle by tapping on it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![enable find my iphone](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-2.jpg)
 
 **Step 2:** Now, you are ready to locate the target's iPhone location anytime you wish. To do so, access the official website of iCloud and log in to the target’s iCloud account carefully.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![login to target icloud](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-3.jpg)
 
 **Step 3:** A new window will appear on your screen from where you click on the option "Find My iPhone." Now you can see all of the iOS devices attached to this account. Choose the Apple iPhone XS device from the options you want to locate on the map.
@@ -53,15 +44,18 @@ This article will address three methods for **seeing someone’s location on Ap
 
 Find My iPhone offers numerous other features that can help you to find lost or stolen phones effortlessly. Through this app, you can play a sound on your lost iPhone for 2 minutes, even if the iPhone is on silent mode. You can also get easy and clear directions through this app towards the exact location of your phone. Moreover, if your Apple iPhone XS gets stolen, you can lock your device through a passcode and can erase all the data from it with a single click.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Find Someone’s Location on Apple iPhone XS via Find My Friends
 
 [Find My Friends](https://apps.apple.com/us/app/find-my-friends/id466122094) is another helpful app through which you can track someone’s location easily. Your friends and family members can share their location through this app, and they can also start following your location simultaneously. Moreover, you can set location-based alarms in case you have to pick up someone from the school or airport.
 
 ![find my friends ios app](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Through this particular app, you can also try **how to find someone’s location on Apple iPhone XS** efficiently. First, however, you should be remindful of the following two factors before locating someone’s location on Apple iPhone XS through this app:
 
 - The suitable users for locating someone’s location on Apple iPhone XS are those who have an evident reach to the target’s iPhone and are also included in the contact list of that particular phone.
@@ -71,43 +65,37 @@ Through this particular app, you can also try **how to find someone’s location
 
 **Step 1:** Install the "Find My Friends" app on the target's iPhone to start. Remember that the "Find My Friends" app is only available on iOS 12 or below. IOS 13 users need to install the "Find My" app to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![open find friends app](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-7.jpg)
 
 **Step 2:** After installing the app on the target's phone, open it and tap on the contact picture to activate the toggle called "Share My Location."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![enable share my location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-8.jpg)
 
 **Step 3:** To begin sharing the location of the target's phone to your device, swipe up on your Apple iPhone XS to use AirDrop and make your Apple iPhone XS discoverable by clicking on "Everyone." Tap "Add" on the target device and then choose the option of "Share Indefinitely."
 
 ![select the location sharing time](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** You would receive a notification message asking for permission to accept the target's location and share your location on your Apple iPhone XS. Tap on "Don't share" to locate the target's phone without sharing your location. Now on the Find My Friends app, you can easily see the location of the target's iPhone along with its contact icon.
 
 ![don’t share your location with target](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Check Someone’s Location on Apple iPhone XS by iMessage
 
@@ -115,23 +103,55 @@ Another way to track someone's location on Apple iPhone XS is through the iMessa
 
 iMessage has a hidden feature through which you can also know **how to see someone’s location on Apple iPhone XS**. Thus, by using this app, you can easily reach the location of your target's phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to Find Someone’s Location through iMessage
 
 **Step 1:** Grab the target’s iPhone and click to open the iMessage app. Then find your contact name and start a conversation with yourself.
 
 ![open your imessage chat](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="360" height="640" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** Now tap on the contact icon and then click on the info icon from where you would see different options. Tap on "Share My Location" and set the time duration of location sharing. You can set the time for 1 hour, 24 hours, or indefinitely.
 
 ![enable imessage share location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** On your Apple iPhone XS, join the location sharing of the target's phone and do not permit to share your location. Thus, you can easily track the target's location on your Apple iPhone XS via iMessage.
 
 ![observe target location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: Fake Location on Apple iPhone XS to Avoid Others from Tracking You
 
@@ -152,7 +172,10 @@ You can effortlessly hide your current location to prevent others from tracking 
 **3981454** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Ultimate Steps to Use Dr.Fone – Virtual Location
 
@@ -160,34 +183,22 @@ You can effortlessly hide your current location to prevent others from tracking 
 
 Start with launching the Dr.Fone tool on your computer and open the tool to click on "Virtual Location" on its home page.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Connect your Phone**
 
 Now connect your phone to the computer and tap on the option “Get Started” on the computer’s screen. You can check your current location on the map on the new page. You can also click on the icon "Center on" to instantly see your current location on the map.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 3: Enable Teleport Mode**
 
 Now enable the teleport mode by tapping on its icon displayed on the upper right of the screen. Afterward, type the place you want to use a location on the search box and tap on the "Go" option. A pop-up box will display where you click on "Move Here" for confirmation. Now your location has been changed with the place you have selected before so that you can fake your current location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 Through this detailed guide, you can quickly learn **how to quickly see someone’s location on Apple iPhone XS**. For diversity, we have discussed three reliable apps that can help you navigate someone's location accurately. However, if you want to fake your location to prevent others from tracking you, we have recommended Dr.Fone – Virtual Location tool, which works precisely in this scenario.
@@ -198,9 +209,6 @@ GPS (Global Positioning System) is an important utility in this modern age. Afte
 
 As a user with daily traveling, you want to avoid such issues. This article will make things easier because you will find ways and solutions to overcome this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Part 1: What Happens If Your Apple iPhone XS GPS Does Not Work on Apple iPhone XS?
 
 Apple iPhone XS is among the most popular gadget devices in current times. Meanwhile, its GPS function allows users to stay active on the real-time map technology. However, GPS not working on Apple iPhone XSs is a common problem. When this happens, you cannot track pinpoint locations.
@@ -208,12 +216,10 @@ Apple iPhone XS is among the most popular gadget devices in current times. Meanw
 This means you will find difficulty in locating your destination. Moreover, you will not be able to use those applications that rely on GPS technology. For example, a fitness app needs to track your distance and route. Not to forget, a malfunctioning GPS may also drain more battery.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: What Are the Potential Reasons for Apple iPhone XS GPS Not Working?
 
@@ -224,12 +230,27 @@ With GPS, you can track the live locations of your destination in seconds. In fa
 - ****Incorrect Settings:**** It's possible that GPS settings are not properly configured on your Apple iPhone XS. Like, you may have accidentally turned off location services. While using your Apple iPhone XS, turning on and off certain features is common.
 - ****Hardware Issue:**** If your phone is exposed to water or physical damage, this may affect GPS. There may be a hardware issue caused due to this situation. Thus, the GPS antenna or chip may have been damaged.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How To Fix Apple iPhone XS GPS Not Working?
 
 Having an erroneous Apple iPhone XS GPS is not a new thing. But it does bring many inconveniences for the users. After all, you are deprived of live location tracking and positioning. To fix such ****Apple iPhone XS GPS not working**** issues, these ways are ideal solutions:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="1983573">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Way 1: Make Sure GPS Service is Enabled on Apple iPhone XS
 
@@ -243,6 +264,18 @@ A majority of people forget to turn on GPS services on their respective Apple iP
 
 ![activate the location services](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 2: Simple Restart Apple iPhone XS
 
 Restarting an Apple iPhone XS is the ultimate way to rectify underlying problems. Sometimes GPS is not working because of cache or network problems, and restarting Apple iPhone XS can help. For restarting an Apple iPhone XS, these steps will help you:
@@ -254,7 +287,10 @@ Restarting an Apple iPhone XS is the ultimate way to rectify underlying problems
 - ****Step 2:**** Wait for some time till your device gets powered off. After this, hold the “Power” button until the Apple logo appears to restart your device.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Way 3: Force Restart Apple iPhone XS
 
@@ -264,14 +300,13 @@ Sometimes your Apple iPhone XS may get hung up due to an underlying issue. So, w
 - ****Apple iPhone XS 7 or 7 Plus:**** Start by holding the “Sleep/Wake” button and “Volume Down” button at the same time. Afterward, stop holding the buttons and release them when you see the Apple logo.
 - ****Apple iPhone XS 8 and Later:**** Initially, quickly press and release the “Volume Up” button, then perform the same with the “Volume Down” button. After this, press and hold the “Sleep/Wake” button, and release the button once the Apple logo appears.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![force restart Apple iPhone XS](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Way 4: Reset Network Settings
 
@@ -279,15 +314,18 @@ A network connection error is also the reason for ****Apple iPhone XS GPS not wo
 
 - ****Step 1:**** From your Apple iPhone XS, launch “Settings,” scroll down, and move into "General" from the settings menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access the general settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-5.jpg)
 
 - ****Step 2:**** Access the "Transfer or Reset Apple iPhone XS" options, tap the "Reset" option, and select "Reset Network Settings.” Now reset your Apple iPhone XS network settings to default by tapping "Reset Network Settings."
 
 ![tap on reset network settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 5: Reset Location and Privacy Settings
 
 In most scenarios, your location is used on many apps that risk GPS optimal functioning. For this purpose, you need to reset the location to the default factory settings. Thinking about how to do it? Get along with these steps:
@@ -301,7 +339,10 @@ In most scenarios, your location is used on many apps that risk GPS optimal func
 ![choose reset location and privacy](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Way 6: Use Wondershare Dr.Fone to Fix Apple iPhone XS GPS Problems
 
@@ -324,7 +365,10 @@ So, if you have consistent problems with your Apple iPhone XS GPS system, this t
 **3981454** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
@@ -340,9 +384,6 @@ Wondershare Dr.Fone is the most reliable tool for fixing ****Apple iPhone XS GPS
 
 Download and launch Wondershare Dr.Fone's latest version on your computer. Next, select “System Repair” from the “Toolbox” tab and connect your Apple iPhone XS using a USB cable. Select your device type as Apple iPhone XS to proceed further.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![choose the system repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - ****Step 2: Choose Desired Repair Mode****
@@ -351,15 +392,24 @@ Here choose "iOS Repair," and on the next screen, select the desired repair mode
 
 ![proceed with standard repair](https://images.wondershare.com/drfone/guide/ios-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - ****Step 3: Repair the GPS Issue****
 
 After recovery mode is enabled, the platform will automatically detect the Apple iPhone XS device and provide firmware accordingly. Press "Download" against the required firmware to start downloading it. Once the firmware is downloaded, click "Repair Now” to repair GPS not working issue on Apple iPhone XS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![click on repair now](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
 ## Conclusion
@@ -372,18 +422,12 @@ Apparently, this article provides step-by-step procedures to solve ****Apple iPh
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Change Your Location on Apple iPhone XS
 
 There are several situations when you might have to change the location on your Apple iPhone XS. Perhaps you are moving to another region, so you have to make changes with your Apple ID to get App Store access. Or it could be the case that you want to change your region to access a certain application. Whatever your reason is to change your location on the Apple iPhone XS, you have come to the right place. In this post, we have discussed everything you should know about to **spoof location on Apple iPhone XS**.
 
 _**Tips:** Experience the freedom to teleport anywhere with Dr.Fone - Virtual Location! The Fake GPS feature for Apple iPhone XS allows you to break geo limitations and explore the world from your device. Try it now!_
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Part 1: Do you know how does these locations work?
 
 While both terms may sound to you similar, there are certain differences between them. Your smartphone, be it iPhone, Apple iPhone XS or Android is a GPS device. Almost every smartphone comes with a GPS chip. If your device’s location services are enabled, it will interact with the GPS satellites, enabling you and others as well to detect your location to a considerably accurate degree.
@@ -392,17 +436,32 @@ When your device connects to the internet, your internet service provider assign
 
 All we want to say here is that if you want to change the location, then you should know if the location is based on an IP address or GPS app. To help you get started with how to **change location on Apple iPhone XS**, below we have covered every scenario when you might need to do so.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to break the geo-limitation on downloading Apps?
 
 Step 1: On your Apple iPhone XS, go to the App Store app.
 
 Step 2: Click on the “Featured” tab.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![featured tab app store](https://images.wondershare.com/drfone/2023/virtuallocation/featured-tab-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: Now, scroll down to locate your Apple id and tap on it.
 
 ![locate apple id app store](https://images.wondershare.com/drfone/2023/virtuallocation/locate-apple-id-app-store.jpg)
@@ -411,6 +470,12 @@ Step 4: Choose “View Apple ID”. You might be asked to log in to your iTunes 
 
 ![view- apple- id- app store](https://images.wondershare.com/drfone/2023/virtuallocation/view-apple-id-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 5: After that, click “Change Country or Region”.
 
 ![change country app store](https://images.wondershare.com/drfone/2023/virtuallocation/change-country-app-store.jpg)
@@ -439,11 +504,14 @@ Step 1: Run Dr.Fone - Virtual Location on your computer and connect your Apple i
 
 ![drfone virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2: Click “Get Started”. Select “Teleport” mode located at the top right side and it is the first one. Now, you can use the search function to change the location. Once selecting the location, click on “Go”.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone fake location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 Step 3: You have changed the location successfully. And you will be now able to see your new location as a current location on your Apple iPhone XS.
@@ -455,7 +523,10 @@ This will trick your Pokemon Go in believing that you’re somewhere you’re no
 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: How to reset location on social Apps on Apple iPhone XS?
 
@@ -471,9 +542,6 @@ Step 1: Click on the bottom left button (the plus icon). Choose the “Location�
 
 Step 2: To send a fake location, use the search box to enter the new location and select the desired location that search results show.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select fake location whatsapp](https://images.wondershare.com/drfone/2023/virtuallocation/select-fake-location-whatsapp.jpg)
 
 That’s how you can manually set the location on WhatsApp on the Apple iPhone XS. If you don’t want to share your live location, then you can simply fake the location.
@@ -494,6 +562,12 @@ Step 5: Finally, click “Save” and that’s it.
 
 That’s how **to spoof location on Apple iPhone XS** for social media apps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How to use VPN to fake the location?
 
 As your IP is considered as a digital footprint, a VPN enables you to mask your real IP and conceal your identity. It means that absolute online privacy as well as anonymity. VPN connects you to a server of your preference, which enables you to bypass all geo-restrictions for the desired content access. To simply put, a VPN helps you to unblock streaming services such as Amazon Prime, Netflix, etc outside your country and content access worldwide.
@@ -508,11 +582,14 @@ Step 1: Register with NordVPN by going to its official website.
 
 Step 2: Get the NordVPN app on your Apple iPhone XS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![NordVPN download](https://images.wondershare.com/drfone/2023/virtuallocation/NordVPN-download.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: Run the app and sign-in with your login details.
 
 Step 4: Click on Quick Connect and give permissions the app asked to connect to the VPN. In a while, you’ll view a map that shows various servers worldwide.
@@ -521,11 +598,14 @@ Step 5: To change location, select the ‘Map /List” view - you can click on t
 
 ![VPN download](https://images.wondershare.com/drfone/2023/virtuallocation/VPN.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 That’s it. Now, you will be available to access the content that is available in that region.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs You May Want to Know
 
 **1\. How do I [change weather location on Apple iPhone XS](https://drfone.wondershare.com/iphone-location/how-to-change-weather-location-ipad.html)?**

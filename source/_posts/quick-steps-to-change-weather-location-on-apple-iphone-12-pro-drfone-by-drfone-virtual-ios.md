@@ -1,7 +1,7 @@
 ---
 title: Quick Steps to Change Weather Location on Apple iPhone 12 Pro | Dr.fone
-date: 2024-08-07T11:05:23.510Z
-updated: 2024-08-08T11:05:23.510Z
+date: 2024-09-03T23:32:49.841Z
+updated: 2024-09-04T23:32:49.841Z
 tags: 
   - virtual location chang
   - location changer
@@ -28,9 +28,6 @@ In most basic explanation, the Weather app is a tool that helps you determine th
 
 Apart from its well-circulated weather updates, the Apple iPhone 12 Pro’s Weather app has a lot more to offer. Check out the list provided below.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ten-Day Forecast
 
 ![ten day forecast](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-1.JPG)
@@ -38,54 +35,63 @@ Apart from its well-circulated weather updates, the Apple iPhone 12 Pro’s Weat
 Are you planning a particular activity in the coming days? If so, the Ten-Day Forecast feature of Apple iPhone 12 Pro’s Weather app can surely help you in this regard. Basically, it provides estimated predictions on atmospheric conditions, precipitations, and temperature for the next ten days.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Severe Weather Alerts
 
 ![severe weather alert](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-2.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If an extreme weather disturbance is detected in your area, the Weather app will send you an alert straight away. It can be a weather advisory issued by the state meteorological bureau or a flash report from a credible source. That’s why you should ensure the location settings on your Apple iPhone 12 Pro are well-calibrated. If not, take a moment to reconfigure it. There are lots of tutorials out there on how to change weather location on Apple iPhone 12 Pro. One of them can certainly assist you.
 
 ### Maps
 
 ![weather map](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-3.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The Apple iPhone 12 Pro’s Weather app has a map feature that exclusively displays the weather conditions in a specific location. From there, you can view certain atmospheric information, including temperature, precipitation, air quality, and wind conditions. Just make sure that your location is set properly. If you want to replace it, just follow the guide on how to change the weather location on your Apple iPhone 12 Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Air Quality
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![air quality](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-4.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If information regarding air quality is widely available in your country, it will also show up on the Apple iPhone 12 Pro’s Weather app. You can view from there the recorded air quality index in your area together with a rating if it is good or not. At present, we cannot deny that being aware of the air quality around us is indeed essential. It somehow helps us lessen our exposure to harmful pollutants in the atmosphere. That’s why you should take advantage of this feature. Read the tutorial on how to change the weather location on your Apple iPhone 12 Pro and configure your settings. This way, you’ll stay updated on the air quality of the places you will visit going forward.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to Change Weather Location on Apple iPhone 12 Pro?
 
 We have previously learned that location services play a key role in the accuracy and precision of Apple iPhone 12 Pro’s weather reports. That’s why you need to ensure the location settings on your Apple iPhone 12 Pro are well-configured. Don’t worry. In case it needs a few adjustments, there are lots of techniques on how to change weather location on Apple iPhone 12 Pro. Just choose the best one that perfectly suits your situation. Do you want to try it now? Check out the list of methods provided below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Enter the location into the Weather app’s search bar
 
 Let’s say you just need to check the weather conditions in another location. Can you do it without actually going there? The short answer is yes. The Apple iPhone 12 Pro’s Weather app lets you view meteorological updates from various places by simply searching the location on the platform. Here’s how to do it in easy steps.
@@ -110,20 +116,20 @@ Do you have a Weather widget on your Apple iPhone 12 Pro’s home screen? If so,
 - **Step 1:** Find the weather widget on the home screen of your Apple iPhone 12 Pro. Touch and hold it for a few seconds until the hidden menus appear.
 - **Step 2:** Click **Edit Weather.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![edit weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 3:** Click **Location.** From there, enter your desired location into the search bar and choose one from the suggested results.
 
 ![search weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-9.jpg)
 
 - **Step 4:** The location will be then changed immediately on the widget. If the Edit Weather option is unavailable on your end, try to update your iOS first. The Weather app has just been released recently on Apple iPhone 12 Pro. Therefore, Apple is making changes from time to time.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Change weather location on Apple iPhone 12 Pro with <u>Wondershare Dr.Fone.</u>
 
 Is there any other way in case the first two techniques do not bring positive results? Luckily, there is. Wondershare Dr.Fone can absolutely help you with that. It has a potent Virtual Location feature capable of modifying your whereabouts without going outdoors and visiting the actual location. Do you want to try it now? That’s great. Here’s a short guide on how to change weather location on Apple iPhone 12 Pro with the aid of Wondershare Dr.Fone.
@@ -139,15 +145,14 @@ Is there any other way in case the first two techniques do not bring positive re
 
 - **Step 5:** Enter your desired location into the search bar and choose one from the list of suggestions. Right after, click the **Enter** icon to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![search for your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 6:** The details pertaining to your selected location will be displayed on the screen. Check them very carefully and confirm that it is the exact location you’re looking for. Once you’re done verifying the details, click the **Move Here** button below to continue.
 
 ![move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -156,6 +161,18 @@ No advertising on the website.
 
 **NOTE:** If you wish to restore the original location settings of your Apple iPhone 12 Pro, simply disconnect it from the computer and restart it.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Is the Weather App on Apple iPhone 12 Pro Really Helpful?
 
 It’s fair to say that Weather is not a primary iOS application. You can continue with your usual routine even without it. However, we cannot deny the fact that it’s there for a reason. All we know for now is that the Weather app helps us stay updated with the latest meteorological forecast. But we don’t know what’s waiting ahead. Maybe the Weather app would soon become a paramount component of an upcoming iOS feature. Is it possible to happen in the future? We’re not sure yet. But one way or another, it’s best to keep Weather up and running on our Apple iPhone 12 Pro.
@@ -164,9 +181,6 @@ It’s fair to say that Weather is not a primary iOS application. You can contin
 
 It doesn’t take much to follow the tutorials above on how to change weather location on Apple iPhone 12 Pro. Most of them can instantly be conducted and finished with just the snap of a finger. That’s why you should regularly calibrate its location settings and make sure that it’s showing appropriate weather reports. Who knows? Keeping tabs on the atmospheric conditions around your local area can help you in a specific way you don’t actually expect. For instance, severe weather alerts are definitely capable of preventing you from running or driving toward a bad storm. Another thing is that the Weather’s Ten-Day Forecast feature can help you organize your weekly schedules accordingly. For sure, Weather has a lot more to offer. Thus, try to explore it once in a while and take advantage of the benefits.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 By default, the Apple iPhone 12 Pro’s Weather app uses your current location for updates and reports. You don’t have to do anything if your location settings are configured properly. But just in case you need to change your location for various reasons, you can do it very easily. The tutorials above on how to change weather location on Apple iPhone 12 Pro can surely help you with that. Follow the steps indicated and finish the instructions accordingly. For a more convenient and extremely effective approach, try to download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). It offers a powerful Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Don’t worry. It’s very easy to use. You just have to connect your Apple iPhone 12 Pro to the computer and calibrate the location settings from there. In a minute or two, the location on your device will be then changed according to your choice.
@@ -174,7 +188,16 @@ By default, the Apple iPhone 12 Pro’s Weather app uses your current location f
 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to See Someone’s Location on Apple iPhone 12 Pro
 
@@ -182,55 +205,100 @@ Locating someone’s iPhone may sound strange, but it can serve the purpose in v
 
 This article will address three methods for **seeing someone’s location on Apple iPhone 12 Pro** accurately and within no time. Moreover, we will also recommend a third-party tool to fake your location to prevent others from tracking you.
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to See Someone’s Location on Apple iPhone 12 Pro using Find My iPhone
 
 [Find My iPhone](https://www.apple.com/icloud/find-my/) is one of the popular apps to locate iPhones effectively. iPhone users utilize this app to navigate lost or stolen phones efficiently. Through this app, you can also learn **how to check someone's location on Apple iPhone 12 Pro** through their iCloud. First, make sure to activate Find My Apple iPhone 12 Pro feature in the target’s iCloud settings. After that, you can easily see the targets’ location on your Apple iPhone 12 Pro from your screen with a few clicks.
 
 ![find my iphone interface](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to See Someone’s Location on Apple iPhone 12 Pro through Find My iPhone
 
 **Step 1:** Initiate activating the feature of Find My iPhone on the target’s phone. For this, navigate to the “Settings” of the target iPhone. Then find and click on the option of “iCloud," where you will see the feature "Find My iPhone." Next, turn on its toggle by tapping on it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable find my iphone](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-2.jpg)
 
 **Step 2:** Now, you are ready to locate the target's iPhone location anytime you wish. To do so, access the official website of iCloud and log in to the target’s iCloud account carefully.
 
 ![login to target icloud](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** A new window will appear on your screen from where you click on the option "Find My iPhone." Now you can see all of the iOS devices attached to this account. Choose the Apple iPhone 12 Pro device from the options you want to locate on the map.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![track iphone location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Other Features
 
 Find My iPhone offers numerous other features that can help you to find lost or stolen phones effortlessly. Through this app, you can play a sound on your lost iPhone for 2 minutes, even if the iPhone is on silent mode. You can also get easy and clear directions through this app towards the exact location of your phone. Moreover, if your Apple iPhone 12 Pro gets stolen, you can lock your device through a passcode and can erase all the data from it with a single click.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Find Someone’s Location on Apple iPhone 12 Pro via Find My Friends
 
 [Find My Friends](https://apps.apple.com/us/app/find-my-friends/id466122094) is another helpful app through which you can track someone’s location easily. Your friends and family members can share their location through this app, and they can also start following your location simultaneously. Moreover, you can set location-based alarms in case you have to pick up someone from the school or airport.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![find my friends ios app](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Through this particular app, you can also try **how to find someone’s location on Apple iPhone 12 Pro** efficiently. First, however, you should be remindful of the following two factors before locating someone’s location on Apple iPhone 12 Pro through this app:
 
 - The suitable users for locating someone’s location on Apple iPhone 12 Pro are those who have an evident reach to the target’s iPhone and are also included in the contact list of that particular phone.
 - Through this app, you cannot observe someone's location in an incognito mode as the target iPhone owner can easily check if someone is navigating their location once they open the Find My Friends app. Also, a notification will pop up on the target's iPhone regarding their shared location.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<span id="1834903">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Steps on How to Track Someone’s iPhone via Find My Friends
 
@@ -238,15 +306,24 @@ Through this particular app, you can also try **how to find someone’s location
 
 ![open find friends app](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** After installing the app on the target's phone, open it and tap on the contact picture to activate the toggle called "Share My Location."
 
 ![enable share my location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-8.jpg)
 
 **Step 3:** To begin sharing the location of the target's phone to your device, swipe up on your Apple iPhone 12 Pro to use AirDrop and make your Apple iPhone 12 Pro discoverable by clicking on "Everyone." Tap "Add" on the target device and then choose the option of "Share Indefinitely."
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![select the location sharing time](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-9.jpg)
 
 **Step 4:** You would receive a notification message asking for permission to accept the target's location and share your location on your Apple iPhone 12 Pro. Tap on "Don't share" to locate the target's phone without sharing your location. Now on the Find My Friends app, you can easily see the location of the target's iPhone along with its contact icon.
@@ -254,7 +331,10 @@ Through this particular app, you can also try **how to find someone’s location
 ![don’t share your location with target](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Check Someone’s Location on Apple iPhone 12 Pro by iMessage
 
@@ -263,28 +343,43 @@ Another way to track someone's location on Apple iPhone 12 Pro is through the iM
 iMessage has a hidden feature through which you can also know **how to see someone’s location on Apple iPhone 12 Pro**. Thus, by using this app, you can easily reach the location of your target's phone.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Steps to Find Someone’s Location through iMessage
 
 **Step 1:** Grab the target’s iPhone and click to open the iMessage app. Then find your contact name and start a conversation with yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open your imessage chat](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="540" height="540" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** Now tap on the contact icon and then click on the info icon from where you would see different options. Tap on "Share My Location" and set the time duration of location sharing. You can set the time for 1 hour, 24 hours, or indefinitely.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable imessage share location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-12.jpg)
 
 **Step 3:** On your Apple iPhone 12 Pro, join the location sharing of the target's phone and do not permit to share your location. Thus, you can easily track the target's location on your Apple iPhone 12 Pro via iMessage.
 
 ![observe target location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Fake Location on Apple iPhone 12 Pro to Avoid Others from Tracking You
 
 You can effortlessly hide your current location to prevent others from tracking your location unnecessarily. To do so, use Dr.Fone – Virtual Location, which can easily fake your location so that nobody can access your exact location. Furthermore, with a single click, you can set your phone's GPS anywhere. Hence, you can travel across the globe without leaving your home via this excellent app.
@@ -292,7 +387,10 @@ You can effortlessly hide your current location to prevent others from tracking 
 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Dr.Fone - Virtual Location
 
@@ -306,6 +404,12 @@ You can effortlessly hide your current location to prevent others from tracking 
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ultimate Steps to Use Dr.Fone – Virtual Location
 
 **Step 1: Select Virtual Location**
@@ -324,17 +428,15 @@ Now connect your phone to the computer and tap on the option “Get Started” o
 
 Now enable the teleport mode by tapping on its icon displayed on the upper right of the screen. Afterward, type the place you want to use a location on the search box and tap on the "Go" option. A pop-up box will display where you click on "Move Here" for confirmation. Now your location has been changed with the place you have selected before so that you can fake your current location.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Conclusion
 
@@ -342,15 +444,18 @@ Through this detailed guide, you can quickly learn **how to quickly see someone�
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12 Pro
 
 With the advent of digitalization in everything, GPS is one feature that has taken world by the storm. There are abundance of apps and websites that demand location for better exposure and services according to the current location. Apple always does the best for keeping the privacy and security features and allows users to have control over location permissions.
 
 Many of the iOS users wonder about “how do I stop someone from tracking my Apple iPhone 12 Pro”. Though the saved locations are not sent to the Apple servers, but for some, privacy is everything. If you are one of those who chooses privacy over anything and doesn’t wish to share location with anyone else, this article deals with the same. We will help you know how to stop tracking on Apple iPhone 12 Pro in different ways.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Importance of Keeping Location Data Private
 
 Considering why keeping privacy is never a bad idea. And of course you have contemplated upon this thing. That is why you felt the need of stopping tracking on Apple iPhone 12 Pro and you are here. Well! In this section, we feel the need to explain more about why you should keep the location privacy in your bucket list. So, before we proceed towards the different ways to stop someone tracking your Apple iPhone 12 Pro, we suggest you to read this part.
@@ -362,6 +467,12 @@ Considering why keeping privacy is never a bad idea. And of course you have cont
 
 Thus, to avoid such bothersome situations, keeping the location data private becomes essential. And now that you know the importance, let us understand how to stop tracking on Apple iPhone 12 Pro
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Switch to a Virtual Location to Stop Someone from Tracking your Apple iPhone 12 Pro
 
 When you want to stop someone tracking your Apple iPhone 12 Pro, why just turning off the tracking option. Why not you try to misguide people and have fun? With the assistance of a tool namely [Dr.Fone – Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) that aims on keeping privacy, you can surely do that. The tool can help you changing your location and you can teleport anywhere you want. Using this, you can easily mock location in just 1 click. Here is how to use this tool to serve the purpose.
@@ -374,11 +485,20 @@ When you want to stop someone tracking your Apple iPhone 12 Pro, why just turnin
 
 To start the process, you are required to get the Dr.Fone – Virtual Location (iOS) downloaded in your PC. Install it eventually and then launch it. Once it is launched successfully, click on the “Virtual Location” tab given in the main interface.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![launch Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2: Connect the Apple iPhone 12 Pro device**
 
 Take help of your lightening cable and connect the Apple iPhone 12 Pro to the computer. Upon successful connection, hit on the “Get Started” button.
@@ -389,22 +509,12 @@ Take help of your lightening cable and connect the Apple iPhone 12 Pro to the co
 
 From the following window, you will be able to notice the actual location of yours on the map. In case you aren’t able to, you can go for the “Center On” icon which can be found in the lower right of the screen. This will help you show the appropriate location.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![show gps location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 4: Activate Teleport Mode**
 
 To do this, simply go to the third icon in the upper right corner of the screen. This “Teleport Mode” icon will let you teleport anywhere you want. Now, you just have to input the name of the place in the filed given and click “Go”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 5: Change Location**
@@ -423,12 +533,14 @@ If the above method didn’t suit you, this is how you can turn off tracking on 
 
 ![disable location](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** Now, go for the “Location Services” and tap on it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Location Services](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-2.jpg)
 
 **Step 3:** Slide the switch next to “Location Services” to turn the locations off.
@@ -436,7 +548,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![use the switch](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 3: Disable location tracking of specific apps
 
@@ -450,6 +565,12 @@ In the above section, you have stopped tracking on Apple iPhone 12 Pro entirely 
 
 ![make adjustments](https://images.wondershare.com/drfone/article/2019/09/disable-location-specific-apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The first option will never send your location to the apps. Second option will use your location only when you use the particular app. And as it suggests itself, by choosing the “Always” option will always track your location.
 
 ## Method 4: Disable Significant Locations on Apple iPhone 12 Pro
@@ -462,10 +583,6 @@ Apart from the apps, Apple iPhone 12 Pro itself keeps record of where you travel
 
 **Step 3:** After this, click on the “System Services” from the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![System Services](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-1.jpg)
 
 **Step 4:** Look for “Significant Locations”. You will be prompted to use your password or touch ID to access the feature. Do it right away.
@@ -474,6 +591,12 @@ Apart from the apps, Apple iPhone 12 Pro itself keeps record of where you travel
 
 ![Significant Locations](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Disable Share My Location service
 
 The feature “Share My Locations” enables you to share your locations with your family and friends. They can get to know your current location through apps like Find My Friends if this feature is turned on. So, if your concern is “how to stop my parents from tracking my Apple iPhone 12 Pro”, you can turn this off. The steps are mentioned below. Follow them and stop worrying if someone is tracking you or not.
@@ -484,9 +607,6 @@ The feature “Share My Locations” enables you to share your locations with yo
 
 ![turn off Share My Location](https://images.wondershare.com/drfone/article/2019/09/disable-share-my-location.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 6: Disable location-based notifications or alerts
 
 iPhone provides three kinds of location based services. These include the services regarding alerts, Apple ads and suggestions. If this feature is turned on, you may get the notifications, suggestions or iAds according to what is best for your location. If this bothers you and you don’t want this to happen, you can turn it off by following steps below. This is how to turn off tracking on Apple iPhone 12 Pro in terms of location-based alerts and notifications:
@@ -497,14 +617,8 @@ iPhone provides three kinds of location based services. These include the servic
 
 **Step 3:** Subsequently, you can disable the location based services or alerts as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![disable the location services or alerts](https://images.wondershare.com/drfone/article/2019/09/disable-location-based-alerts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 We are concluding the topic here with a great hope that you now are well informed about how to stop someone from tracking your Apple iPhone 12 Pro. We have provided different ways for different situations. Hope you liked our efforts. If you have any doubts or questions, please leave a comment below. Also, if your friend or near one who is in trouble and want to stop someone tracking their Apple iPhone 12 Pro, don’t hesitate sharing this. Tell us how you feel about today’s topic and stay tuned for more interesting updates.

@@ -1,7 +1,7 @@
 ---
 title: 3 Smart and Simple Ways to Change Home Address on Apple iPhone 12 Pro | Dr.fone
-date: 2024-08-07T11:03:33.554Z
-updated: 2024-08-08T11:03:33.554Z
+date: 2024-09-03T23:32:45.205Z
+updated: 2024-09-04T23:32:45.205Z
 tags: 
   - virtual location chang
   - location changer
@@ -18,14 +18,8 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 Have you recently been relocated to somewhere else or are tired of entering your Home address on Maps every day? Well, to save your time, why not add or change your home address on Apple iPhone 12 Pro. In this way, you can easily start your commute and share your address with others on the go. The good thing is that the provision to change home address in Apple iPhone 12 Pro is available for both Apple and Google Maps. Let’s get started and learn how to change home address on Apple iPhone 12 Pro like a pro!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![change home address Apple iPhone 12 Pro 1](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Change Home Address in Apple Maps on Apple iPhone 12 Pro
 
 Apple has developed a native navigation application that comes inbuilt in every Apple iPhone 12 Pro model. A lot of users take the assistance of Apple Maps to navigate, share their location, and do so much more. If you want, you can add or change your home address on Apple Maps and even mark certain locations as favorite. To learn how to change home address on Apple iPhone 12 Pro 11, X, XR, 8, and other models, follow these steps:
@@ -34,9 +28,6 @@ Step 1. Since Apple Maps doesn’t have a native option to change home address, 
 
 Step 2. This will list out detailed information about you. You can review the fields and to make any changes, tap on the “Edit” button from the top.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![change home address Apple iPhone 12 Pro 2](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-2.jpg)
 
 Step 3. This will further list various fields and would give you an option to edit them. You can scroll down and tap on the Edit button nearby the home address to change it.
@@ -53,10 +44,6 @@ Step 6. After selecting the location, swipe up to get more options related to th
 
 ![change home address Apple iPhone 12 Pro 6](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Part 2: How to Change Home Address in Apple iPhone 12 Pro Autofill?
 
 Sometimes, changing the home address on Apple Maps is not enough. For instance, if you use Safari, then you might be familiar with the autofill feature. While filling a form in Safari, it would automatically detect the fields and will enter the relevant information on its own. Therefore, if you have changed your home address on Maps, then it is recommended to reflect that on Safari as well. In this way, the application can enter your changed address while autofilling a form. Here’s a simple tweak that you can do to change home address in Apple iPhone 12 Pro autofill.
@@ -69,14 +56,8 @@ Step 3. Here, you can view details related to the automatic filling of contacts,
 
 Step 4. Now, tap on the “My Info” option to view your details like name, email, address, and so on. Just go to the “Address” field and manually enter your new address to change it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![change home address Apple iPhone 12 Pro 7](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Change Home Address in Google Maps on Apple iPhone 12 Pro?
 
 While Apple Maps is the native navigation application in Apple iPhone 12 Pro, a lot of people also prefer using Google Maps. Already used by over a billion people worldwide, Google Maps is the most popular and reliable navigation app in the world that runs on Android and Apple iPhone 12 Pro alike. Though, unlike Apple Maps, Google Maps lets us save our home, work, or any other addresses in the app itself. In this way, you can easily share your address with others and select your home address for commuting. To learn how to change home address on Apple iPhone 12 Pro’s Google Maps app, just follow these steps:
@@ -87,32 +68,44 @@ Step 2. Once Google Maps is launched, tap on the hamburger icon at the top-left 
 
 ![change home address Apple iPhone 12 Pro 8](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3. This will list out all the saved addresses on the screen like your home, work, etc. To add or change your home address, you can just tap on the “Home” field here.
 
 Step 4. Now, all you got to do is tap on the search bar and enter your home address so that Google Maps would automatically load it. You can also tap on the “Choose on Map” field to find the home address easily on Google Maps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![change home address Apple iPhone 12 Pro 9](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 5. That’s it! You can now save the changes you have made and review them whenever you want. To make any changes to it, you can just tap on the three-dot icon adjacent to the Home button. This will let you edit your home address, remove it, and add directions.
 
 ![change home address Apple iPhone 12 Pro 10](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="234" height="30" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 That’s a wrap, everyone! I’m sure that after reading this guide you would be able to change home address on Apple iPhone 12 Pro like a pro. To make things easier for you, I have come up with a step-by-step tutorial on how to change home address on Apple iPhone 12 Pro via Apple Maps as well as Google Maps. Furthermore, I have also listed a smart solution to change your address in Safari’s autofill to save your time. Well, this is what I did when I wanted to know how do I change my home address on Apple iPhone 12 Pro a while back. You can follow this drill and share this guide with others to teach them the same.
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -126,7 +119,10 @@ That’s a wrap, everyone! I’m sure that after reading this guide you would be
 **3981454** people have downloaded it
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Does PokeGo++ still work on Apple iPhone 12 Pro/iPad?
 
@@ -134,9 +130,6 @@ Pokemon Go players always look forward to cheats and hacks that can help them ca
 
 One such cheat/hack, that has helped many iOS users collect Pokemon in the past, is PokeGo++. If you’ve been planning to use PokeGo++ to catch rare Pokemon, continue reading; this guide will provide you a deep insight into PokeGo++ and whether you can use it in 2021 or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Part 1: What is Pokego++?
 
 If you’re new to the Pokemon Go world and haven’t heard about PokeGo++, here’s what you need to know. It’s basically a hacked IPA version of the original Pokemon Go that comes with a built-in joystick feature. You can use this feature to teleport your location to anywhere in the world and catch a wide variety of Pokemon without even walking a single step.
@@ -147,6 +140,12 @@ PokeGo++ was developed by the developers at Global++ to give users leverage and 
 
 It’s worth noting that PokeGo++ was released for both Android and iOS. Apple iPhone 12 Pro/iPad users could use PokeGo++ via Cydia Impactor. On the other hand, PokeGo++ Android could be installed using Fly GPS. For users who don’t know, Cydia Impactor is a dedicated iOS tool that lets users install and run sideload apps on the iDevice without having to jailbreak it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Where Can I get PokeGo ++
 
 So, let’s get to the real question, i.e., does PokeGo++ still work. Unfortunately, the answer is “No”, PokeGo++ is neither available for iOS nor Android. Back in 2019, when the majority of users started switching to PokeGo++, Niantic filed a lawsuit against Global++. They claimed that the hacked version of Pokemon Go gives an unfair advantage to some users. In addition to this, Niantic also stated that PokeGo++ was developed by infringing on Niantic’s intellectual property rights.
@@ -176,6 +175,18 @@ So, if you are also ready to use the best PokeGo++ alternative, here’s the det
 
 That’s it; when you’ll launch Pokemon Go, you’ll automatically notice different streets. At this point, you can enable “GPS Joystick” and easily control your movement without walking at all.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="360" height="640" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Despite being a pretty useful tweaked version of Pokemon Go, PokeGO++ is not available anymore. However, if you still want to catch different types of Pokemon in the game, you can use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) to set a fake GPS location in the game. And, if you are an Android user, you can directly download any of the GPS Joystick apps on your smartphone and use it to manipulate the smartphone’s GPS location easily.
@@ -191,7 +202,10 @@ With the advent of digitalization in everything, GPS is one feature that has tak
 Many of the iOS users wonder about “how do I stop someone from tracking my Apple iPhone 12 Pro”. Though the saved locations are not sent to the Apple servers, but for some, privacy is everything. If you are one of those who chooses privacy over anything and doesn’t wish to share location with anyone else, this article deals with the same. We will help you know how to stop tracking on Apple iPhone 12 Pro in different ways.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Importance of Keeping Location Data Private
 
@@ -204,6 +218,18 @@ Considering why keeping privacy is never a bad idea. And of course you have cont
 
 Thus, to avoid such bothersome situations, keeping the location data private becomes essential. And now that you know the importance, let us understand how to stop tracking on Apple iPhone 12 Pro
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Switch to a Virtual Location to Stop Someone from Tracking your Apple iPhone 12 Pro
 
 When you want to stop someone tracking your Apple iPhone 12 Pro, why just turning off the tracking option. Why not you try to misguide people and have fun? With the assistance of a tool namely [Dr.Fone – Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) that aims on keeping privacy, you can surely do that. The tool can help you changing your location and you can teleport anywhere you want. Using this, you can easily mock location in just 1 click. Here is how to use this tool to serve the purpose.
@@ -218,6 +244,12 @@ To start the process, you are required to get the Dr.Fone – Virtual Location (
 
 ![launch Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2: Connect the Apple iPhone 12 Pro device**
 
 Take help of your lightening cable and connect the Apple iPhone 12 Pro to the computer. Upon successful connection, hit on the “Get Started” button.
@@ -228,9 +260,6 @@ Take help of your lightening cable and connect the Apple iPhone 12 Pro to the co
 
 From the following window, you will be able to notice the actual location of yours on the map. In case you aren’t able to, you can go for the “Center On” icon which can be found in the lower right of the screen. This will help you show the appropriate location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![show gps location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 4: Activate Teleport Mode**
@@ -243,13 +272,16 @@ To do this, simply go to the third icon in the upper right corner of the screen.
 
 You can now easily stop tracking on Apple iPhone 12 Pro by deceiving your location as the program will understand your desired location. You can click on the “Move Here” option from the pop-up. It will change the location and now, any of the location based app in your Apple iPhone 12 Pro will show the selected location.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stop tracking on Apple iPhone 12 Pro](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Disable location tracking of Apple iPhone 12 Pro completely
 
 If the above method didn’t suit you, this is how you can turn off tracking on Apple iPhone 12 Pro. Using this method, you will end up deactivating the location services of Apple iPhone 12 Pro completely. The steps are no rocket science and with just one toggling, you can reach to what you want. By doing this, any app in the Apple iPhone 12 Pro that uses your location will be of no use. For instance, the maps, Find My Friends and Find My Apple iPhone 12 Pro apps will not be able to track your location. Also, you will stop anyone from tracking you this way. Here are the steps on how to stop tracking on Apple iPhone 12 Pro completely:
@@ -260,15 +292,36 @@ If the above method didn’t suit you, this is how you can turn off tracking on 
 
 **Step 2:** Now, go for the “Location Services” and tap on it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Location Services](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** Slide the switch next to “Location Services” to turn the locations off.
 
 ![use the switch](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Disable location tracking of specific apps
 
 In the above section, you have stopped tracking on Apple iPhone 12 Pro entirely which means any of the location based app or service won’t be able to locate you. Nevertheless, completely turning it off can sometimes be useless as there are some apps that need the tracking of your location so as to give you better experience. As a solution for this, you can follow the steps below and can turn off location for specific apps only. Here is how to stop tracking on Apple iPhone 12 Pro for specific apps.
@@ -279,11 +332,14 @@ In the above section, you have stopped tracking on Apple iPhone 12 Pro entirely 
 
 **Step 3:** Select the apps and make adjustments according to your preferences. You can choose among “Never”, “While Using the App” and “Always”.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make adjustments](https://images.wondershare.com/drfone/article/2019/09/disable-location-specific-apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The first option will never send your location to the apps. Second option will use your location only when you use the particular app. And as it suggests itself, by choosing the “Always” option will always track your location.
 
 ## Method 4: Disable Significant Locations on Apple iPhone 12 Pro
@@ -296,9 +352,6 @@ Apart from the apps, Apple iPhone 12 Pro itself keeps record of where you travel
 
 **Step 3:** After this, click on the “System Services” from the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![System Services](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-1.jpg)
 
 **Step 4:** Look for “Significant Locations”. You will be prompted to use your password or touch ID to access the feature. Do it right away.
@@ -308,7 +361,10 @@ Apart from the apps, Apple iPhone 12 Pro itself keeps record of where you travel
 ![Significant Locations](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 5: Disable Share My Location service
 
@@ -318,14 +374,8 @@ The feature “Share My Locations” enables you to share your locations with yo
 
 **Step 2:** Look for the “Share My Location” and toggle it off.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![turn off Share My Location](https://images.wondershare.com/drfone/article/2019/09/disable-share-my-location.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Method 6: Disable location-based notifications or alerts
 
 iPhone provides three kinds of location based services. These include the services regarding alerts, Apple ads and suggestions. If this feature is turned on, you may get the notifications, suggestions or iAds according to what is best for your location. If this bothers you and you don’t want this to happen, you can turn it off by following steps below. This is how to turn off tracking on Apple iPhone 12 Pro in terms of location-based alerts and notifications:
@@ -338,6 +388,12 @@ iPhone provides three kinds of location based services. These include the servic
 
 ![disable the location services or alerts](https://images.wondershare.com/drfone/article/2019/09/disable-location-based-alerts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 We are concluding the topic here with a great hope that you now are well informed about how to stop someone from tracking your Apple iPhone 12 Pro. We have provided different ways for different situations. Hope you liked our efforts. If you have any doubts or questions, please leave a comment below. Also, if your friend or near one who is in trouble and want to stop someone tracking their Apple iPhone 12 Pro, don’t hesitate sharing this. Tell us how you feel about today’s topic and stay tuned for more interesting updates.
