@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix the Apple iPhone 11 Pro GPS not Working Issue | Dr.fone
-date: 2024-09-12T23:18:50.525Z
-updated: 2024-09-14T17:37:16.893Z
+date: 2024-09-24T22:59:12.975Z
+updated: 2024-09-26T07:23:16.263Z
 tags: 
   - virtual location chang
   - location changer
@@ -91,19 +91,6 @@ In most scenarios, your location is used on many apps that risk GPS optimal func
 
 ![select the general option](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - ****Step 2:**** Now press the "Transfer or Reset Apple iPhone 11 Pro" option from General. From the next screen, choose the "Reset" option, and select "Reset Location & Privacy." After pressing "Reset Settings," your device location settings will reset to default.
 
 ![choose reset location and privacy](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-8.jpg)
@@ -166,6 +153,13 @@ Have you recently been relocated to somewhere else or are tired of entering your
 
 ![change home address Apple iPhone 11 Pro 1](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Change Home Address in Apple Maps on Apple iPhone 11 Pro
 
 Apple has developed a native navigation application that comes inbuilt in every Apple iPhone 11 Pro model. A lot of users take the assistance of Apple Maps to navigate, share their location, and do so much more. If you want, you can add or change your home address on Apple Maps and even mark certain locations as favorite. To learn how to change home address on Apple iPhone 11 Pro 11, X, XR, 8, and other models, follow these steps:
@@ -179,6 +173,13 @@ Step 2. This will list out detailed information about you. You can review the fi
 Step 3. This will further list various fields and would give you an option to edit them. You can scroll down and tap on the Edit button nearby the home address to change it.
 
 ![change home address Apple iPhone 11 Pro 3](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4. In case you haven’t added any address, then just tap on the “Add address” button. This will let you enter your address and locate it on the map. Later, you can label it as Home, Work, and so on.
 
@@ -213,6 +214,13 @@ Step 1. To start with, just unlock your Apple iPhone 11 Pro and launch the Googl
 Step 2. Once Google Maps is launched, tap on the hamburger icon at the top-left corner to get more options (like your places, timeline, and more). From here, just tap on the “Your Places” feature.
 
 ![change home address Apple iPhone 11 Pro 8](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3. This will list out all the saved addresses on the screen like your home, work, etc. To add or change your home address, you can just tap on the “Home” field here.
 
@@ -260,27 +268,27 @@ Step 2: Click on the “Featured” tab.
 
 ![featured tab app store](https://images.wondershare.com/drfone/2023/virtuallocation/featured-tab-app-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Now, scroll down to locate your Apple id and tap on it.
 
 ![locate apple id app store](https://images.wondershare.com/drfone/2023/virtuallocation/locate-apple-id-app-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4: Choose “View Apple ID”. You might be asked to log in to your iTunes store.
 
 ![view- apple- id- app store](https://images.wondershare.com/drfone/2023/virtuallocation/view-apple-id-app-store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5: After that, click “Change Country or Region”.
 
@@ -294,9 +302,23 @@ Step 7: Agree with Terms and Conditions and enter your billing info. If there is
 
 ![bill info app store](https://images.wondershare.com/drfone/2023/virtuallocation/bill-info-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 8: Finally, click “Done” and that’s it.
 
 Your App store will be set to the selected region and you can now get the geo-restricted apps on your Apple iPhone 11 Pro. That’s how to **change location on Apple iPhone 11 Pro** to get the apps that are not available in your region.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to fake GPS on Pokemon Go on Apple iPhone 11 Pro?
 
@@ -320,13 +342,6 @@ Step 3: You have changed the location successfully. And you will be now able to 
 
 This will trick your Pokemon Go in believing that you’re somewhere you’re not. That’s how to **fake GPS Apple iPhone 11 Pro Pokemon Go**. Get ready to enjoy the game from the comfort of your home.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to reset location on social Apps on Apple iPhone 11 Pro?
 
 What about social apps such as WhatsApp and Facebook? Well, you can manually set the location on social apps. There are several situations when you want to fake your location on social apps. There’s no doubt that if there are two social platforms that have gained huge popularity on the market, then they are WhatsApp and Facebook. So, below we are going to focus on these social apps.
@@ -342,13 +357,6 @@ Step 1: Click on the bottom left button (the plus icon). Choose the “Location�
 Step 2: To send a fake location, use the search box to enter the new location and select the desired location that search results show.
 
 ![select fake location whatsapp](https://images.wondershare.com/drfone/2023/virtuallocation/select-fake-location-whatsapp.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That’s how you can manually set the location on WhatsApp on the Apple iPhone 11 Pro. If you don’t want to share your live location, then you can simply fake the location.
 
@@ -414,6 +422,13 @@ Yes, you might encounter issues in certain apps if you change location on your A
 
 If you have faked your location on your Apple iPhone 11 Pro for certain games and applications, check the settings of your location spoofer. Within the app settings, you can revert to your actual location. Apart from that, if you are using a VPN to change location, disconnect from it. Upon turning it off, your device will return to the real location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 In this guide, you have learned how to **change location on the Apple iPhone 11 Pro** in different scenarios. Changing or faking a location on an Apple iPhone 11 Pro is easy when you know the right way to do so. We hope that our guide has helped you to spoof GPS location on your Apple iPhone 11 Pro. When it comes to tricking location-based apps such as Pokemon Go, [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) comes in handy. So, give a try it now for free.
@@ -430,5 +445,19 @@ In this guide, you have learned how to **change location on the Apple iPhone 11 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-a-kinemaster-editors-roadmap-for-flawless-transitions-for-2024/"><u>[New] A Kinemaster Editor's Roadmap for Flawless Transitions for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-foundations-of-easing-volume-control-in-audition/"><u>[New] Foundations of Easing Volume Control in Audition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-securing-comfort-in-vr-experiences-for-2024/"><u>[Updated] Securing Comfort in VR Experiences for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-ultimate-list-best-trivia-shows-for-general-knowledge-24/"><u>2024 Approved The Ultimate List - Best Trivia Shows for General Knowledge, '24</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-se-2020ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone SE (2020)/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 15/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-7ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 7/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/eco-friendly-visual-aids-no-cost/"><u>Eco-Friendly Visual Aids - No Cost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-unmatched-gaming-at-a-bargain-with-the-ibuypower-custom-pc-comprehensive-analysis/"><u>Experience Unmatched Gaming at a Bargain with the Ibuypower Custom PC - Comprehensive Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-se-2022ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone SE (2022)/iPad | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Honor Magic 5 Lite | Dr.fone</u></a></li>
+</ul></div>
 
