@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix the Apple iPhone 12 GPS not Working Issue | Dr.fone
-date: 2024-09-20T06:34:20.852Z
-updated: 2024-09-26T07:26:57.808Z
+date: 2024-09-30T20:38:54.993Z
+updated: 2024-10-06T05:39:25.498Z
 tags: 
   - virtual location chang
   - location changer
@@ -25,13 +25,6 @@ As a user with daily traveling, you want to avoid such issues. This article will
 Apple iPhone 12 is among the most popular gadget devices in current times. Meanwhile, its GPS function allows users to stay active on the real-time map technology. However, GPS not working on Apple iPhone 12s is a common problem. When this happens, you cannot track pinpoint locations.
 
 This means you will find difficulty in locating your destination. Moreover, you will not be able to use those applications that rely on GPS technology. For example, a fitness app needs to track your distance and route. Not to forget, a malfunctioning GPS may also drain more battery.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: What Are the Potential Reasons for Apple iPhone 12 GPS Not Working?
 
@@ -57,6 +50,19 @@ A majority of people forget to turn on GPS services on their respective Apple iP
 - ****Step 2:**** Press “Privacy & Security” and turn on “Location Services” to enable GPS. You can also enable location for other apps from the same settings.
 
 ![activate the location services](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 2: Simple Restart Apple iPhone 12
 
@@ -86,16 +92,16 @@ A network connection error is also the reason for ****Apple iPhone 12 GPS not wo
 
 ![access the general settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - ****Step 2:**** Access the "Transfer or Reset Apple iPhone 12" options, tap the "Reset" option, and select "Reset Network Settings.” Now reset your Apple iPhone 12 network settings to default by tapping "Reset Network Settings."
 
 ![tap on reset network settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 5: Reset Location and Privacy Settings
 
@@ -108,6 +114,13 @@ In most scenarios, your location is used on many apps that risk GPS optimal func
 - ****Step 2:**** Now press the "Transfer or Reset Apple iPhone 12" option from General. From the next screen, choose the "Reset" option, and select "Reset Location & Privacy." After pressing "Reset Settings," your device location settings will reset to default.
 
 ![choose reset location and privacy](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 6: Use Wondershare Dr.Fone to Fix Apple iPhone 12 GPS Problems
 
@@ -126,13 +139,6 @@ So, if you have consistent problems with your Apple iPhone 12 GPS system, this t
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -168,13 +174,6 @@ GPS is an important feature to have in this modern world. After all, it keeps a 
 
 Apparently, this article provides step-by-step procedures to solve ****Apple iPhone 12 GPS**** issues in different ways. Among the different ways shared, Wondershare Dr.Fone is the most trusted solution for your device. So, if you don't get reliable solutions from other ways, Wondershare Dr.Fone is available. If you want to explore further solutions, such as [fake GPS location](https://drfone.wondershare.com/virtual-location/spoof-grindr-gps-ios.html), [Dr.Fone Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is also available now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable, Disable, and Change Safari Location on Apple iPhone 12
 
 It is quite a common experience where everyone would have gone through “Annoying pop-ups during your serious search’. It is a natural phenomenon but it becomes a distracting one at the time of emergency works.
@@ -207,31 +206,18 @@ In the ‘Privacy’ window, you have to select ‘Location Services’ option a
 
 ![safari location services](https://images.wondershare.com/drfone/2023/virtuallocation/safari-location-services.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Alter the Safari location services
 
 You have to tap the ‘Safari Websites’ option to select from the expanded list. If you want to enable/disable the location services in Safari websites then you have to choose ‘While using’ option. This feature enables location service of the Safari websites when it is active and the location service becomes inactive if the Safari is not in use.
 
 ![enable disable](https://images.wondershare.com/drfone/2023/virtuallocation/enable-disable.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to prevent Safari from asking for your location on Apple iPhone 12
 
@@ -279,6 +265,13 @@ In the home page of this program, select the ‘Virtual Location’ option. In t
 
 ![virtual location 01](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Quick look at the map view**
 
 The next window displays the current virtual location details of the Apple iPhone 12 device.
@@ -313,13 +306,6 @@ Have you recently been relocated to somewhere else or are tired of entering your
 
 ![change home address Apple iPhone 12 1](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Change Home Address in Apple Maps on Apple iPhone 12
 
 Apple has developed a native navigation application that comes inbuilt in every Apple iPhone 12 model. A lot of users take the assistance of Apple Maps to navigate, share their location, and do so much more. If you want, you can add or change your home address on Apple Maps and even mark certain locations as favorite. To learn how to change home address on Apple iPhone 12 11, X, XR, 8, and other models, follow these steps:
@@ -330,16 +316,16 @@ Step 2. This will list out detailed information about you. You can review the fi
 
 ![change home address Apple iPhone 12 2](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3. This will further list various fields and would give you an option to edit them. You can scroll down and tap on the Edit button nearby the home address to change it.
 
 ![change home address Apple iPhone 12 3](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4. In case you haven’t added any address, then just tap on the “Add address” button. This will let you enter your address and locate it on the map. Later, you can label it as Home, Work, and so on.
 
@@ -381,11 +367,25 @@ Step 4. Now, all you got to do is tap on the search bar and enter your home addr
 
 ![change home address Apple iPhone 12 9](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5. That’s it! You can now save the changes you have made and review them whenever you want. To make any changes to it, you can just tap on the three-dot icon adjacent to the Home button. This will let you edit your home address, remove it, and add directions.
 
 ![change home address Apple iPhone 12 10](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-10.jpg)
 
 That’s a wrap, everyone! I’m sure that after reading this guide you would be able to change home address on Apple iPhone 12 like a pro. To make things easier for you, I have come up with a step-by-step tutorial on how to change home address on Apple iPhone 12 via Apple Maps as well as Google Maps. Furthermore, I have also listed a smart solution to change your address in Safari’s autofill to save your time. Well, this is what I did when I wanted to know how do I change my home address on Apple iPhone 12 a while back. You can follow this drill and share this guide with others to teach them the same.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -413,15 +413,18 @@ That’s a wrap, everyone! I’m sure that after reading this guide you would be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-screen-record-on-android/"><u>[Updated] 2024 Approved How to Screen Record on Android</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1726227281982-avi-mjpeg/"><u>AVI를 MJPEG로 간단한 방식으로 온라인이 자연스럽게 가동: 무료 변환 서비스</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-se-2020ipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone SE (2020)/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-system-upgrades-with-expertise-from-toms-hardware/"><u>Master Your System Upgrades with Expertise From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-driver-updates-how-to-get-the-latest-acer-aspire-windows-compatible-software/"><u>Mastering Driver Updates: How to Get the Latest Acer Aspire Windows Compatible Software</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-solution-resolving-icloud-data-synchronization-errors/"><u>Step-by-Step Solution: Resolving iCloud Data Synchronization Errors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-innovative-split-screen-videos-for-youtube-sharing/"><u>[Updated] 2024 Approved Innovative Split-Screen Videos for YouTube Sharing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-find-the-top-10-affordable-online-image-format-switchers-for-2024/"><u>[Updated] Find the Top 10 Affordable Online Image Format Switchers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-calculating-earnings-ad-revenues-in-the-world-of-youtube/"><u>[Updated] In 2024, Calculating Earnings Ad Revenues in the World of YouTube?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tier-eighth-edition-of-image-blender-tool/"><u>[Updated] Top Tier Eighth Edition of Image Blender Tool</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-deciphering-the-covert-codes-of-snapchats-emojis/"><u>2024 Approved Deciphering the Covert Codes of Snapchat's Emojis</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions/"><u>2024 Approved How to Craft Standout Videos Mastery of YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-12-miniipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 12 mini/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-15-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 15 GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-7-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 7 Plus/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-turning-youtube-viewers-into-brand-partners/"><u>In 2024, The Ultimate Guide to Turning Youtube Viewers Into Brand Partners</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ultimate-capture-assistant-az-audits-and-alternatives/"><u>In 2024, Ultimate Capture Assistant - AZ Audits & Alternatives</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-launching-difficulties-mastering-multiversus-startup-for-pc-users/"><u>Overcome Launching Difficulties: Mastering MultiVersus Startup for PC Users</u></a></li>
 </ul></div>
 

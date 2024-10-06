@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Technology: How Chatbots Mimic Human Dialogue"
-date: 2024-09-24T19:17:39.181Z
-updated: 2024-09-30T21:36:45.722Z
+date: 2024-10-02T00:03:44.529Z
+updated: 2024-10-05T17:36:35.510Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Is the Easiest Large Language Model to Use?
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
@@ -85,16 +78,16 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -107,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
  Bard identified the correct colors for the wires and instructed us to connect them to Live, Neutral, and Earth terminals. It gave no instructions on how to identify these.
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which LLM Is Good for Writing Code?
 
@@ -121,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
@@ -162,17 +162,22 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-free-mp4-conversion-tutorial-from-facebooks-high-definition-videos-for-2024/"><u>[New] Free MP4 Conversion Tutorial From Facebook's High-Definition Videos for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-exporting-your-youtube-and-twitter-creations-via-whatsapp/"><u>[New] In 2024, Exporting Your YouTube & Twitter Creations via WhatsApp</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-engaging-audiences-with-jujutsu-kaisen-tiktok-content/"><u>[Updated] 2024 Approved Engaging Audiences with Jujutsu Kaisen TikTok Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-harness-the-art-of-visual-storytelling-on-snapchat/"><u>[Updated] 2024 Approved Harness the Art of Visual Storytelling on Snapchat</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-artful-humor-chuckledrawings/"><u>[Updated] Artful Humor ChuckleDrawings</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-12-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 12 Pro Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-12-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 12 Pro GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-stay-steady-in-virtual-reality-with-htcs-tips/"><u>In 2024, Stay Steady in Virtual Reality with HTC's Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/srt-unveiled-core-concepts-and-practical-info/"><u>SRT Unveiled Core Concepts and Practical Info</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-the-silent-problem-in-your-lenovo-laptop/"><u>Troubleshooting Tips: Fixing the Silent Problem in Your Lenovo Laptop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-browser-capture-tools-top-5-screen-recorder-selections/"><u>[New] 2024 Approved Best Browser Capture Tools Top 5 Screen Recorder Selections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-balancing-creativity-and-monetization-in-youtube-shorts/"><u>[New] In 2024, Balancing Creativity and Monetization in YouTube Shorts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-bring-your-videos-to-life-border-magic-on-ig-for-2024/"><u>[Updated] Bring Your Videos to Life Border Magic on IG for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-transform-your-mobile-browser-with-crystal-clear-videos/"><u>[Updated] Transform Your Mobile Browser with Crystal-Clear Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-synergy-between-humans-and-computers-through-gestures/"><u>2024 Approved Synergy Between Humans & Computers Through Gestures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8movmp4/"><u>8簡單且快速的方法：從MOV改成MP4 - 教學轉檔指南</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-seipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone SE/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-15-pro-max-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 15 Pro Max GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-guide-to-livestreaming-on-mobile-devices/"><u>In 2024, The Complete Guide to Livestreaming on Mobile Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/natural-vs-artificial-balancing-your-sets-illumination/"><u>Natural Vs. Artificial Balancing Your Set's Illumination</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-communication-with-vivaldi-introducing-a-superior-mail-client-experience-digital-trends/"><u>Revolutionizing Communication with Vivaldi - Introducing a Superior Mail Client Experience | Digital Trends</u></a></li>
 </ul></div>
 

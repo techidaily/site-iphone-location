@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to See Someones Location on Apple iPhone 12 Pro | Dr.fone
-date: 2024-09-24T07:14:11.825Z
-updated: 2024-09-25T21:48:23.478Z
+date: 2024-10-02T18:15:31.289Z
+updated: 2024-10-06T07:01:09.960Z
 tags: 
   - virtual location chang
   - location changer
@@ -32,6 +32,13 @@ This article will address three methods for **seeing someone’s location on Ap
 
 ![enable find my iphone](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Now, you are ready to locate the target's iPhone location anytime you wish. To do so, access the official website of iCloud and log in to the target’s iCloud account carefully.
 
 ![login to target icloud](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-3.jpg)
@@ -39,13 +46,6 @@ This article will address three methods for **seeing someone’s location on Ap
 **Step 3:** A new window will appear on your screen from where you click on the option "Find My iPhone." Now you can see all of the iOS devices attached to this account. Choose the Apple iPhone 12 Pro device from the options you want to locate on the map.
 
 ![track iphone location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Other Features
 
@@ -56,6 +56,13 @@ Find My iPhone offers numerous other features that can help you to find lost or 
 [Find My Friends](https://apps.apple.com/us/app/find-my-friends/id466122094) is another helpful app through which you can track someone’s location easily. Your friends and family members can share their location through this app, and they can also start following your location simultaneously. Moreover, you can set location-based alarms in case you have to pick up someone from the school or airport.
 
 ![find my friends ios app](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Through this particular app, you can also try **how to find someone’s location on Apple iPhone 12 Pro** efficiently. First, however, you should be remindful of the following two factors before locating someone’s location on Apple iPhone 12 Pro through this app:
 
@@ -80,6 +87,19 @@ Through this particular app, you can also try **how to find someone’s location
 
 ![don’t share your location with target](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Check Someone’s Location on Apple iPhone 12 Pro by iMessage
 
 Another way to track someone's location on Apple iPhone 12 Pro is through the iMessage app. This app enables the users to have internet-based conversations with their friends and family members and improves features. Also, all the messages are secured via end-to-end encryption for data privacy security. You can also share stickers and emojis through this special app.
@@ -92,23 +112,9 @@ iMessage has a hidden feature through which you can also know **how to see someo
 
 ![open your imessage chat](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Now tap on the contact icon and then click on the info icon from where you would see different options. Tap on "Share My Location" and set the time duration of location sharing. You can set the time for 1 hour, 24 hours, or indefinitely.
 
 ![enable imessage share location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** On your Apple iPhone 12 Pro, join the location sharing of the target's phone and do not permit to share your location. Thus, you can easily track the target's location on your Apple iPhone 12 Pro via iMessage.
 
@@ -156,13 +162,6 @@ Now enable the teleport mode by tapping on its icon displayed on the upper right
 
 Through this detailed guide, you can quickly learn **how to quickly see someone’s location on Apple iPhone 12 Pro**. For diversity, we have discussed three reliable apps that can help you navigate someone's location accurately. However, if you want to fake your location to prevent others from tracking you, we have recommended Dr.Fone – Virtual Location tool, which works precisely in this scenario.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View GPX Files: Online and Offline Solutions Of Apple iPhone 12 Pro
 
 Also known as GPS Exchange Format, GPX is one of the most resourceful file types that is used to store and import/export map-related data. Ideally, a lot of people use GPX files to access a particular route offline when they are off the grid. Though, there are times when users find it hard to view GPX on a map. Don’t worry, there are plenty of ways to view GPX online or offline. In this post, I will let you know how to view GPX in Google Maps and other resourceful desktop applications in detail.
@@ -192,6 +191,13 @@ Out of them, Google Maps is one of the most used solutions to view GPX online on
 To view GPX on the map, you can first head to the official website of Google Maps on your computer. Now, just click on the hamburger (three-line) icon from the top-left corner to access its options.
 
 ![Google Maps More Option](https://images.wondershare.com/drfone/article/2021/04/view-gpx-files-online-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This will display various options related to your Google Maps account. From here, you can just click on the “Your Places” feature.
 
@@ -229,19 +235,6 @@ The application would automatically detect your Apple iPhone 12 Pro on the inter
 
 ![one stop mode](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can now drop the pin in a route on the map and click on the “Move Here” Button to start simulating the movement.
 
 ![simulate movement](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
@@ -249,13 +242,6 @@ You can now drop the pin in a route on the map and click on the “Move Here” 
 Subsequently, you can select the number of times you want to cover the route and click on the “March” button. The application will even let you select a preferred speed for the movement.
 
 ![select the speed](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Export or Import the GPX Files**
 
@@ -308,13 +294,6 @@ Take help of your lightening cable and connect the Apple iPhone 12 Pro to the co
 
 ![connect the Apple iPhone 12 Pro](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Find your Location**
 
 From the following window, you will be able to notice the actual location of yours on the map. In case you aren’t able to, you can go for the “Center On” icon which can be found in the lower right of the screen. This will help you show the appropriate location.
@@ -362,10 +341,10 @@ In the above section, you have stopped tracking on Apple iPhone 12 Pro entirely 
 ![make adjustments](https://images.wondershare.com/drfone/article/2019/09/disable-location-specific-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The first option will never send your location to the apps. Second option will use your location only when you use the particular app. And as it suggests itself, by choosing the “Always” option will always track your location.
@@ -387,6 +366,13 @@ Apart from the apps, Apple iPhone 12 Pro itself keeps record of where you travel
 **Step 5:** Toggle off the green slider near “Significant Locations”. This is it!
 
 ![Significant Locations](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Disable Share My Location service
 
@@ -410,6 +396,20 @@ iPhone provides three kinds of location based services. These include the servic
 
 ![disable the location services or alerts](https://images.wondershare.com/drfone/article/2019/09/disable-location-based-alerts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Words
 
 We are concluding the topic here with a great hope that you now are well informed about how to stop someone from tracking your Apple iPhone 12 Pro. We have provided different ways for different situations. Hope you liked our efforts. If you have any doubts or questions, please leave a comment below. Also, if your friend or near one who is in trouble and want to stop someone tracking their Apple iPhone 12 Pro, don’t hesitate sharing this. Tell us how you feel about today’s topic and stay tuned for more interesting updates.
@@ -428,22 +428,17 @@ We are concluding the topic here with a great hope that you now are well informe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-iphone-lens-wisdom-stunning-image-secrets/"><u>[New] 2024 Approved IPhone Lens Wisdom Stunning Image Secrets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-proven-methods-for-downloading-a-thousand-tiktoks-at-once/"><u>[New] Proven Methods for Downloading a Thousand TikToks at Once</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-visual-upgrade-mastery-of-video-enhancer-version-22/"><u>2024 Approved Ultimate Visual Upgrade Mastery of Video Enhancer Version 2.2</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/combat-profiles-hitbox-vs-streamer-supremacy-for-2024/"><u>Combat Profiles Hitbox vs Streamer Supremacy for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 15 Pro/iPad? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/explore-the-full-potential-of-picsart-a-comprehensive-review/"><u>Explore the Full Potential of PicsArt - A Comprehensive Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-eliminating-pin-security-on-your-windows-11-device/"><u>Guide to Eliminating PIN Security on Your Windows 11 Device</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone XS Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-6-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 6 Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-android-videography-6-must-try-music-videos-apps/"><u>In 2024, Best Android Videography 6 Must-Try Music Videos Apps</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone XS Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-troubleshooting-how-to-fix-the-ghostrunner-malfunction-on-your-windows-10-pc/"><u>Mastering Troubleshooting: How to Fix the Ghostrunner Malfunction on Your Windows 10 PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/simple-methods-swap-sea-creature-sounds-in-windows-os/"><u>Simple Methods Swap Sea Creature Sounds in Windows OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-masterful-approaches-to-producing-captivating-fb-video-campaigns/"><u>[New] 2024 Approved Masterful Approaches to Producing Captivating FB Video Campaigns</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-perfect-youtube-thumbnails-on-macos-for-2024/"><u>[New] Crafting Perfect YouTube Thumbnails on macOS for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-taming-audio-volume-peaks-using-fl-studios-mastery/"><u>[New] In 2024, Taming Audio Volume Peaks Using FL Studio's Mastery</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-11-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 11 Pro Max/iPad? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/drones-and-stabilization-your-ultimate-camera-gimbal-selection/"><u>Drones & Stabilization Your Ultimate Camera Gimbal Selection</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-12-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 12 Waze | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-se-2020ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone SE (2020)/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-xipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone X/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/propel-your-workspace-ahead-with-w11s-auto-organization-magic/"><u>Propel Your Workspace Ahead with W11's Auto-Organization Magic</u></a></li>
+<li><a href="https://fox-http.techidaily.com/simplifying-avi-gif-conversion-with-filmora-on-windowsmac-for-2024/"><u>Simplifying AVI-GIF Conversion with Filmora on Windows/Mac for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-for-virtual-reality-content-android-friendly/"><u>The Ultimate Guide for Virtual Reality Content (Android-Friendly)</u></a></li>
 </ul></div>
 

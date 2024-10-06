@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Top-Rated, Cost-Effective Fellowes Microban Wired Keyboard: A Detailed Assessment"
-date: 2024-09-23T20:25:14.134Z
-updated: 2024-09-30T22:21:50.945Z
+date: 2024-10-04T19:32:03.133Z
+updated: 2024-10-06T05:31:53.955Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Top-Rated, Cost-Effective Fellowes Microban Wired Keyboard: A Detailed Assessment"
@@ -46,10 +46,10 @@ Lifewire / Emily Isaacs
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
@@ -97,6 +97,13 @@ Lifewire / Emily Isaacs
 
  Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Features: Multimedia hotkeys for ease of use**
 
  The Fellowes features seven hotkeys for multimedia playback. These keys are located along the top of the keyboard and offer such functionality as mute, volume up, volume down, sleep, email, search, and one-touch internet access. We were disappointed that it didn’t include hotkeys for pausing, skipping forward, or skipping backward in multimedia.
@@ -108,10 +115,10 @@ Lifewire / Emily Isaacs
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
@@ -127,10 +134,16 @@ Lifewire / Emily Isaacs
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/9Ei30bgFst4sw8SynCxgEI_b-9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_04-eff22d3b32274568890dd291e56daab5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -148,13 +161,6 @@ Lifewire / Emily Isaacs
  **A great keyboard with microbial protection for office workers.**
 
  The Fellowes Microban Split Design Wired Keyboard is a good, albeit bulky, ergonomic keyboard designed to last. Its antimicrobial protection not only keeps germs, fungi, and bacteria at bay, but ensures the keyboard won’t deteriorate over time. While it may not be our first pick for home use, it’s a great choice if you’re on a budget or are an office working facing down cold and flu season.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -183,19 +189,22 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-effortless-offline-access-best-youtube-playlist-downloaders/"><u>[New] 2024 Approved Effortless Offline Access Best YouTube Playlist Downloaders</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-top-android-photo-tech-tips-and-apps-guide-for-2024/"><u>[New] Top Android Photo-Tech Tips & Apps Guide for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-not-launching-issue-in-last-epoch-game-tips-and-solutions-pc-2024-update/"><u>Fixing the 'Not Launching' Issue in Last Epoch Game: Tips & Solutions (PC) | 2024 Update</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-11-pro-max-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 11 Pro Max GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-14-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 14 Pro Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-13-pro-max-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 13 Pro Max Waze | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-x-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone X?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-ignite-engagement-top-3-youtube-live-stream-tips-for-understaffed-viewership/"><u>In 2024, Ignite Engagement Top 3 YouTube Live Stream Tips for Understaffed Viewership</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/leading-edge-selecting-9-superior-online-microphone-recorders-for-2024/"><u>Leading Edge Selecting 9 Superior Online Microphone Recorders for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/top-10-youtube-business-channels-and-how-to-create-one-easily/"><u>Top 10 YouTube Business Channels and How to Create One Easily</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-14-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-style-with-confidence-adding-border-artistry-to-your-instagram-posts/"><u>[New] In 2024, Style with Confidence Adding Border Artistry to Your Instagram Posts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premier-mac-studio-for-high-quality-recordings-for-2024/"><u>[New] Premier Mac Studio for High-Quality Recordings for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-comparing-360-degree-captures-and-full-immersion-media/"><u>[Updated] Comparing 360-Degree Captures and Full Immersion Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selective-recommendations-for-advanced-voice-alteration-tools/"><u>[Updated] Selective Recommendations for Advanced Voice Alteration Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-creative-openings-just-a-click-away/"><u>2024 Approved Creative Openings, Just a Click Away</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-14ipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 14/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-11-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 11 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-14ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 14/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-epson-stylus-nx420-up-and-running-driver-downloads-for-win-7810/"><u>Get Your Epson Stylus NX420 Up and Running: Driver Downloads for Win 7/8/10</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-intel-hd-5500-graphics-driver-a-users-manual/"><u>How to Successfully Update Intel HD 5500 Graphics Driver - A User's Manual</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-se-2020-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone SE (2020) GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/stealthy-watcher-fb-story-viewer/"><u>Stealthy Watcher FB Story Viewer</u></a></li>
 </ul></div>
 

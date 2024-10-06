@@ -1,7 +1,7 @@
 ---
 title: "Unveiling ChatGPT's New Arsenal of Features: What Users Need to Know"
-date: 2024-09-24T21:00:32.142Z
-updated: 2024-09-30T19:11:38.051Z
+date: 2024-10-02T17:23:49.049Z
+updated: 2024-10-06T07:41:59.591Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are ChatGPT Plugins?
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Can Browse the Web
 
 That's not all, though.
@@ -62,6 +55,13 @@ That's not all, though.
  For example, I asked ChatGPT: "Who is the current leader of the F1 World Championship?"
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
@@ -79,13 +79,6 @@ Close
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
@@ -93,10 +86,10 @@ Close
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to your**Settings** in the bottom left-hand corner of the ChatGPT screen
@@ -107,6 +100,13 @@ Close
  After enabling both settings, you'll find new options from the ChatGPT model switcher (where you'd normally switch between GPT-3.5 and GPT-4). You'll now find an option for Web Browsing and one for Plugins.
 
  From here, you can select either Web Browsing to enable web-connected search or select**Plugin Store** to begin installing and enabling Plugins.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Finally Connected to the Internet
 
@@ -131,17 +131,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-luminalabs-exploring-affordable-video-editors/"><u>[New] In 2024, LuminaLabs Exploring Affordable Video Editors</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-pioneering-maker-tools-for-your-next-ios-or-android-video/"><u>[Updated] In 2024, Pioneering Maker Tools For Your Next iOS or Android Video</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 7/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-6-plus-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 6 Plus Waze | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elevate-your-sites-visibility-with-our-expertly-chosen-7-traffic-apps/"><u>Elevate Your Site's Visibility with Our Expertly Chosen 7 Traffic Apps</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12-miniipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12 mini/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-6sipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 6s/iPad? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-explore-best-speech-recognition-software-on-your-mac/"><u>In 2024, Explore Best Speech Recognition Software on Your Mac</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-15-pro-max-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 15 Pro Max and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-to-detach-onedrive-from-msid-the-microsoft-identity-on-windows/"><u>Learn to Detach OneDrive From MSID, the Microsoft Identity on WINDOWS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017040677-no-more-audio-glitches-solve-headphone-distortion-fast-and-easy/"><u>No More Audio Glitches: Solve Headphone Distortion Fast and Easy</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-players-rejoice-resolving-everspace-2s-sudden-shutdown-problems/"><u>PC Players Rejoice: Resolving Everspace 2'S Sudden Shutdown Problems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-step-by-step-capturing-your-roblox-journeys-on-a-mac-for-2024/"><u>[Updated] Step-by-Step Capturing Your Roblox Journeys on a Mac for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-core-strategies-for-amplifying-your-digital-footprint-newbies-style-for-2024/"><u>5 Core Strategies for Amplifying Your Digital Footprint, Newbies Style for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/affordable-lenovo-tab-m10-hd-2020-a-comprehensive-review-for-browsing-and-media-streaming/"><u>Affordable Lenovo Tab M10 HD (2020): A Comprehensive Review for Browsing & Media Streaming</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/discover-how-photoscape-revolutionizes-image-editing-for-everyone-with-its-free-user-friendly-platform/"><u>Discover How PhotoScape Revolutionizes Image Editing for Everyone with Its Free, User-Friendly Platform</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovative-recording-tech-the-leaders-choice/"><u>In 2024, Innovative Recording Tech The Leaders' Choice</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-why-virtual-reality-lack-of-content/"><u>In 2024, Why Virtual Reality Lack of Content?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/master-the-art-of-comfortable-commuting-on-mods-new-accessible-sidecar-bike/"><u>Master the Art of Comfortable Commuting on Mod’s New Accessible Sidecar Bike</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/sailing-into-the-future-assessing-the-performance-peaks-and-valleys-of-the-seatech-blu-ray-writer/"><u>Sailing Into the Future: Assessing the Performance Peaks and Valleys of the SeaTech Blu-Ray Writer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-app-download-issues-top-10-solutions/"><u>Troubleshooting iPhone App Download Issues: Top 10 Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-savings-612-annual-windows-10-lifetime/"><u>Ultimate Savings: $6.12 Annual Windows 10 Lifetime</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/unveiling-the-top-rated-cost-effective-fellowes-microban-wired-keyboard-a-detailed-assessment/"><u>Unveiling the Top-Rated, Cost-Effective Fellowes Microban Wired Keyboard: A Detailed Assessment</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/unveiling-the-versatility-of-anker-roavs-dash-cam-c1-a-complete-overview/"><u>Unveiling the Versat^ility of Anker Roav's Dash Cam C1 - A Complete Overview</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visionary-blu-ray-systems-for-unparalleled-3d-immersion/"><u>Visionary Blu-Ray Systems for Unparalleled 3D Immersion</u></a></li>
 </ul></div>
 

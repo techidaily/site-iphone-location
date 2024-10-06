@@ -1,7 +1,7 @@
 ---
 title: Does PokeGo++ still work on Apple iPhone 12/iPad? | Dr.fone
-date: 2024-07-28T10:04:39.096Z
-updated: 2024-07-29T10:04:39.096Z
+date: 2024-10-03T05:29:12.355Z
+updated: 2024-10-06T03:10:05.029Z
 tags: 
   - virtual location chang
   - location changer
@@ -36,9 +36,6 @@ So, let’s get to the real question, i.e., does PokeGo++ still work. Unfortunat
 
 Due to this lawsuit, Global++ had to immediately stop the release of PokeGo++ to its users, take down their official website, and delete all their discord servers as well. In fact, Niantic even secured all their future projects with this lawsuit. It was believed that Global++ was secretly working on a hacked version of Harry Potter: Wizards Unite, Niantic’s next big project. But, due to the lawsuit, they had to stop working on this as well. So, as shocking as it may sound, but you can no longer use PokeGo++ Apple iPhone 12 or Android to fake GPS location and catch new Pokemon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Part 3: Any better alternative for PokeGo ++
 
 Even though PokeGo++ is no longer available, people still look forward to using other hacks/tricks to manipulate their GPS location to collect more Pokemon. So, if PokeGo++ doesn’t work anymore, what’s an alternative that can help you use a fake GPS location in Pokemon Go.
@@ -66,11 +63,6 @@ That’s it; when you’ll launch Pokemon Go, you’ll automatically notice diff
 
 Despite being a pretty useful tweaked version of Pokemon Go, PokeGO++ is not available anymore. However, if you still want to catch different types of Pokemon in the game, you can use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) to set a fake GPS location in the game. And, if you are an Android user, you can directly download any of the GPS Joystick apps on your smartphone and use it to manipulate the smartphone’s GPS location easily.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Effective Methods: Fake GPS Location on Apple iPhone 12/iPad
 
 _"I Want to know how to fake location on Apple iPhone 12 to play Pokemon Go?"_
@@ -80,8 +72,6 @@ Putting it simply, there are times when you need to deceive the apps on your App
 A lot of reasons can be behind doing this such as when you wish to enjoy a location-based game like Pokemon Go or show off your family about visiting a famous place etc. Coming to the point, the process of iOS spoofing location can be tricky as there is no straightforward or built-in option. However, we are going to help you out with the same. Read this article carefully and know how you can **spoof location Apple iPhone 12** or iPad.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/DFocFGilL0c"></iframe>
-
-
 
 ### Fake iOS GPS? Any risks?
 
@@ -93,8 +83,12 @@ Before initiating this, it is to be noted that though **faking location on Apple
 - More than this, legal repercussions can also come your way, and you may need to handle it for faking GPS.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 1: Fake iOS GPS location with a location simulator
 
 If you wish to spoof location on your Apple iPhone 12 and even show off the route between the two destinations, the best that can help you is [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With the help of this, you will not only just have a fake location on iOS (including iOS17), but can simulate the movement between two and multiple spots. We are going to show you how. Have a look below for the steps. Before moving, ensure to download this location spoofer for both iOS and Android and install it on your PC.
@@ -113,34 +107,19 @@ If you wish to spoof location on your Apple iPhone 12 and even show off the rout
 
 **Step 3:** In the following window, the current virtual location can be easily found. If you can’t find it, click on the “Current Virtual Location” icon (found on the lower right side) and the default location will be shown.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![click Center On](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 4:** Choose the first one to activate the "teleport mode" from the five modes given at the upper right side of the screen. Then, type the name of the location in the field and tap “Go”.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 5:** When the system will get the location correctly, it will bring a small pop-up box on the screen. It can tell you the distance of the entered place. Please click the “Move Here” button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![move there](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 6:** Congratulations! You have successfully faked iOS 17 GPS. Your Apple iPhone 12 will show the fake location now in the location-based apps.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![show the fake location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-
 
 **Simulate the Route Movement between two Places**
 
@@ -150,37 +129,29 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 **Step 3:** Choose the mode of speed you want to use to walk, like cycling speed. Click on “Move Here” from the pop-up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![click Move Here](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
 On the left panel, you can also enter the number of trips. This number will depict how many times you are up to traveling between the two spots.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![start marching](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** The **GPS spoofing Apple iPhone 12** and simulation of movement will begin now. You can track the movement, and the position will be seen moving with the previously chosen speed.
 
 ![track the movement](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
-
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 2: Spoof Apple iPhone 12 location with NordVPN
 
@@ -207,9 +178,6 @@ If you are not comfortable downloading an extra app on your phone to serve the p
 
 - You will now see a pop-up on the next screen asking “Please tell me who you are”. Also, there will be some GIT commands on the screen that needs to be applied. Now, launch the terminal on your Mac and go along with the commands given below.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![launch terminal](https://images.wondershare.com/drfone/article/2019/09/fake-gps-ios-5.jpg)
 
 1. Git config --global user.email "<you@example.com>"
@@ -227,11 +195,6 @@ Now, go for the “Debug” menu. Followed by this, hit on “Simulate Location�
 
 _**Tips:** Experience the freedom to teleport anywhere with Dr.Fone - Virtual Location! The Fake GPS feature for Apple iPhone 12 allows you to explore the world from your device. Try it now and unlock endless possibilities!_
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Solution 4: Fake iOS GPS by jailbreaking your systems
 
 The next method to **fake location on Apple iPhone 12** and Android phones is by jailbreaking your device. When you jailbreak your device, you get the opportunity to make changes to most of the native settings in your device. However, this method can give a hard time as it depends on the iOS or Android version you are using. We are introducing ‘The Anywhere!’ app for this purpose and this can work on iOS 17 well. Here is the guide for this. Take the iOS system as an example:
@@ -244,21 +207,26 @@ The next method to **fake location on Apple iPhone 12** and Android phones is by
 - You can now select the apps on which you wish to fake GPS location on iOS.
 - Open the selected app now and you could see the new location on it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![jailbreak your device](https://images.wondershare.com/drfone/article/2019/09/fake-gps-ios-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Final Words
 
 We made you familiar with useful iOS location spoofers, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . All of them can help you to fake GPS locations on your Apple iPhone 12 or iPad, whether it's for privacy, gaming, or exploration purposes. Among these options, Dr.Fone - Virtual Location stands out as a reliable and user-friendly tool that ensures a seamless and secure experience when altering your device's GPS location. Give it a try and unlock the potential to navigate the world from your iOS device with ease and confidence.
 
 _Further reading: [What is HackRF and how to use a HackRF for GPS Spoofing?](https://drfone.wondershare.com/fake-location/gps-spoofing-with-hackrf-from-windows.html) _
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12
 
@@ -267,8 +235,12 @@ With the advent of digitalization in everything, GPS is one feature that has tak
 Many of the iOS users wonder about “how do I stop someone from tracking my Apple iPhone 12”. Though the saved locations are not sent to the Apple servers, but for some, privacy is everything. If you are one of those who chooses privacy over anything and doesn’t wish to share location with anyone else, this article deals with the same. We will help you know how to stop tracking on Apple iPhone 12 in different ways.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Importance of Keeping Location Data Private
 
 Considering why keeping privacy is never a bad idea. And of course you have contemplated upon this thing. That is why you felt the need of stopping tracking on Apple iPhone 12 and you are here. Well! In this section, we feel the need to explain more about why you should keep the location privacy in your bucket list. So, before we proceed towards the different ways to stop someone tracking your Apple iPhone 12, we suggest you to read this part.
@@ -280,16 +252,11 @@ Considering why keeping privacy is never a bad idea. And of course you have cont
 
 Thus, to avoid such bothersome situations, keeping the location data private becomes essential. And now that you know the importance, let us understand how to stop tracking on Apple iPhone 12
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 1: Switch to a Virtual Location to Stop Someone from Tracking your Apple iPhone 12
 
 When you want to stop someone tracking your Apple iPhone 12, why just turning off the tracking option. Why not you try to misguide people and have fun? With the assistance of a tool namely [Dr.Fone – Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) that aims on keeping privacy, you can surely do that. The tool can help you changing your location and you can teleport anywhere you want. Using this, you can easily mock location in just 1 click. Here is how to use this tool to serve the purpose.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
-
-
 
 **Step 1: Get the Tool and Run it**
 
@@ -301,10 +268,14 @@ To start the process, you are required to get the Dr.Fone – Virtual Location (
 
 Take help of your lightening cable and connect the Apple iPhone 12 to the computer. Upon successful connection, hit on the “Get Started” button.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![connect the Apple iPhone 12](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3: Find your Location**
 
@@ -324,17 +295,12 @@ You can now easily stop tracking on Apple iPhone 12 by deceiving your location a
 
 ![stop tracking on Apple iPhone 12](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
-
 ## Method 2: Disable location tracking of Apple iPhone 12 completely
 
 If the above method didn’t suit you, this is how you can turn off tracking on Apple iPhone 12. Using this method, you will end up deactivating the location services of Apple iPhone 12 completely. The steps are no rocket science and with just one toggling, you can reach to what you want. By doing this, any app in the Apple iPhone 12 that uses your location will be of no use. For instance, the maps, Find My Friends and Find My Apple iPhone 12 apps will not be able to track your location. Also, you will stop anyone from tracking you this way. Here are the steps on how to stop tracking on Apple iPhone 12 completely:
 
 **Step 1:** Go to the “Settings” in your Apple iPhone 12 as the initial step. Now, look for “Privacy” option and tap on it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable location](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-1.jpg)
 
 **Step 2:** Now, go for the “Location Services” and tap on it.
@@ -344,6 +310,13 @@ If the above method didn’t suit you, this is how you can turn off tracking on 
 **Step 3:** Slide the switch next to “Location Services” to turn the locations off.
 
 ![use the switch](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Disable location tracking of specific apps
 
@@ -355,17 +328,10 @@ In the above section, you have stopped tracking on Apple iPhone 12 entirely whic
 
 **Step 3:** Select the apps and make adjustments according to your preferences. You can choose among “Never”, “While Using the App” and “Always”.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![make adjustments](https://images.wondershare.com/drfone/article/2019/09/disable-location-specific-apps.jpg)
 
 The first option will never send your location to the apps. Second option will use your location only when you use the particular app. And as it suggests itself, by choosing the “Always” option will always track your location.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 4: Disable Significant Locations on Apple iPhone 12
 
 Apart from the apps, Apple iPhone 12 itself keeps record of where you travel the most. These frequently visited locations are referred to as significant locations. The purpose of such tracking is to help you providing location concerned suggestions, especially when you employ Siri or other features. If you want to turn off such tracking on Apple iPhone 12, we can help you. These are the steps that you should follow in this case.
@@ -376,9 +342,6 @@ Apart from the apps, Apple iPhone 12 itself keeps record of where you travel the
 
 **Step 3:** After this, click on the “System Services” from the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![System Services](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-1.jpg)
 
 **Step 4:** Look for “Significant Locations”. You will be prompted to use your password or touch ID to access the feature. Do it right away.
@@ -386,6 +349,13 @@ Apart from the apps, Apple iPhone 12 itself keeps record of where you travel the
 **Step 5:** Toggle off the green slider near “Significant Locations”. This is it!
 
 ![Significant Locations](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Disable Share My Location service
 
@@ -395,9 +365,6 @@ The feature “Share My Locations” enables you to share your locations with yo
 
 **Step 2:** Look for the “Share My Location” and toggle it off.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off Share My Location](https://images.wondershare.com/drfone/article/2019/09/disable-share-my-location.jpg)
 
 ## Method 6: Disable location-based notifications or alerts
@@ -410,19 +377,11 @@ iPhone provides three kinds of location based services. These include the servic
 
 **Step 3:** Subsequently, you can disable the location based services or alerts as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![disable the location services or alerts](https://images.wondershare.com/drfone/article/2019/09/disable-location-based-alerts.jpg)
 
 ## Final Words
 
 We are concluding the topic here with a great hope that you now are well informed about how to stop someone from tracking your Apple iPhone 12. We have provided different ways for different situations. Hope you liked our efforts. If you have any doubts or questions, please leave a comment below. Also, if your friend or near one who is in trouble and want to stop someone tracking their Apple iPhone 12, don’t hesitate sharing this. Tell us how you feel about today’s topic and stay tuned for more interesting updates.
-
-
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -436,11 +395,21 @@ We are concluding the topic here with a great hope that you now are well informe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/rafting-engaging-youtube-videos-using-finalcut-pro-expertise-for-2024/"><u>[New] Crafting Engaging YouTube Videos Using FinalCut Pro Expertise for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style-for-2024/"><u>[New] Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-pixelpreserve-a-comprehensive-screen-record-review/"><u>[New] In 2024, 'PixelPreserve' A Comprehensive Screen Record Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-tips-efficiently-trim-and-modify-videos/"><u>2024 Approved IPhone Tips Efficiently Trim and Modify Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/8-critical-reasons-for-speaking-beyond-your-mother-tongue/"><u>8 Critical Reasons for Speaking Beyond Your Mother Tongue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-7-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 7 GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 11/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-12-pro-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 12 Pro Waze | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/smooth-video-capture-with-your-laptops-webcam-for-2024/"><u>Smooth Video Capture with Your Laptop's Webcam for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210154898-steam-update-troubles-heres-how-to-fix-installation-errors-effortlessly/"><u>Steam Update Troubles? Here's How to Fix Installation Errors Effortlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-face-off-distinguishing-characteristics-of-mac-versus-pc/"><u>The Ultimate Face-Off: Distinguishing Characteristics of Mac versus PC</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-7-plusipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 7 Plus/iPad? Solved | Dr.fone</u></a></li>
+</ul></div>
 

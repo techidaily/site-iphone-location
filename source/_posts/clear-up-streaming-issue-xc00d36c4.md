@@ -1,7 +1,7 @@
 ---
 title: Clear Up Streaming Issue - XC00D36C4
-date: 2024-09-23T17:10:12.190Z
-updated: 2024-09-30T23:26:37.322Z
+date: 2024-09-28T17:57:54.054Z
+updated: 2024-10-06T00:04:52.961Z
 categories:
   - repair-tools
 description: This Article Describes Clear Up Streaming Issue - XC00D36C4
@@ -59,6 +59,13 @@ Table of Content
 
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -70,24 +77,18 @@ Table of Content
  7\. Repair with a Stellar Repair for Video software  
  8\. Try AVI repair in VLC Media Player to fix error 0xc00d36c4
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 1: Play video in another media player**
 
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
 
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 2: Download the missing codecs**
 
@@ -106,10 +107,10 @@ Table of Content
 [Read More](http://www.microsoft.com/windows/windowsmedia/player/faq/codec.mspx)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 3: Convert the video file format**
@@ -160,13 +161,6 @@ Table of Content
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 5: Remove and reinstall all USB controllers**
 
  ‘This file isn’t playable 0xc00d36c4 error’ can also be due to system conflict between the connected external media (SD card, USB pen drive, etc.) and your computer.
@@ -191,6 +185,19 @@ Table of Content
 
  Now, connect your USB device to a computer, and check if the video 0xc00d36c4 error is fixed.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 6: Update the Display Adapter Driver**
 
  As the error code may occur due to hardware conflict, you can also try once updating the display drivers. This may fix the video error.
@@ -205,19 +212,6 @@ Table of Content
  _Figure: Update driver option in Device Manager_
 
 Tip – If the current driver is up-to-date, just to be on the safer side, uninstall the driver first and then reinstall it.
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 7: Repair with a Stellar Repair for Video software**
 
@@ -304,22 +298,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-a-comprehensive-list-of-frames-to-upgrade-your-photos-on-instagram-for-2024/"><u>[New] A Comprehensive List of Frames to Upgrade Your Photos on Instagram for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unleashing-the-power-of-screen-capture-with-hp-notebooks/"><u>[Updated] 2024 Approved Unleashing the Power of Screen Capture with HP Notebooks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cyberlink-screen-recorder-review-and-the-best-alternative/"><u>[Updated] Cyberlink Screen Recorder Review and the Best Alternative</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-correcting-watchdog-performance-issues-in-windows-11-systems/"><u>Effective Solutions for Correcting 'Watchdog' Performance Issues in Windows 11 Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-14-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on 14</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-11-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 11 Pro GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi 14 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-15-pro-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 15 Pro Waze | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-8-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 8 Waze | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-14-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 14 Pro Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-asus-rog-phone-7-ultimate-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Asus ROG Phone 7 Ultimate to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-se-2022ipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone SE (2022)/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-efficiently-producing-high-quality-small-images/"><u>[New] 2024 Approved The Ultimate Guide to Efficiently Producing High-Quality Small Images</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-8-plus-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 8 Plus Waze | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/assessing-the-legacy-of-nulaxy-km18-car-fm-transmitter-a-comprehensive-review/"><u>Assessing the Legacy of Nulaxy KM18 Car FM Transmitter - A Comprehensive Review</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-15-proipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 15 Pro/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-blueprint-for-channel-empowerment-via-studio-mastery/"><u>In 2024, The Blueprint for Channel Empowerment via Studio Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites/"><u>In 2024, The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-xs-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone XS Max/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-innovation-unveiled-ai-companion-for-windows-11-enhanced-productivity/"><u>Microsoft's Innovation Unveiled: AI Companion for Windows 11 Enhanced Productivity</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>New Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-earnings-update-what-you-need-to-know/"><u>YouTube Earnings Update - What You Need to Know</u></a></li>
 </ul></div>
 
