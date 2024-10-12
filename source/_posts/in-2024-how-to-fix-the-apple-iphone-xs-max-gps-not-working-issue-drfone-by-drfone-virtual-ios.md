@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix the Apple iPhone XS Max GPS not Working Issue | Dr.fone
-date: 2024-09-29T06:44:09.120Z
-updated: 2024-10-06T07:52:14.404Z
+date: 2024-10-05T23:29:05.413Z
+updated: 2024-10-11T18:15:08.967Z
 tags: 
   - virtual location chang
   - location changer
@@ -35,13 +35,6 @@ With GPS, you can track the live locations of your destination in seconds. In fa
 - ****Incorrect Settings:**** It's possible that GPS settings are not properly configured on your Apple iPhone XS Max. Like, you may have accidentally turned off location services. While using your Apple iPhone XS Max, turning on and off certain features is common.
 - ****Hardware Issue:**** If your phone is exposed to water or physical damage, this may affect GPS. There may be a hardware issue caused due to this situation. Thus, the GPS antenna or chip may have been damaged.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How To Fix Apple iPhone XS Max GPS Not Working?
 
 Having an erroneous Apple iPhone XS Max GPS is not a new thing. But it does bring many inconveniences for the users. After all, you are deprived of live location tracking and positioning. To fix such ****Apple iPhone XS Max GPS not working**** issues, these ways are ideal solutions:
@@ -58,6 +51,13 @@ A majority of people forget to turn on GPS services on their respective Apple iP
 
 ![activate the location services](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 2: Simple Restart Apple iPhone XS Max
 
 Restarting an Apple iPhone XS Max is the ultimate way to rectify underlying problems. Sometimes GPS is not working because of cache or network problems, and restarting Apple iPhone XS Max can help. For restarting an Apple iPhone XS Max, these steps will help you:
@@ -67,6 +67,13 @@ Restarting an Apple iPhone XS Max is the ultimate way to rectify underlying prob
 ![tap on shut down option](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-3.jpg)
 
 - ****Step 2:**** Wait for some time till your device gets powered off. After this, hold the “Power” button until the Apple logo appears to restart your device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 3: Force Restart Apple iPhone XS Max
 
@@ -90,13 +97,6 @@ A network connection error is also the reason for ****Apple iPhone XS Max GPS no
 
 ![tap on reset network settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 5: Reset Location and Privacy Settings
 
 In most scenarios, your location is used on many apps that risk GPS optimal functioning. For this purpose, you need to reset the location to the default factory settings. Thinking about how to do it? Get along with these steps:
@@ -104,6 +104,19 @@ In most scenarios, your location is used on many apps that risk GPS optimal func
 - ****Step 1:**** Move into the settings of your Apple iPhone XS Max, scroll down, and tap "General" from the available options.
 
 ![select the general option](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-7.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - ****Step 2:**** Now press the "Transfer or Reset Apple iPhone XS Max" option from General. From the next screen, choose the "Reset" option, and select "Reset Location & Privacy." After pressing "Reset Settings," your device location settings will reset to default.
 
@@ -197,13 +210,6 @@ The Apple iPhone XS Max’s Weather app has a map feature that exclusively displ
 
 ![air quality](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-4.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If information regarding air quality is widely available in your country, it will also show up on the Apple iPhone XS Max’s Weather app. You can view from there the recorded air quality index in your area together with a rating if it is good or not. At present, we cannot deny that being aware of the air quality around us is indeed essential. It somehow helps us lessen our exposure to harmful pollutants in the atmosphere. That’s why you should take advantage of this feature. Read the tutorial on how to change the weather location on your Apple iPhone XS Max and configure your settings. This way, you’ll stay updated on the air quality of the places you will visit going forward.
 
 ## Part 2. How to Change Weather Location on Apple iPhone XS Max?
@@ -228,10 +234,10 @@ Let’s say you just need to check the weather conditions in another location. C
 ![reorder location list](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Change the Weather app’s primary location on the widget
@@ -246,13 +252,6 @@ Do you have a Weather widget on your Apple iPhone XS Max’s home screen? If so,
 - **Step 3:** Click **Location.** From there, enter your desired location into the search bar and choose one from the suggested results.
 
 ![search weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** The location will be then changed immediately on the widget. If the Edit Weather option is unavailable on your end, try to update your iOS first. The Weather app has just been released recently on Apple iPhone XS Max. Therefore, Apple is making changes from time to time.
 
@@ -308,13 +307,6 @@ Fixing the issue can be put as secondary thing. What should matter is why such t
 
 It is understood that the Waze app runs on GPS. Therefore, having poor signals can be the main cause of why Apple iPhone XS Max says “no GPS showing approximate location”. This will not let the location services work properly and therefore arising the issues like these. And hence, as the first thing, we would like to suggest you leaving the place if there are poor or no signals at all. This will do nothing but ruin your mood and app’s performance. Do this and see if the problem goes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Check date & time settings
 
 As the other solution to Waze Apple iPhone XS Max 6 no GPS, you must check your date and time settings. A lot of times, the issue comes with incorrect time/location settings. And therefore, here we suggest you to do the following things.
@@ -326,6 +318,13 @@ Step 2: Hit on “General” and tap on “Date & Time”.
 Step 3: Toggle off the switch next to “Set Automatically”. If you also want to set 24-hour timings, you can do so by toggling the respective switch.
 
 ![date time settings 1](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Now, in the date & time settings, tap on “date”. Now, adjust the time according to you.
 
@@ -367,6 +366,20 @@ To Reset Location & Privacy Settings, the steps are identical. Just tap on “Re
 
 ![reset location privacy](https://images.wondershare.com/drfone/2023/virtuallocation/reset-location-privacy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 6: Re-install Waze and grant location permission in settings
 
 There are times when an app fails to work properly. And it can be possible that Waze in your device is not able to discover your location. In such cases, giving a little treatment to the apps can be helpful. So, here is the next fix. Try to install the app once again and give the permissions concerning location when Waze Apple iPhone XS Max no GPS issue still arrives. Make sure to follow the steps carefully.
@@ -386,20 +399,13 @@ Step 6: Head to “Location Services” and look for the app.
 ![grant permission](https://images.wondershare.com/drfone/2023/virtuallocation/grant-permission.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 7: Toggle the switch on to give the location permission. You can choose between “While Using the App” and “Always”.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 7: Toggle on and off Wi-Fi and cellular data
 
@@ -457,24 +463,18 @@ We have introduced various ways to be followed when there is no GPS showing appr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-unleash-creativity-on-instagram-stories-with-branded-emojis/"><u>[New] Unleash Creativity on Instagram Stories with Branded Emojis</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-ideal-app-for-aspiring-filmmakers-a-reel-crafting-list/"><u>[Updated] In 2024, Ideal App for Aspiring Filmmakers A Reel-Crafting List</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-snap-shots-in-google-meet-a-quick-guide/"><u>[Updated] Mastering Snap Shots in Google Meet A Quick Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-uncovering-hidden-wellsprings-of-free-graphic-designs/"><u>[Updated] Uncovering Hidden Wellsprings of Free Graphic Designs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-zipfile-subs-guide-from-archive-to-srt-file-format-for-2024/"><u>[Updated] Zipfile Subs Guide From Archive to SRT File Format for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-intensify-your-videoleap-images-through-precision-zooming/"><u>2024 Approved Intensify Your Videoleap Images Through Precision Zooming</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-14-plusipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 14 Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-xripad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone XR/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-13ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 13/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-7-plusipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 7 Plus/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-8-plusipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 8 Plus/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-xs-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone XS Max/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/halo-infinite-pc-version-solving-the-constant-crash-issues/"><u>Halo Infinite PC Version: Solving the Constant Crash Issues</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-14-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 14 Pro GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-s17-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo S17</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-network-growth-share-igtv-videos-and-fb/"><u>In 2024, Unlocking Network Growth Share IGTV Videos & FB</u></a></li>
-<li><a href="https://article-helps.techidaily.com/perfecting-picture-pizzazz-with-illustrators-motion-blur/"><u>Perfecting Picture Pizzazz with Illustrator's Motion Blur</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-noticing-lack-of-friend-requests/"><u>[Updated] 2024 Approved Noticing Lack of Friend Requests</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unleash-your-contents-potential-for-1m-views-on-youtube/"><u>[Updated] 2024 Approved Unleash Your Content's Potential for 1M Views on YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-5-lite-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resync-an-unresponsive-xbox-one-controller-with-the-console-a-comprehensive-guide/"><u>How to Resync an Unresponsive Xbox One Controller with the Console - A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone XS/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 13 Pro Max/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-6sipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 6s/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-x-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone X and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-visionary-groups-redefining-virtual-space/"><u>In 2024, Visionary Groups Redefining Virtual Space</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-13-miniipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 13 mini/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-rust-software-unresponsiveness-top-tips-and-techniques/"><u>Resolving Rust Software Unresponsiveness - Top Tips and Techniques</u></a></li>
 </ul></div>
 
