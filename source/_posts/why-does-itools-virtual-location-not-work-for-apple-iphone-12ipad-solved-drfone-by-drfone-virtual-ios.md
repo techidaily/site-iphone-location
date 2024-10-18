@@ -1,7 +1,7 @@
 ---
 title: Why Does iTools Virtual Location Not Work For Apple iPhone 12/iPad? Solved | Dr.fone
-date: 2024-10-08T21:44:17.157Z
-updated: 2024-10-11T23:00:24.549Z
+date: 2024-10-15T17:19:14.269Z
+updated: 2024-10-17T21:18:44.388Z
 tags: 
   - virtual location chang
   - location changer
@@ -108,23 +108,9 @@ How do you stop sharing location on Apple iPhone 12? Well, the easiest way is to
 
 ![iphone location services](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Toggle off the radio button next to **Location Services.**
 
 ![turn off location services](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Turn on Airplane Mode
 
@@ -136,10 +122,10 @@ For Apple iPhone 12 and other iOS devices, you can instantly deactivate location
 ![iphone airplane mode](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Toggle off the Share My Location feature on the Find My Friends app
@@ -184,13 +170,6 @@ Instead of entirely turning off the Location Services across your Apple iPhone 1
 
 ![iphone app permissions](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5:** Click **Never** under the Allow Location Access section. Alternatively, you may select **Ask Next Time** or **While Using the App** if you just wish to keep the location access within bounds.
 
 ![iphone location access](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-11.jpg)
@@ -208,6 +187,13 @@ The tutorials above on how to hide location on Apple iPhone 12 are indeed helpfu
 
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** Go back to the top-left corner of your screen and then hit the search bar. Type in your preferred location and choose one among the suggested results. After that, click the **Enter** icon.
 
 ![type in your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -216,6 +202,19 @@ The tutorials above on how to hide location on Apple iPhone 12 are indeed helpfu
 
 ![confirm the suggested location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** Your inputs will be immediately applied to the location settings on your Apple iPhone 12. From then on, you may now browse the internet without worrying about location privacy. If you wish to restore the original location settings on your Apple iPhone 12, simply close the Wondershare Dr.Fone application on your computer and restart your device.
 
 ![location settings updated](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
@@ -223,10 +222,10 @@ The tutorials above on how to hide location on Apple iPhone 12 are indeed helpfu
 **NOTE:** Resort to this option if your actual location information is not required in the transaction or procedure. For example, you may change your location if you wish to use a dating app or play GPS-based games on your mobile device.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -251,6 +250,13 @@ This article will address three methods for **seeing someone’s location on Ap
 
 ![enable find my iphone](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Now, you are ready to locate the target's iPhone location anytime you wish. To do so, access the official website of iCloud and log in to the target’s iCloud account carefully.
 
 ![login to target icloud](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-3.jpg)
@@ -259,16 +265,16 @@ This article will address three methods for **seeing someone’s location on Ap
 
 ![track iphone location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Other Features
 
 Find My iPhone offers numerous other features that can help you to find lost or stolen phones effortlessly. Through this app, you can play a sound on your lost iPhone for 2 minutes, even if the iPhone is on silent mode. You can also get easy and clear directions through this app towards the exact location of your phone. Moreover, if your Apple iPhone 12 gets stolen, you can lock your device through a passcode and can erase all the data from it with a single click.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Find Someone’s Location on Apple iPhone 12 via Find My Friends
 
@@ -280,6 +286,19 @@ Through this particular app, you can also try **how to find someone’s location
 
 - The suitable users for locating someone’s location on Apple iPhone 12 are those who have an evident reach to the target’s iPhone and are also included in the contact list of that particular phone.
 - Through this app, you cannot observe someone's location in an incognito mode as the target iPhone owner can easily check if someone is navigating their location once they open the Find My Friends app. Also, a notification will pop up on the target's iPhone regarding their shared location.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps on How to Track Someone’s iPhone via Find My Friends
 
@@ -294,13 +313,6 @@ Through this particular app, you can also try **how to find someone’s location
 **Step 3:** To begin sharing the location of the target's phone to your device, swipe up on your Apple iPhone 12 to use AirDrop and make your Apple iPhone 12 discoverable by clicking on "Everyone." Tap "Add" on the target device and then choose the option of "Share Indefinitely."
 
 ![select the location sharing time](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** You would receive a notification message asking for permission to accept the target's location and share your location on your Apple iPhone 12. Tap on "Don't share" to locate the target's phone without sharing your location. Now on the Find My Friends app, you can easily see the location of the target's iPhone along with its contact icon.
 
@@ -318,16 +330,16 @@ iMessage has a hidden feature through which you can also know **how to see someo
 
 ![open your imessage chat](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Now tap on the contact icon and then click on the info icon from where you would see different options. Tap on "Share My Location" and set the time duration of location sharing. You can set the time for 1 hour, 24 hours, or indefinitely.
 
 ![enable imessage share location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** On your Apple iPhone 12, join the location sharing of the target's phone and do not permit to share your location. Thus, you can easily track the target's location on your Apple iPhone 12 via iMessage.
 
@@ -389,24 +401,16 @@ Through this detailed guide, you can quickly learn **how to quickly see someone�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-why-does-imovie-crop-my-videos/"><u>[New] 2024 Approved Why Does iMovie Crop My Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-screen-record-on-hp-laptop-for-2024/"><u>[New] How to Screen Record on Hp Laptop for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facesave-videorecorder-pro/"><u>[Updated] 2024 Approved FaceSave Videorecorder Pro</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-enhancing-media-top-5-streamlining-gadgets-for-2024/"><u>[Updated] Enhancing Media Top 5 Streamlining Gadgets for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-film-techniques-flawless-virtual-backdrops-integration/"><u>[Updated] In 2024, Instagram Film Techniques Flawless Virtual Backdrops Integration</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 7/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-6-plus-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 6 Plus Waze | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-worlds-wonders-with-superzoom-power-nikon-coolpix-p1000/"><u>Exploring the World's Wonders with Superzoom Power – Nikon COOLPIX P1000</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-12-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12-miniipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12 mini/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-6sipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 6s/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-15-pro-max-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 15 Pro Max and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-launch-your-youtube-presence-step-by-step-guide/"><u>In 2024, Launch Your YouTube Presence Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-multitasking-with-picture-in-picture-for-2024/"><u>Mastering the Art of Multitasking with Picture In Picture for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726027928639-obs-studio/"><u>OBS Studio入門：新米ユーザー用の簡単なスクリーン録画ガイド</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-6-plusipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 6 Plus/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube/"><u>[New] 2024 Approved Free Yourself From Cash for Sound The Best 18 Audio Crackers on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-easy-customization-free-youtube-visual-templates/"><u>[Updated] In 2024, Easy Customization Free YouTube Visual Templates</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/essential-steps-for-exceptional-photographic-assemblies/"><u>Essential Steps for Exceptional Photographic Assemblies</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-15-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 15 Waze | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-blueprint-for-cutting-edge-xbox-recording/"><u>In 2024, The Ultimate Blueprint for Cutting-Edge Xbox Recording</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-reactivating-a-non-responsive-steelseries-headset-mic/"><u>Solution Guide: Reactivating a Non-Responsive SteelSeries Headset Mic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-visual-wonders-essential-knowledge-on-ps-3d-luts/"><u>Unlocking Visual Wonders Essential Knowledge on PS 3D Luts</u></a></li>
 </ul></div>
 

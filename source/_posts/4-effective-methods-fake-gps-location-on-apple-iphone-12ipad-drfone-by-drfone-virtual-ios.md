@@ -1,7 +1,7 @@
 ---
 title: 4 Effective Methods Fake GPS Location on Apple iPhone 12/iPad | Dr.fone
-date: 2024-10-05T23:44:54.805Z
-updated: 2024-10-11T19:44:52.762Z
+date: 2024-10-13T20:46:26.357Z
+updated: 2024-10-17T16:53:06.166Z
 tags: 
   - virtual location chang
   - location changer
@@ -41,44 +41,17 @@ If you wish to spoof location on your Apple iPhone 12 and even show off the rout
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step-by-step guide on how to fake GPS location on both iOS and Android devices with Dr.Fone - Virtual Location**
 
 **Step 1:** Launch the iOS GPS spoof tool on your PC and go to the “Virtual Location” tab when you enter the main interface.
 
 ![main interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Now, connect your Apple iPhone 12 or Android phone to the computer and click on the “Get Started” option on the screen
 
 **Step 3:** In the following window, the current virtual location can be easily found. If you can’t find it, click on the “Current Virtual Location” icon (found on the lower right side) and the default location will be shown.
 
 ![click Center On](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Choose the first one to activate the "teleport mode" from the five modes given at the upper right side of the screen. Then, type the name of the location in the field and tap “Go”.
 
@@ -93,10 +66,10 @@ If you wish to spoof location on your Apple iPhone 12 and even show off the rout
 ![show the fake location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Simulate the Route Movement between two Places**
@@ -112,13 +85,6 @@ If you wish to spoof location on your Apple iPhone 12 and even show off the rout
 On the left panel, you can also enter the number of trips. This number will depict how many times you are up to traveling between the two spots.
 
 ![start marching](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** The **GPS spoofing Apple iPhone 12** and simulation of movement will begin now. You can track the movement, and the position will be seen moving with the previously chosen speed.
 
@@ -180,6 +146,13 @@ The next method to **fake location on Apple iPhone 12** and Android phones is by
 
 ![jailbreak your device](https://images.wondershare.com/drfone/article/2019/09/fake-gps-ios-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Final Words
 
 We made you familiar with useful iOS location spoofers, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . All of them can help you to fake GPS locations on your Apple iPhone 12 or iPad, whether it's for privacy, gaming, or exploration purposes. Among these options, Dr.Fone - Virtual Location stands out as a reliable and user-friendly tool that ensures a seamless and secure experience when altering your device's GPS location. Give it a try and unlock the potential to navigate the world from your iOS device with ease and confidence.
@@ -234,19 +207,6 @@ For Apple iPhone 12 and other iOS devices, you can instantly deactivate location
 
 ![iphone airplane mode](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Toggle off the Share My Location feature on the Find My Friends app
 
 Find My Friends is a useful iOS application to help you monitor the whereabouts of your friends and relatives. In return, they can also view your location information from their end. Oftentimes, it does not cause any problems. But still, we don’t know what’s waiting ahead of us. Data breaches may happen and compromise our personal data. Therefore, it’s best to cut off location services on the Find My Friends app if you don’t need it. Here’s how to hide your location on your Apple iPhone 12 with the aid of this method.
@@ -261,6 +221,13 @@ Find My Friends is a useful iOS application to help you monitor the whereabouts 
 - **Step 5:** Toggle off the radio button next to **Share My Location.**
 
 ![turn off share my location](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Switch off Significant Location settings
 
@@ -289,18 +256,25 @@ Instead of entirely turning off the Location Services across your Apple iPhone 1
 
 ![iphone app permissions](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** Click **Never** under the Allow Location Access section. Alternatively, you may select **Ask Next Time** or **While Using the App** if you just wish to keep the location access within bounds.
 
 ![iphone location access](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **NOTE:** The changes on this setting are individually applied. You need to do the same procedure in all the apps you want to reconfigure the location access.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. Alternative Way to Hide Location on Apple iPhone 12 Using <u>Wondershare Dr.Fone</u>
 
@@ -317,13 +291,40 @@ The tutorials above on how to hide location on Apple iPhone 12 are indeed helpfu
 
 ![type in your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6:** The full details about your chosen location will be then displayed on the screen. Review the information provided and make sure that it’s what exactly you’re looking for. Once confirmed, click **Move Here.**
 
 ![confirm the suggested location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** Your inputs will be immediately applied to the location settings on your Apple iPhone 12. From then on, you may now browse the internet without worrying about location privacy. If you wish to restore the original location settings on your Apple iPhone 12, simply close the Wondershare Dr.Fone application on your computer and restart your device.
 
 ![location settings updated](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **NOTE:** Resort to this option if your actual location information is not required in the transaction or procedure. For example, you may change your location if you wish to use a dating app or play GPS-based games on your mobile device.
 
@@ -352,13 +353,6 @@ It’s worth noting that PokeGo++ was released for both Android and iOS. Apple i
 So, let’s get to the real question, i.e., does PokeGo++ still work. Unfortunately, the answer is “No”, PokeGo++ is neither available for iOS nor Android. Back in 2019, when the majority of users started switching to PokeGo++, Niantic filed a lawsuit against Global++. They claimed that the hacked version of Pokemon Go gives an unfair advantage to some users. In addition to this, Niantic also stated that PokeGo++ was developed by infringing on Niantic’s intellectual property rights.
 
 Due to this lawsuit, Global++ had to immediately stop the release of PokeGo++ to its users, take down their official website, and delete all their discord servers as well. In fact, Niantic even secured all their future projects with this lawsuit. It was believed that Global++ was secretly working on a hacked version of Harry Potter: Wizards Unite, Niantic’s next big project. But, due to the lawsuit, they had to stop working on this as well. So, as shocking as it may sound, but you can no longer use PokeGo++ Apple iPhone 12 or Android to fake GPS location and catch new Pokemon.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Any better alternative for PokeGo ++
 
@@ -401,20 +395,18 @@ Despite being a pretty useful tweaked version of Pokemon Go, PokeGO++ is not ava
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-quick-steps-to-nostalgic-facebook-story-viewing/"><u>[New] 2024 Approved Quick Steps to Nostalgic Facebook Story Viewing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-direct-connectivity-ios-and-android-file-relay/"><u>[New] Direct Connectivity IOS & Android File Relay</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-premier-selection-of-premium-video-chat-tools-ios-android-ranking-for-2024/"><u>[New] Premier Selection of Premium Video Chat Tools (iOS, Android) Ranking for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-x-digital-editor-pc-compatibility/"><u>[New] X-Digital Editor PC Compatibility</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-breaking-down-the-three-stages-of-snapchat-calls-and-chats/"><u>[Updated] Breaking Down the Three Stages of Snapchat Calls and Chats</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac/"><u>2024 Approved The Ultimate Guide to Leveraging Preview Capabilities on a Mac</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-xr-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone XR Waze | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-14-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 14 GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-14ipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 14/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-silence-card-upgrade/"><u>Monitor Silence, Card Upgrade</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-11ipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 11/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-camera-stabilizers-for-youtuber/"><u>[New] Best Camera Stabilizers for YouTuber</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-the-art-of-professional-gopro-cinematography-for-2024/"><u>[New] Mastering the Art of Professional Gopro Cinematography for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-confronting-giants-picking-your-powerhouse-t5-or-sjcam-s6/"><u>[Updated] 2024 Approved Confronting Giants Picking Your Powerhouse - T5 or SJCAM S6</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-is-splitcam-the-premier-choice-for-video-capture/"><u>[Updated] In 2024, Is SplitCam the Premier Choice for Video Capture?</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-14-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 14 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-14ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 14/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-fix-for-missing-high-definition-audio-on-nvidia-systems/"><u>The Definitive Fix for Missing High Definition Audio on NVIDIA Systems</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-13-miniipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 13 mini/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 
