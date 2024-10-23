@@ -1,7 +1,7 @@
 ---
 title: Clear Up Streaming Issue - XC00D36C4
-date: 2024-10-16T00:02:25.780Z
-updated: 2024-10-17T19:38:52.298Z
+date: 2024-10-20T18:13:55.913Z
+updated: 2024-10-23T19:00:01.408Z
 categories:
   - repair-tools
 description: This Article Describes Clear Up Streaming Issue - XC00D36C4
@@ -59,6 +59,13 @@ Table of Content
 
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -75,13 +82,6 @@ Table of Content
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
 
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 2: Download the missing codecs**
 
@@ -100,10 +100,10 @@ Table of Content
 [Read More](http://www.microsoft.com/windows/windowsmedia/player/faq/codec.mspx)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 3: Convert the video file format**
@@ -129,19 +129,6 @@ Table of Content
 * Add profile or click **Edit Selected Profile** – the wrench icon to change or add particular profile settings.
 * Next, click**Start.** Your converted video file will be saved at the specified location.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 4: Disable Copy Protection in Windows Media Player**
 
  Does the error 0xc00d36c4 pops up every time you try to play CD/DVD or a mobile phone music on your PC?
@@ -166,6 +153,13 @@ Table of Content
  Now when you play your music from DVD/ CD or external device, error code 0xc00d36c4 won’t appear.
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 5: Remove and reinstall all USB controllers**
 
@@ -205,6 +199,13 @@ Table of Content
  _Figure: Update driver option in Device Manager_
 
 Tip – If the current driver is up-to-date, just to be on the safer side, uninstall the driver first and then reinstall it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 7: Repair with a Stellar Repair for Video software**
 
@@ -264,13 +265,6 @@ Now, check if the video error is resolved.
 
 **For any query reach us through comments in the box below.**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Was this article helpful?
 
 YES 0
@@ -298,18 +292,21 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-instagram-to-twitter-sharing-without-retweeting/"><u>[New] In 2024, Instagram to Twitter Sharing without Retweeting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-troubleshooting-apple-tv-for-facebook-content/"><u>[New] In 2024, Troubleshooting Apple TV for Facebook Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-pixel-pilgrimage-journey-through-one-thousand-channels/"><u>[New] Pixel Pilgrimage Journey Through One Thousand Channels</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-prime-lenses-for-top-tier-film-projects/"><u>[Updated] Innovative Prime Lenses for Top-Tier Film Projects</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-honor-x50-gt-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Honor X50 GT.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-links-to-nvidias-latest-rtx-2070-super-drivers-compatible-with-windows-11/"><u>Direct Links to NVIDIA's Latest RTX 2070 Super Drivers - Compatible with Windows 11</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-7-plusipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 7 Plus/iPad? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/express-individuality-with-youtube-backgrounds/"><u>Express Individuality with YouTube Backgrounds</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-p55-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel P55 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rated-recs-prime-websites-for-grabbing-snapalert-beats/"><u>In 2024, Rated Recs Prime Websites for Grabbing SnapAlert Beats</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-access-to-high-definition-facebook-videos/"><u>[New] 2024 Approved Unlocking Access to High-Definition Facebook Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10-popular-websites-to-download-aesthetic-wallpapers-for-laptop/"><u>2024 Approved 10 Popular Websites to Download Aesthetic Wallpapers for Laptop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-insta-to-tik-connection/"><u>2024 Approved Navigating the Insta-to-Tik Connection</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-closer-look-at-the-blueear-bluetooth-hoodie-cap-merging-modern-style-and-effective-audible-performance/"><u>A Closer Look at the BlueEar Bluetooth Hoodie Cap: Merging Modern Style and Effective Audible Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-systemsettings-issue-on-windows-11/"><u>Addressing SystemSettings Issue on Windows 11</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-11-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 11 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-transfer-of-android-images-onto-windows-11-learn-the-steps-now/"><u>Effortless Transfer of Android Images Onto Windows 11 - Learn the Steps Now</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-6sipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 6s/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-meizu-21-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Meizu 21 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-tozo-t6-compatibility-on-windows-11/"><u>Troubleshooting Guide: Resolving Issues with Tozo T6 Compatibility on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb3-interrupt-continuity-restored-post-update/"><u>USB3 Interrupt Continuity Restored Post-Update</u></a></li>
 </ul></div>
 
