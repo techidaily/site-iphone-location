@@ -1,7 +1,7 @@
 ---
 title: "Unveiling ChatGPT's New Arsenal of Features: What Users Need to Know"
-date: 2024-10-20T17:56:59.759Z
-updated: 2024-10-23T16:59:53.358Z
+date: 2024-10-22T08:51:50.123Z
+updated: 2024-10-29T05:25:05.225Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are ChatGPT Plugins?
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Browse the Web
@@ -65,6 +65,13 @@ That's not all, though.
 
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
 Close
@@ -74,13 +81,6 @@ Close
  I then asked if ChatGPT Plus with Web Browsing could provide a list of the current F1 World Championship rankings, which it did without any extra prompting:
 
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
 
@@ -93,10 +93,10 @@ Close
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to your**Settings** in the bottom left-hand corner of the ChatGPT screen
@@ -131,22 +131,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-the-art-top-5-hand-to-hand-combat-games/"><u>[New] In 2024, Mastering the Art Top 5 Hand-to-Hand Combat Games</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-capturing-dynamic-action-sequences-on-iphone/"><u>[Updated] Capturing Dynamic Action Sequences on iPhone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-end-of-struggle-operational-obs-camera-for-2024/"><u>[Updated] End of Struggle Operational OBS Camera for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-prime-fps-range-in-leisurely-cinematic-scenes-for-2024/"><u>[Updated] Prime FPS Range in Leisurely Cinematic Scenes for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-15-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 15 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-cv-with-ais-help-from-chatgpt/"><u>Enhancing Your CV with AI's Help From ChatGPT</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-11-pro-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 11 Pro and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-6s-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 6s Plus GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-14-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 14 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone XS Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-14-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 14 Waze | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-xipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone X/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone XS/iPad? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/is-virtualdub-still-the-best-exploring-modern-video-editing-alternatives-for-2024/"><u>Is Virtualdub Still the Best? Exploring Modern Video Editing Alternatives for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/organizing-your-skype-conversations-windowsmac-edition/"><u>Organizing Your Skype Conversations Windows/Mac Edition</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-editors-favorite-phones-the-handsets-they-prefer-in-real-life/"><u>ZDNet Editors' Favorite Phones: The Handsets They Prefer in Real Life!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-do-i-make-my-video-perfectly-fit-instagram/"><u>[New] How Do I Make My Video Perfectly Fit Instagram?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlock-the-power-of-panel-discussions-with-fb-live-screening-for-2024/"><u>[New] Unlock the Power of Panel Discussions with FB Live Screening for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-best-microphones-ranked-perfect-companions-for-4k-cinematography/"><u>[Updated] 2024 Approved Best Microphones Ranked Perfect Companions for 4K Cinematography</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-seipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone SE/iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ving-a-noiseless-presence-on-social-video-platforms-for-2024/"><u>Achieving a Noiseless Presence on Social Video Platforms for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/craft-chic-designs-with-easy-to-use-templates-at-flipbuildercom/"><u>Craft Chic Designs with Easy-to-Use Templates at FlipBuilder.com</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-11-pro-max-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 11 Pro Max and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-streamlining-music-addition-to-online-videos-step-by-step-techniques/"><u>New In 2024, Streamlining Music Addition to Online Videos Step-by-Step Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-freezing-issues-in-fallout-3-on-windows-10-computers/"><u>Overcoming Freezing Issues in Fallout 3 on Windows 10 Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/set-up-and-manage-slack-alerts-with-your-apple-watch-a-step-by-step-guide/"><u>Set Up and Manage Slack Alerts with Your Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-12ipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 12/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 
