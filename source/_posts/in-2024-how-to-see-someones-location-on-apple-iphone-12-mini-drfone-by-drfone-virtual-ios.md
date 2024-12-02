@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to See Someones Location on Apple iPhone 12 mini | Dr.fone
-date: 2024-11-21T23:27:34.934Z
-updated: 2024-11-23T19:15:07.277Z
+date: 2024-11-28T18:20:16.747Z
+updated: 2024-12-02T00:28:41.834Z
 tags: 
   - virtual location chang
   - location changer
@@ -32,6 +32,10 @@ This article will address three methods for **seeing someone’s location on Ap
 
 ![enable find my iphone](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, you are ready to locate the target's iPhone location anytime you wish. To do so, access the official website of iCloud and log in to the target’s iCloud account carefully.
 
 ![login to target icloud](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-3.jpg)
@@ -41,7 +45,7 @@ This article will address three methods for **seeing someone’s location on Ap
 ![track iphone location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Other Features
@@ -69,10 +73,6 @@ Through this particular app, you can also try **how to find someone’s location
 
 ![enable share my location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** To begin sharing the location of the target's phone to your device, swipe up on your Apple iPhone 12 mini to use AirDrop and make your Apple iPhone 12 mini discoverable by clicking on "Everyone." Tap "Add" on the target device and then choose the option of "Share Indefinitely."
 
 ![select the location sharing time](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-9.jpg)
@@ -80,6 +80,10 @@ Through this particular app, you can also try **how to find someone’s location
 **Step 4:** You would receive a notification message asking for permission to accept the target's location and share your location on your Apple iPhone 12 mini. Tap on "Don't share" to locate the target's phone without sharing your location. Now on the Find My Friends app, you can easily see the location of the target's iPhone along with its contact icon.
 
 ![don’t share your location with target](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Check Someone’s Location on Apple iPhone 12 mini by iMessage
 
@@ -96,10 +100,6 @@ iMessage has a hidden feature through which you can also know **how to see someo
 **Step 2:** Now tap on the contact icon and then click on the info icon from where you would see different options. Tap on "Share My Location" and set the time duration of location sharing. You can set the time for 1 hour, 24 hours, or indefinitely.
 
 ![enable imessage share location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** On your Apple iPhone 12 mini, join the location sharing of the target's phone and do not permit to share your location. Thus, you can easily track the target's location on your Apple iPhone 12 mini via iMessage.
 
@@ -129,6 +129,10 @@ Start with launching the Dr.Fone tool on your computer and open the tool to clic
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Connect your Phone**
 
 Now connect your phone to the computer and tap on the option “Get Started” on the computer’s screen. You can check your current location on the map on the new page. You can also click on the icon "Center on" to instantly see your current location on the map.
@@ -140,10 +144,6 @@ Now connect your phone to the computer and tap on the option “Get Started” o
 Now enable the teleport mode by tapping on its icon displayed on the upper right of the screen. Afterward, type the place you want to use a location on the search box and tap on the "Go" option. A pop-up box will display where you click on "Move Here" for confirmation. Now your location has been changed with the place you have selected before so that you can fake your current location.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
@@ -210,10 +210,6 @@ There are several tools out there claiming to offer such, but none comes close t
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Ways:Change Your Home Address in Google/Apple Map on Apple iPhone 12 mini/iPad
 
 Nothing feels more convenient than identifying the direction to your home with just a few clicks. Likewise, your Apple iPhone 12 mini can take you home with just a few clicks on the address registered on the maps app. But what if your home address changes? How would you update your new address on your Apple iPhone 12 mini? Read further to know the details about changing your home address on your Apple iPhone 12 mini**!**
@@ -239,10 +235,6 @@ Follow the steps given below to know how to change your home address in Google m
 
 ![tap labeled google maps](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step4:** The "Labelled" section shows the list of your labeled places such as home, office, etc.
 - **Step5:** You will find the three dots next to each place. For example, tap on the one next to “Home”.
 
@@ -256,6 +248,10 @@ Follow the steps given below to know how to change your home address in Google m
 - **Step8:** Click on the “Save” option available at the bottom of the screen to save your new address.
 
 ![enter new address](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change Your Home Address in Apple Maps on iPhone
 
@@ -271,6 +267,10 @@ Here’s how to update your home address in Apple Maps via contact card:
 
 ![i icon apple maps](https://images.wondershare.com/drfone/article/2022/05/how-to-change-your-home-address-in-google-or-apple-map-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step3:** Here, you will find an option to open your Contact Card.
 
 ![choose contact card apple maps](https://images.wondershare.com/drfone/article/2022/05/how-to-change-your-home-address-in-google-or-apple-map-8.jpg)
@@ -284,7 +284,7 @@ Here’s how to update your home address in Apple Maps via contact card:
 ![tap done](https://images.wondershare.com/drfone/article/2022/05/how-to-change-your-home-address-in-google-or-apple-map-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Change iPhone Home Location by Modifying Apple ID Address
@@ -305,10 +305,6 @@ Are you moving to a new country or a new region? Do you want to update your new 
 
 **Note:** Make sure that all your Apple ID subscriptions are used and finished because changing the Appl ID address might make them unusable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Changing My Card to Change Home Address on iPhone
 
 Alternatively, you can try to change “My Card” from your contact list to update your new address on your Apple iPhone 12 mini. First, you need to follow the simple steps given below to change your home address in Apple on iPhone via contact cards:
@@ -319,9 +315,17 @@ Alternatively, you can try to change “My Card” from your contact list to upd
 
 ![my card iphone](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step2:** You will find the “Edit” option at the top-right corner of the screen. Tap on it.
 
 ![edit option my card iphone](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step3:** You can easily add your new address here by clicking the “add address” option and deleting the old one.
 
@@ -330,10 +334,6 @@ Alternatively, you can try to change “My Card” from your contact list to upd
 - **Step4:** Click on the “Done” tab after modifying the address.
 
 ![tap done my card iphone](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-17.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: Spoof Location on iPhone to Change Home Address
 
@@ -366,10 +366,6 @@ Here, we have mentioned some easy steps of location spoofing using Dr.Fone:
 
 ![activate teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Enter the desired location on the search bar and click on the “Go” button.
 
 ![enter location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -381,6 +377,10 @@ Here, we have mentioned some easy steps of location spoofing using Dr.Fone:
 - **Step 6:** Now, your location is changed.
 
 **Note:** You can go back to your default location by clicking on the “Reset Location” option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -400,15 +400,20 @@ Updating your home address on your Apple iPhone 12 mini can sometimes be tricky.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-elite-4k-gaming-laptops-ranked-1/"><u>[New] In 2024, Elite 4K Gaming Laptops Ranked #1</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decoding-the-update-process-for-enhanced-graphics-drives-windows-7/"><u>Decoding the Update Process for Enhanced Graphics Drives, Windows 7</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-se-2022ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone SE (2022)/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-x50-gt-frp-by-drfone-android/"><u>Full Guide to Bypass Honor X50 GT FRP</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hearth-warming-hear-from-happy-customers/"><u>Hearth-Warming Hear From Happy Customers</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-6-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 6 Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-xripad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone XR/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/up-to-date-tips-for-purchasing-top-360-imagers/"><u>Up-to-Date Tips for Purchasing Top 360 Imagers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonic-horizons-exploring-fade-effects/"><u>[New] Harmonic Horizons Exploring Fade Effects</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ion-air-pro-3-visionary-revolutionizing-action-video/"><u>[New] In 2024, ION Air Pro 3 Visionary - Revolutionizing Action Video</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nnovative-nomadism-how-to-stand-out-as-a-modern-travel-videographer/"><u>[New] Innovative Nomadism How To Stand Out as A Modern Travel Videographer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-a-smooth-transition-into-vr-worlds/"><u>[New] Tips for a Smooth Transition Into VR Worlds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-builds-for-a-thriving-mc-village-homes/"><u>[Updated] Best Builds for a Thriving MC Village Homes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/freeing-your-tunes-transforming-itunes-files-into-high-quality-mp3s/"><u>Freeing Your Tunes: Transforming iTunes Files Into High-Quality MP3s</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-13-pro-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 13 Pro and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-6s-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 6s Plus/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-14-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 14 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pixelprofilers-picks-top-tools-for-your-screen-snapping-needs/"><u>In 2024, PixelProfiler's Picks Top Tools for Your Screen Snapping Needs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-the-dynamics-behind-youtubes-investment-in-shorts/"><u>In 2024, Understanding the Dynamics Behind YouTube's Investment in Shorts</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-13ipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 13/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 
