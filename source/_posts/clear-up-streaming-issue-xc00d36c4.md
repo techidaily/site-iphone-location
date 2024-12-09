@@ -1,7 +1,7 @@
 ---
 title: Clear Up Streaming Issue - XC00D36C4
-date: 2024-11-28T16:42:38.769Z
-updated: 2024-12-02T02:35:55.151Z
+date: 2024-12-04T18:13:28.021Z
+updated: 2024-12-09T17:28:23.160Z
 categories:
   - repair-tools
 description: This Article Describes Clear Up Streaming Issue - XC00D36C4
@@ -42,6 +42,10 @@ Table of Content
 
  _Figure: Error 0xc00d36c4 message in Windows_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **What is error 0xc00d36c4 in videos?**
 
  The message: _This file isn’t playable. That might be because the file type is unsupported, the file extension is incorrect, or the file is corrupt. 0xc00d36c4.’_ is a Windows error that can occur due to the following reasons:
@@ -52,6 +56,10 @@ Table of Content
 * The display adapter driver is outdated
 * System drivers are outdated
 * Windows Media Player has a copy-protected feature enabled (in case of DVD/CD videos)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How to fix error 0xc00d36c4 in videos** **?**
 
@@ -76,6 +84,10 @@ Table of Content
 
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 2: Download the missing codecs**
 
  The video error could be because one or more supporting codecs are not installed on your computer. So download compatible codec(s) for that particular video file format.
@@ -91,10 +103,6 @@ Table of Content
  For more information about codecs, visit the following Microsoft Web site:
 
 [Read More](http://www.microsoft.com/windows/windowsmedia/player/faq/codec.mspx)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 3: Convert the video file format**
 
@@ -120,7 +128,7 @@ Table of Content
 * Next, click**Start.** Your converted video file will be saved at the specified location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 4: Disable Copy Protection in Windows Media Player**
@@ -147,10 +155,6 @@ Table of Content
  Now when you play your music from DVD/ CD or external device, error code 0xc00d36c4 won’t appear.
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 5: Remove and reinstall all USB controllers**
 
@@ -213,10 +217,6 @@ Tip – If the current driver is up-to-date, just to be on the safer side, unins
 
 **Step 3:** Preview the repaired videos and click**Save Repaired File.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Method 8: Try AVI repair in VLC Media Player to fix error 0xc00d36c4**
 
  Free VLC Media Player has an AVI repair feature. Try the function to fix the video error 0xc00d36c4 in AVI files. If your video file is other than AVI, you can rename it to AVI and then fix it using the media player.
@@ -243,10 +243,6 @@ Now, check if the video error is resolved.
 | **Copy and Paste Hack you may try to fix code 0xc00d36c4**  Does the error code 0xc00d36c4 occur while trying to open the video saved on DVD/CD, USB drive, etc.?  Simply copy your video file from the external storage to the computer drive and then play. This hack has actually worked for many! |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **To Sum Up**
 
  Error code 0xc00d36c4 while playing videos is either due to unsupported video format or codec or corruption in the video file. It could also occur because of computer conflict with USB devices. Troubleshooting the error should begin by installing the supporting codec or converting the video file format to another. If these methods do not help, reinstall or update the drivers using the above methods.
@@ -256,6 +252,10 @@ Now, check if the video error is resolved.
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 **For any query reach us through comments in the box below.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -284,16 +284,19 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlocking-features-advanced-logitech-webcam-techniques/"><u>[New] 2024 Approved Unlocking Features Advanced Logitech Webcam Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-elevate-your-video-content-on-tiktok/"><u>[New] In 2024, Elevate Your Video Content on TikTok</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-10-remarkable-e-learning-platforms-excluding-udemy/"><u>2024 Approved Top 10 Remarkable E-Learning Platforms Excluding Udemy</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 11/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-13-miniipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 13 mini/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 8/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone XS/iPad? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/premium-photographic-archives/"><u>Premium Photographic Archives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pro-series-precision-testing-the-best-of-gopro-hero5-b-for-2024/"><u>Pro-Series Precision Testing the Best of GoPro Hero5 B for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-quiet-quality-of-comfort-asmr-expert-choices-for-2024/"><u>The Quiet Quality of Comfort ASMR Expert Choices for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-win11-easy-capture-and-save-tool/"><u>[New] In 2024, Win11 Easy Capture & Save Tool</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-behind-the-scenes-insights-for-instagram-story-audience-for-2024/"><u>[Updated] Behind the Scenes Insights for Instagram Story Audience for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-behind-the-scenes-with-viral-image-memes-and-stories-for-2024/"><u>[Updated] Behind the Scenes with Viral Image Memes & Stories for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-8-plusipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 8 Plus/iPad? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y36i-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y36i Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 15 Pro/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-12-miniipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 12 mini/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-15-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 15 Plus/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ultimate-steps-for-turning-pin-videos-into-music-files/"><u>In 2024, Ultimate Steps for Turning Pin Videos Into Music Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/iphone-digital-id-recognition-gains-traction-in-california/"><u>IPhone Digital ID Recognition Gains Traction in California</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/is-your-social-media-strategy-up-to-date-with-facebook-changes/"><u>Is Your Social Media Strategy Up-to-Date with Facebook Changes?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximizing-b-roll-impact-in-your-edits/"><u>Maximizing B-Roll Impact in Your Edits</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 4 Effective Methods Fake GPS Location on Apple iPhone 13 mini/iPad | Dr.fone
-date: 2024-11-26T17:39:09.645Z
-updated: 2024-12-01T19:29:41.090Z
+date: 2024-12-07T17:55:11.827Z
+updated: 2024-12-09T17:09:01.143Z
 tags: 
   - virtual location chang
   - location changer
@@ -33,6 +33,10 @@ Before initiating this, it is to be noted that though **faking location on Apple
 - Also, you may have to face some consequences even if you delete the fake GPS app from the Apple iPhone 13 mini device, like malfunctioning in the original GPS.
 - More than this, legal repercussions can also come your way, and you may need to handle it for faking GPS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Fake iOS GPS location with a location simulator
 
 If you wish to spoof location on your Apple iPhone 13 mini and even show off the route between the two destinations, the best that can help you is [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With the help of this, you will not only just have a fake location on iOS (including iOS17), but can simulate the movement between two and multiple spots. We are going to show you how. Have a look below for the steps. Before moving, ensure to download this location spoofer for both iOS and Android and install it on your PC.
@@ -46,10 +50,6 @@ If you wish to spoof location on your Apple iPhone 13 mini and even show off the
 **Step 1:** Launch the iOS GPS spoof tool on your PC and go to the “Virtual Location” tab when you enter the main interface.
 
 ![main interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** Now, connect your Apple iPhone 13 mini or Android phone to the computer and click on the “Get Started” option on the screen
 
@@ -87,6 +87,10 @@ On the left panel, you can also enter the number of trips. This number will depi
 
 ![track the movement](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 2: Spoof Apple iPhone 13 mini location with NordVPN
 
 Jailbreaking could be an easy method but a lot of people avoid it. So, if you wish to **spoof Apple iPhone 13 mini GPS** without jailbreak, choosing this method will be a great idea. Here is how you can do it. Using the app [NordVPN](https://apps.apple.com/app/nordvpn-vpn-fast-secure/id905953485?platform=iphone), you will fake the location on social media thereby showing others that you are on vacation.
@@ -114,10 +118,18 @@ If you are not comfortable downloading an extra app on your phone to serve the p
 
     ![launch terminal](https://images.wondershare.com/drfone/article/2019/09/fake-gps-ios-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Git config --global user.email "<you@example.com>"
 2. git config --global user. name "your name"
 
 ![input commands](https://images.wondershare.com/drfone/article/2019/09/fake-gps-ios-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** Make alterations on “<you@example.com>” and “your name” with your information.
 
@@ -144,7 +156,7 @@ The next method to **fake location on Apple iPhone 13 mini** and Android phones 
 ![jailbreak your device](https://images.wondershare.com/drfone/article/2019/09/fake-gps-ios-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Final Words
@@ -184,21 +196,21 @@ How do you stop sharing location on Apple iPhone 13 mini? Well, the easiest way 
 
 ![iphone privacy and security](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Click **Location Services.**
 
 ![iphone location services](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Toggle off the radio button next to **Location Services.**
 
 ![turn off location services](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Turn on Airplane Mode
 
@@ -255,10 +267,6 @@ Instead of entirely turning off the Location Services across your Apple iPhone 1
 
 ![iphone location access](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **NOTE:** The changes on this setting are individually applied. You need to do the same procedure in all the apps you want to reconfigure the location access.
 
 ## Part 3. Alternative Way to Hide Location on Apple iPhone 13 mini Using <u>Wondershare Dr.Fone</u>
@@ -284,10 +292,6 @@ The tutorials above on how to hide location on Apple iPhone 13 mini are indeed h
 
 ![location settings updated](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **NOTE:** Resort to this option if your actual location information is not required in the transaction or procedure. For example, you may change your location if you wish to use a dating app or play GPS-based games on your mobile device.
 
 ## Conclusion
@@ -306,10 +310,6 @@ Apple iPhone 13 mini is among the most popular gadget devices in current times. 
 
 This means you will find difficulty in locating your destination. Moreover, you will not be able to use those applications that rely on GPS technology. For example, a fitness app needs to track your distance and route. Not to forget, a malfunctioning GPS may also drain more battery.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: What Are the Potential Reasons for Apple iPhone 13 mini GPS Not Working?
 
 With GPS, you can track the live locations of your destination in seconds. In fact, you can also track any human depending on their live location. But as an iOS user, it’s normal to face ****Apple iPhone 13 mini GPS not working****. Why does this happen? Here are the following reasons behind this error:
@@ -319,17 +319,9 @@ With GPS, you can track the live locations of your destination in seconds. In fa
 - ****Incorrect Settings:**** It's possible that GPS settings are not properly configured on your Apple iPhone 13 mini. Like, you may have accidentally turned off location services. While using your Apple iPhone 13 mini, turning on and off certain features is common.
 - ****Hardware Issue:**** If your phone is exposed to water or physical damage, this may affect GPS. There may be a hardware issue caused due to this situation. Thus, the GPS antenna or chip may have been damaged.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How To Fix Apple iPhone 13 mini GPS Not Working?
 
 Having an erroneous Apple iPhone 13 mini GPS is not a new thing. But it does bring many inconveniences for the users. After all, you are deprived of live location tracking and positioning. To fix such ****Apple iPhone 13 mini GPS not working**** issues, these ways are ideal solutions:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 1: Make Sure GPS Service is Enabled on Apple iPhone 13 mini
 
@@ -353,6 +345,10 @@ Restarting an Apple iPhone 13 mini is the ultimate way to rectify underlying pro
 
 - ****Step 2:**** Wait for some time till your device gets powered off. After this, hold the “Power” button until the Apple logo appears to restart your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 3: Force Restart Apple iPhone 13 mini
 
 Sometimes your Apple iPhone 13 mini may get hung up due to an underlying issue. So, when your device is not responding, you cannot restart it from settings. In this scenario, you need to force restart Apple iPhone 13 mini. To do this, perform these simple instructions:
@@ -362,6 +358,10 @@ Sometimes your Apple iPhone 13 mini may get hung up due to an underlying issue. 
 - ****Apple iPhone 13 mini 8 and Later:**** Initially, quickly press and release the “Volume Up” button, then perform the same with the “Volume Down” button. After this, press and hold the “Sleep/Wake” button, and release the button once the Apple logo appears.
 
 ![force restart Apple iPhone 13 mini](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 4: Reset Network Settings
 
@@ -421,6 +421,10 @@ Download and launch Wondershare Dr.Fone's latest version on your computer. Next,
 
 ![choose the system repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 2: Choose Desired Repair Mode****
 
 Here choose "iOS Repair," and on the next screen, select the desired repair mode. Proceed with the "Standard Repair," as it will not affect your data. Now follow the on-screen instructions to activate Recovery Mode.
@@ -432,10 +436,6 @@ Here choose "iOS Repair," and on the next screen, select the desired repair mode
 After recovery mode is enabled, the platform will automatically detect the Apple iPhone 13 mini device and provide firmware accordingly. Press "Download" against the required firmware to start downloading it. Once the firmware is downloaded, click "Repair Now” to repair GPS not working issue on Apple iPhone 13 mini.
 
 ![click on repair now](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -457,15 +457,20 @@ Apparently, this article provides step-by-step procedures to solve ****Apple iPh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-nintendo-switch-fighter-showcase-max-156/"><u>[New] 2024 Approved Ultimate Nintendo Switch Fighter Showcase (Max 156)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-historys-high-scorers-on-reddit-top-10-list/"><u>[New] History's High Scorers on Reddit - Top 10 List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-proven-ways-to-record-and-save-ps4-games-for-2024/"><u>[New] Proven Ways to Record and Save PS4 Games for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/1-unveiling-the-latest-ai-features-of-microsoft-copilot-in-office-365-your-guide-to-optimization/"><u>1. Unveiling the Latest AI Features of Microsoft Copilot in Office 365: Your Guide to Optimization</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-xcover-6-pro-tactical-edition-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy XCover 6 Pro Tactical Edition FRP Bypass Instantly</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-x-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone X GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-6s-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 6s Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-8-plus-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 8 Plus Waze | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-claude-ai-the-revolutionary-tool-that-transforms-your-experience/"><u>Unveiling Claude AI: The Revolutionary Tool That Transforms Your Experience</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-perfect-timeline-control-with-top-20-tweet-management-apps-for-2024/"><u>[New] Perfect Timeline Control with Top 20 Tweet Management Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expert-tips-to-transform-lengthy-videos-into-engaging-segmented-content/"><u>[Updated] 2024 Approved Expert Tips to Transform Lengthy Videos Into Engaging, Segmented Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-of-background-replacement-in-editing-suite/"><u>[Updated] The Art of Background Replacement in Editing Suite</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/erase-your-chatgpt-footprints/"><u>Erase Your ChatGPT Footprints</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuit-mp3-in-mkv-online-converter-movavi/"><u>Gratuit MP3-in-MKV Online Converter - Movavi</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-8-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 8 GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 15/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 8/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-xs-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone XS Max/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-14-plusipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 14 Plus/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-6ipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 6/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-hp-officejet-pro-8620-driver-downloads-for-windows-systems/"><u>Latest HP OfficeJet Pro ˈ8620 Driver Downloads for Windows Systems</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-reaction-video-essentials-top-mobile-apps-you-need-to-know/"><u>New 2024 Approved Reaction Video Essentials Top Mobile Apps You Need to Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-your-game-overcoming-launch-hurdles-with-dead-space-remake-tips-for-202-grooping-the-latest-trends-in-gaming-troubleshooting/"><u>Unlock Your Game: Overcoming Launch Hurdles with Dead Space Remake, Tips for 202 Grooping the Latest Trends in Gaming Troubleshooting</u></a></li>
 </ul></div>
 

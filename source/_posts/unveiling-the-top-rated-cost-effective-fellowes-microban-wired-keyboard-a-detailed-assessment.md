@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Top-Rated, Cost-Effective Fellowes Microban Wired Keyboard: A Detailed Assessment"
-date: 2024-11-25T21:59:32.700Z
-updated: 2024-12-01T17:38:05.770Z
+date: 2024-12-08T17:36:26.704Z
+updated: 2024-12-09T18:18:57.552Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Top-Rated, Cost-Effective Fellowes Microban Wired Keyboard: A Detailed Assessment"
@@ -13,13 +13,13 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WDbYK32TR0KZYkaW6A8K51jQSpU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -45,13 +45,13 @@ Lifewire / Emily Isaacs
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -74,15 +74,15 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Cleaner than the rest**
 
  Ergonomic keyboards are designed to encourage natural, neutral movements that put less strain on wrists and shoulders,[preventing repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) over time. This is especially important for people who spend large portions of their day in a home or office setting tethered to their computer.
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WPjeQmKmzof_KVFE5_fIwN92cXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_05-24f7f07146ae45cd86d2c5bdd4791ee5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -101,14 +101,10 @@ Lifewire / Emily Isaacs
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Features: Multimedia hotkeys for ease of use**
 
@@ -119,6 +115,10 @@ Lifewire / Emily Isaacs
  The Fellowes connects to a PC via a USB cord. We couldn’t help but appreciate the simplicity of this design choice, especially as more and more companies are looking for ways to cut cords. Cutting down on cables is great when it makes sense, but the corded connection here allows for a dependable product, since you never have to worry about a low battery, and also means that the keyboard is more reliable for[faster typists](https://www.lifewire.com/typing-speed-tests-1356663) . It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed. This is useful if you type faster than conventional keyboards can keep up with, making it less likely for you to lose a stroke.
 
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
 
@@ -175,18 +175,20 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-re-enable-windows-photo-viewer-methods-for-win-11-users-for-2024/"><u>[New] Re-Enable Windows Photo Viewer - Methods for Win 11 Users for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-hdtv-showdown-selecting-the-best-8k-models-for-2024/"><u>[New] The Ultimate HDTV Showdown Selecting the Best 8K Models for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-polarrs-complete-guide-mastering-image-editing/"><u>2024 Approved Polarr's Complete Guide Mastering Image Editing</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/determining-the-specific-model-number-on-your-macbook-device/"><u>Determining the Specific Model Number on Your MacBook Device</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/diversify-laptop-editing-with-alternatives-to-inshot-for-2024/"><u>Diversify Laptop Editing with Alternatives to Inshot for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-simple-pour-convertir-des-videos-mkv-en-mp4-haute-definition-sans-diminution-de-la-qualite/"><u>Guide Simple Pour Convertir Des Vidéos MKV en MP4 Haute Définition Sans Diminution De La Qualité.</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-xs-max-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone XS Max GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-7-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 7</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revealing-the-art-of-zoomed-details-using-kinemasters-tools/"><u>Revealing the Art of Zoomed Details Using Kinemaster's Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-swipe-right-to-fb-vids-swipe-left-for-mp4s/"><u>[New] Swipe Right to FB Vids, Swipe Left for MP4s</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[Updated] In 2024, Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-minuscule-cinematic-design/"><u>2024 Approved Minuscule Cinematic Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webmmp4-movavi/"><u>自由搜尋線上從WEBM到MP4格式切換 - 採用Movavi解答方案</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-content-conflict-errors/"><u>Addressing Steam Content Conflict Errors</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/adventurous-at-your-fingertips-travel-gadgets-guide/"><u>Adventurous At Your Fingertips: Travel Gadgets Guide</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/discover-how-photoscape-revolutionizes-image-editing-for-everyone-with-its-free-user-friendly-platform/"><u>Discover How PhotoScape Revolutionizes Image Editing for Everyone with Its Free, User-Friendly Platform</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-hub-your-ultimate-guide/"><u>Exploring Tom's Tech Hub: Your Ultimate Guide</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/master-the-art-of-comfortable-commuting-on-mods-new-accessible-sidecar-bike/"><u>Master the Art of Comfortable Commuting on Mod’s New Accessible Sidecar Bike</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/sailing-into-the-future-assessing-the-performance-peaks-and-valleys-of-the-seatech-blu-ray-writer/"><u>Sailing Into the Future: Assessing the Performance Peaks and Valleys of the SeaTech Blu-Ray Writer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-art-of-flow-mastering-inshots-segmentation-techniques-for-2024/"><u>The Art of Flow Mastering Inshot's Segmentation Techniques for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/top-review-quality-and-functionality-of-bybs-premium-430-led-swing-lamp/"><u>Top Review: Quality and Functionality of BYB's Premium 430 LED Swing Lamp</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-lowering-cpu-demands-caused-by-chrome/"><u>Troubleshooting and Lowering CPU Demands Caused by Chrome</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/unveiling-chatgpts-new-arsenal-of-features-what-users-need-to-know/"><u>Unveiling ChatGPT's New Arsenal of Features: What Users Need to Know</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/unveiling-the-versatility-of-anker-roavs-dash-cam-c1-a-complete-overview/"><u>Unveiling the Versat^ility of Anker Roav's Dash Cam C1 - A Complete Overview</u></a></li>
 </ul></div>
 

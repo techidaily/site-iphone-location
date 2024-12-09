@@ -1,7 +1,7 @@
 ---
 title: 3 Smart and Simple Ways to Change Home Address on Apple iPhone 12 Pro Max | Dr.fone
-date: 2024-11-25T23:00:18.251Z
-updated: 2024-12-01T18:46:40.716Z
+date: 2024-12-08T16:20:47.063Z
+updated: 2024-12-09T16:28:32.890Z
 tags: 
   - virtual location chang
   - location changer
@@ -59,7 +59,7 @@ Step 4. Now, tap on the “My Info” option to view your details like name, ema
 ![change home address Apple iPhone 12 Pro Max 7](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Change Home Address in Google Maps on Apple iPhone 12 Pro Max?
@@ -129,10 +129,6 @@ If you wish to spoof location on your Apple iPhone 12 Pro Max and even show off 
 
 ![main interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Now, connect your Apple iPhone 12 Pro Max or Android phone to the computer and click on the “Get Started” option on the screen
 
 **Step 3:** In the following window, the current virtual location can be easily found. If you can’t find it, click on the “Current Virtual Location” icon (found on the lower right side) and the default location will be shown.
@@ -147,10 +143,6 @@ If you wish to spoof location on your Apple iPhone 12 Pro Max and even show off 
 
 ![move there](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6:** Congratulations! You have successfully faked iOS 17 GPS. Your Apple iPhone 12 Pro Max will show the fake location now in the location-based apps.
 
 ![show the fake location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
@@ -164,6 +156,10 @@ If you wish to spoof location on your Apple iPhone 12 Pro Max and even show off 
 **Step 3:** Choose the mode of speed you want to use to walk, like cycling speed. Click on “Move Here” from the pop-up.
 
 ![click Move Here](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On the left panel, you can also enter the number of trips. This number will depict how many times you are up to traveling between the two spots.
 
@@ -205,10 +201,6 @@ If you are not comfortable downloading an extra app on your phone to serve the p
 
 ![input commands](https://images.wondershare.com/drfone/article/2019/09/fake-gps-ios-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** Make alterations on “<you@example.com>” and “your name” with your information.
 
 **Step 3: Move your Location Head**
@@ -239,6 +231,10 @@ We made you familiar with useful iOS location spoofers, including [Dr.Fone - Vir
 
 _Further reading: [What is HackRF and how to use a HackRF for GPS Spoofing?](https://drfone.wondershare.com/fake-location/gps-spoofing-with-hackrf-from-windows.html) _
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12 Pro Max
 
 With the advent of digitalization in everything, GPS is one feature that has taken world by the storm. There are abundance of apps and websites that demand location for better exposure and services according to the current location. Apple always does the best for keeping the privacy and security features and allows users to have control over location permissions.
@@ -246,7 +242,7 @@ With the advent of digitalization in everything, GPS is one feature that has tak
 Many of the iOS users wonder about “how do I stop someone from tracking my Apple iPhone 12 Pro Max”. Though the saved locations are not sent to the Apple servers, but for some, privacy is everything. If you are one of those who chooses privacy over anything and doesn’t wish to share location with anyone else, this article deals with the same. We will help you know how to stop tracking on Apple iPhone 12 Pro Max in different ways.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Importance of Keeping Location Data Private
@@ -272,15 +268,15 @@ To start the process, you are required to get the Dr.Fone – Virtual Location (
 
 ![launch Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Connect the Apple iPhone 12 Pro Max device**
 
 Take help of your lightening cable and connect the Apple iPhone 12 Pro Max to the computer. Upon successful connection, hit on the “Get Started” button.
 
 ![connect the Apple iPhone 12 Pro Max](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Find your Location**
 
@@ -293,6 +289,10 @@ From the following window, you will be able to notice the actual location of you
 To do this, simply go to the third icon in the upper right corner of the screen. This “Teleport Mode” icon will let you teleport anywhere you want. Now, you just have to input the name of the place in the filed given and click “Go”.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Change Location**
 
@@ -308,17 +308,21 @@ If the above method didn’t suit you, this is how you can turn off tracking on 
 
 ![disable location](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, go for the “Location Services” and tap on it.
 
 ![Location Services](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Slide the switch next to “Location Services” to turn the locations off.
 
 ![use the switch](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Disable location tracking of specific apps
 
@@ -334,6 +338,10 @@ In the above section, you have stopped tracking on Apple iPhone 12 Pro Max entir
 
 The first option will never send your location to the apps. Second option will use your location only when you use the particular app. And as it suggests itself, by choosing the “Always” option will always track your location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: Disable Significant Locations on Apple iPhone 12 Pro Max
 
 Apart from the apps, Apple iPhone 12 Pro Max itself keeps record of where you travel the most. These frequently visited locations are referred to as significant locations. The purpose of such tracking is to help you providing location concerned suggestions, especially when you employ Siri or other features. If you want to turn off such tracking on Apple iPhone 12 Pro Max, we can help you. These are the steps that you should follow in this case.
@@ -345,6 +353,10 @@ Apart from the apps, Apple iPhone 12 Pro Max itself keeps record of where you tr
 **Step 3:** After this, click on the “System Services” from the bottom.
 
 ![System Services](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Look for “Significant Locations”. You will be prompted to use your password or touch ID to access the feature. Do it right away.
 
@@ -362,10 +374,6 @@ The feature “Share My Locations” enables you to share your locations with yo
 
 ![turn off Share My Location](https://images.wondershare.com/drfone/article/2019/09/disable-share-my-location.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 6: Disable location-based notifications or alerts
 
 iPhone provides three kinds of location based services. These include the services regarding alerts, Apple ads and suggestions. If this feature is turned on, you may get the notifications, suggestions or iAds according to what is best for your location. If this bothers you and you don’t want this to happen, you can turn it off by following steps below. This is how to turn off tracking on Apple iPhone 12 Pro Max in terms of location-based alerts and notifications:
@@ -377,14 +385,6 @@ iPhone provides three kinds of location based services. These include the servic
 **Step 3:** Subsequently, you can disable the location based services or alerts as you want.
 
 ![disable the location services or alerts](https://images.wondershare.com/drfone/article/2019/09/disable-location-based-alerts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -404,19 +404,20 @@ We are concluding the topic here with a great hope that you now are well informe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-cutting-edge-techniques-for-improved-ram-in-minecraft/"><u>[New] 2024 Approved Cutting-Edge Techniques for Improved Ram in Minecraft</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-10-best-moba-games-for-android/"><u>[New] 2024 Approved Top 10 Best MOBA Games for Android</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-integrating-video-conferencing-within-gmail-ecosystem-with-zoom-for-2024/"><u>[New] Integrating Video Conferencing Within Gmail Ecosystem with Zoom for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-essential-screen-recording-software-list-for-vloggers/"><u>[Updated] Essential Screen Recording Software List for Vloggers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-premier-pick-top-10-apps-to-catch-football-and-tennis-in-the-moment-for-2024/"><u>[Updated] Premier Pick Top 10 Apps to Catch Football and Tennis in the Moment for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-15-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 15 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-6s-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 6s Plus GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone XS Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-note-12-proplus-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi Note 12 Pro+ 5G Phone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone XS/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mod-to-mp4-video-file-conversion-free-service-by-movavi/"><u>MOD to MP4 Video File Conversion - Free Service by Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/tailored-guide-to-fresh-radeon-graphics-drivers-in-windows-11/"><u>Tailored Guide to Fresh Radeon Graphics Drivers in Windows 11</u></a></li>
+<li><a href="https://win-top.techidaily.com/000-windows/"><u>000フォルダの意味と再生可能な方法 - Windows上でのファイル回復ガイド</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-crafting-memes-on-9gag/"><u>A Comprehensive Guide to Crafting Memes on 9GAG</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-g310-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia G310 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cloud-savvy-pinpointing-optimal-data-purchases-for-2024/"><u>Cloud Savvy Pinpointing Optimal Data Purchases for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 15 Pro/iPad? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-snapshots-to-genius-pixels-the-remarkable-advancements-of-smartphone-cameras-through-ai-technology/"><u>From Snapshots to Genius Pixels: The Remarkable Advancements of Smartphone Cameras Through AI Technology</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enable-setup-mode-for-echo-dot-complete-instructions/"><u>How To Enable Setup Mode for Echo Dot - Complete Instructions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone XS Max/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-accessing-and-checking-your-devices-location-history-on-iphoneipad/"><u>Step-by-Step Guide: Accessing and Checking Your Device's Location History on iPhone/iPad</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/top-100-videobuze-pentru-noiembrie-pentru-inceputenii-cumparati-si-deschidariti-astfel/"><u>Top 100 Videobuze Pentru Noiembrie Pentru Inceputenii: Cumpărati Și Deschidăriți Astfel!</u></a></li>
 </ul></div>
 

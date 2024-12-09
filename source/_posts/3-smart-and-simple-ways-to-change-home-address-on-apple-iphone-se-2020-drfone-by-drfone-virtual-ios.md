@@ -1,7 +1,7 @@
 ---
 title: 3 Smart and Simple Ways to Change Home Address on Apple iPhone SE (2020) | Dr.fone
-date: 2024-11-26T16:59:57.884Z
-updated: 2024-12-01T18:22:10.655Z
+date: 2024-12-04T19:23:47.532Z
+updated: 2024-12-09T18:16:35.067Z
 tags: 
   - virtual location chang
   - location changer
@@ -40,13 +40,13 @@ Step 5. Alternatively, if you want, you can also mark any location as your favor
 
 ![change home address Apple iPhone SE (2020) 5](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6. After selecting the location, swipe up to get more options related to the location and tap on the “Favorites” feature to save it.
 
 ![change home address Apple iPhone SE (2020) 6](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change Home Address in Apple iPhone SE (2020) Autofill?
 
@@ -61,10 +61,6 @@ Step 3. Here, you can view details related to the automatic filling of contacts,
 Step 4. Now, tap on the “My Info” option to view your details like name, email, address, and so on. Just go to the “Address” field and manually enter your new address to change it.
 
 ![change home address Apple iPhone SE (2020) 7](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Change Home Address in Google Maps on Apple iPhone SE (2020)?
 
@@ -87,10 +83,6 @@ Step 5. That’s it! You can now save the changes you have made and review them 
 ![change home address Apple iPhone SE (2020) 10](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-10.jpg)
 
 That’s a wrap, everyone! I’m sure that after reading this guide you would be able to change home address on Apple iPhone SE (2020) like a pro. To make things easier for you, I have come up with a step-by-step tutorial on how to change home address on Apple iPhone SE (2020) via Apple Maps as well as Google Maps. Furthermore, I have also listed a smart solution to change your address in Safari’s autofill to save your time. Well, this is what I did when I wanted to know how do I change my home address on Apple iPhone SE (2020) a while back. You can follow this drill and share this guide with others to teach them the same.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -133,10 +125,6 @@ Step 3: Toggle off the switch next to “Set Automatically”. If you also want 
 
 ![date time settings 1](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Now, in the date & time settings, tap on “date”. Now, adjust the time according to you.
 
 ![date time settings 2](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-2.jpg)
@@ -146,10 +134,6 @@ Step 5: To change the time zones, hit on “Time Zone” in the date and time se
 Step 6: You can enter the city name and go ahead.
 
 ![date time settings 3](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Restart your Apple iPhone SE (2020)
 
@@ -162,6 +146,10 @@ Step 2: When you see the “Slide to power off” slider, simply drag it to the 
 Step 3: Now, press the “Power” button again for long and power on your device.
 
 ![restart iphone](https://images.wondershare.com/drfone/2023/virtuallocation/restart-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Reset Network and Location & Privacy Settings
 
@@ -177,16 +165,12 @@ Step 3: Here, simply tap on “Reset Network Settings”. Confirm the actions an
 
 ![reset network settings](https://images.wondershare.com/drfone/2023/virtuallocation/reset-network-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To Reset Location & Privacy Settings, the steps are identical. Just tap on “Reset” followed by “Reset Location & Privacy Settings”.
 
 ![reset location privacy](https://images.wondershare.com/drfone/2023/virtuallocation/reset-location-privacy.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 6: Re-install Waze and grant location permission in settings
@@ -207,6 +191,10 @@ Step 6: Head to “Location Services” and look for the app.
 
 ![grant permission](https://images.wondershare.com/drfone/2023/virtuallocation/grant-permission.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: Toggle the switch on to give the location permission. You can choose between “While Using the App” and “Always”.
 
 ## Part 7: Toggle on and off Wi-Fi and cellular data
@@ -222,6 +210,10 @@ Step 3: Wait for a few seconds and turn it on again. Do the same with Cellular D
 Alternatively, you can head to the “Settings” and go to the “Wi-Fi” option to turn off and on. For cellular data, tap “Mobile Data” and turn off and on.
 
 ![toggle wifi on off](https://images.wondershare.com/drfone/2023/virtuallocation/toggle-wifi-on-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 8: Update Apple iPhone SE (2020) to the latest version iOS
 
@@ -313,10 +305,6 @@ iTools Virtual Location is easy to use. However, you have to pay to gain full ac
 
 ![select location on the itool virtual location tool](https://images.wondershare.com/drfone/article/2023/02/how-to-use-itools-virtual-location-on-iphone-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** You will find three different modes within the iTools Virtual Location interface.
 
 - The first mode is Move Mode, which allows you to move with joysticks or keyboards on the computer and simulate the same on the iOS device. You can adjust the speed from the bottom of the page.
@@ -358,10 +346,6 @@ One of the best indicators of an online tool's efficiency is user reviews and co
 
 Of course, the mixed user reviews confused us too about the reliability and efficiency of the iTools Virtual Location. However, it all comes down to what user's liked and what they didn't. So, we went through more than hundreds of user feedback on sites like G2 and Capterra and tested the tools multiple times to find the good and bad things about iTools Virtual Location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pros of iTools Virtual Location
 
 - The application allows you to change your GPS location to anywhere in the world.
@@ -370,12 +354,20 @@ Of course, the mixed user reviews confused us too about the reliability and effi
 - You can use the tools on both Apple iPhone SE (2020) and iPad.
 - You can import GPX files and save them for later use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons of iTools Virtual Location
 
 - A very costly tool. Compared to other location changes in the market, iTools Virtual Location charges high subscription fees.
 - You can pay for iTools Virtual Location individually. And you have to purchase the entire suite to use these fake GPS features in the program.
 - It is mostly suitable for companies and corporations, as it offers multiple licenses, owing to its range of tools in the suite.
 - It does not work well with all location-based social applications. The app crashes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Top 5 Alternative to Fake GPS Location Pro - Dr.Fone - Virtual Location
 
@@ -431,10 +423,6 @@ Overall Dr.Fone Virtual Location boasts a lot of features, including custom spee
 **Step 4.** Once you go to the new location, you can see the location on your phone has been changed.
 
 ![change Apple iPhone SE (2020) location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - The location of your Apple iPhone SE (2020) or Android device should be changed instantly. You can click on the chain icon (the walk mode) on the right pane of the screen. To select Bicycle mode or car mode, click on the subsequent icons.
 
@@ -533,6 +521,10 @@ Fake GPS Run is another suitable iTools Virtual Location alternative that gets t
 
 ![fake gps run](https://images.wondershare.com/drfone/article/2023/02/fake-gps-run.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The best thing about Fake GPS Run is its simple-to-use interface. In fact, when you compare the last two iTools alternative to Fake GPS Run, you will find that all three are basically the same applications under different uniforms. But when it comes to uniform the interface, Fake GPS Run wins the contest. Like its earlier two predecessors, it is free but burdens the users with tons of ads.
 
 **Key Features:**
@@ -557,11 +549,19 @@ The best thing about Fake GPS Run is its simple-to-use interface. In fact, when 
 
 ## Part 6. FAQs About iTools Virtual Location
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. How to Download iTools Virtual Location?
 
 - Go to the Official ThinkSkySoft page.
 - Click on Products from the upper-right pane.
 - Choose Toolset. And click on Buy Now to subscribe to one of the plans of the iTools Virtual Location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Is iTools Virtual Location Safe?
 
@@ -593,19 +593,18 @@ And that's why we include the five best iTools Virtual Location alternatives. Yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-overcome-no-image-problem-in-youtube-shorts/"><u>[New] In 2024, How To Overcome No Image Problem in YouTube Shorts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-free-online-video-capture-leaders-top-10-edition/"><u>[Updated] In 2024, Free Online Video Capture Leaders – Top 10 Edition</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-cut-video-for-instagram-on-mac/"><u>[Updated] In 2024, How To Cut Video For Instagram On Mac</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-11-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 11 Pro Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-private-data-to-smart-conversations-a-guide-to-assembling-your-bespoke-chatgpt-version/"><u>From Private Data to Smart Conversations: A Guide to Assembling Your Bespoke ChatGPT Version</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-8-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 8 Plus without Password?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-find-x7-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo Find X7 Phones? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-11-pro-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 11 Pro Waze | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-15-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 15 Pro Max/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-revamping-dell-realtek-aux/"><u>Step-by-Step: Revamping Dell Realtek AUX</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-nokia-g22-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Nokia G22 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-inside-look-youtube-lives-image-interpretation/"><u>[New] 2024 Approved Inside Look YouTube Live's Image Interpretation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mov-file-keeping-hacks-for-new-win-11-users/"><u>[Updated] In 2024, .MOV File Keeping Hacks for New Win 11 Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-samsung-ubd-k8500-review-2023-update-for-2024/"><u>[Updated] Samsung UBD-K8500 Review - 2023 Update for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715860312256-2024-approved-xbox-game-memories-save-them-with-screenshots/"><u>2024 Approved Xbox Game Memories, Save Them with Screenshots!</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-6s-plusipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 6s Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-12-pro-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 12 Pro Waze | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guia-paso-a-paso-para-crear-una-copia-de-windows-11-en-un-nuevo-disco-duro/"><u>Guía Paso a Paso Para Crear Una Copia De Windows 11 en Un Nuevo Disco Duro</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-x-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone X to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-13-miniipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 13 mini/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/synthesize-ideas-into-presentations-using-chatgpts-ai-skills/"><u>Synthesize Ideas Into Presentations Using ChatGPT's AI Skills</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-our-observed-world-economy/"><u>Understanding Our Observed World Economy</u></a></li>
 </ul></div>
 

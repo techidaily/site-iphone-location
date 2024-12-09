@@ -1,7 +1,7 @@
 ---
 title: In 2024, Hide location on Apple iPhone 11 and Android without others knowing | Dr.fone
-date: 2024-09-23T01:02:10.171Z
-updated: 2024-09-25T23:39:36.024Z
+date: 2024-12-04T16:19:20.479Z
+updated: 2024-12-09T17:08:35.209Z
 tags: 
   - virtual location chang
   - location changer
@@ -27,6 +27,10 @@ In this article, we will talk about the reasons why you should conceal your loca
 First and foremost, most of the apps and services we use today rely heavily on location services. One of which is the Maps app. If we decide to deactivate the location settings on our Apple iPhone 11, Maps cannot provide us with accurate directions. The same thing goes for ride-hailing applications. We cannot book a ride if our Apple iPhone 11s fail to detect our current location. Simply put, location services are very essential nowadays. Shutting it down will certainly affect our overall mobile experience. That’s why you should think twice before you consider cutting off the location services on your Apple iPhone 11. If you’re worried about your privacy, maybe you can just hide your real location and nominate a different one. Is it possible? Of course, it is.
 
 ![iphone location access](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It’s no secret that online crimes are now rampant everywhere. Anyone who has internet access can become the next victim. That’s why you should remain vigilant every time you connect to the internet and surf the web. Don’t surrender confidential information unless the transaction is verified and legitimate. As for your location details, try to recalibrate the settings and hide it from public access? How do you stop sharing location on Apple iPhone 11? Well, there are many ways to do it. Just choose the best method that works perfectly for your current needs and situation.
 
@@ -54,10 +58,7 @@ How do you stop sharing location on Apple iPhone 11? Well, the easiest way is to
 ![turn off location services](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Turn on Airplane Mode
@@ -68,13 +69,6 @@ For Apple iPhone 11 and other iOS devices, you can instantly deactivate location
 - **Step 2:** Toggle on the radio button next to **Airplane Mode.** If you wish to turn it off again, simply click the same button or bring out the **Control Center** and click the **Airplane** icon.
 
 ![iphone airplane mode](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Toggle off the Share My Location feature on the Find My Friends app
 
@@ -90,6 +84,10 @@ Find My Friends is a useful iOS application to help you monitor the whereabouts 
 - **Step 5:** Toggle off the radio button next to **Share My Location.**
 
 ![turn off share my location](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Switch off Significant Location settings
 
@@ -117,13 +115,6 @@ Instead of entirely turning off the Location Services across your Apple iPhone 1
 - **Step 4:** Browse the list below and find the specific app you wish to modify the location service settings. Click on it afterward.
 
 ![iphone app permissions](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Click **Never** under the Allow Location Access section. Alternatively, you may select **Ask Next Time** or **While Using the App** if you just wish to keep the location access within bounds.
 
@@ -172,6 +163,10 @@ Apple iPhone 11 is among the most popular gadget devices in current times. Meanw
 
 This means you will find difficulty in locating your destination. Moreover, you will not be able to use those applications that rely on GPS technology. For example, a fitness app needs to track your distance and route. Not to forget, a malfunctioning GPS may also drain more battery.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: What Are the Potential Reasons for Apple iPhone 11 GPS Not Working?
 
 With GPS, you can track the live locations of your destination in seconds. In fact, you can also track any human depending on their live location. But as an iOS user, it’s normal to face ****Apple iPhone 11 GPS not working****. Why does this happen? Here are the following reasons behind this error:
@@ -180,6 +175,10 @@ With GPS, you can track the live locations of your destination in seconds. In fa
 - ****Airplane Mode:**** When airplane mode is enabled on your Apple iPhone 11, this may cause a GPS issue. You may have forgotten to turn off your airplane mode after air travel. Not to forget, turning off GPS is necessary during flight as per regulations.
 - ****Incorrect Settings:**** It's possible that GPS settings are not properly configured on your Apple iPhone 11. Like, you may have accidentally turned off location services. While using your Apple iPhone 11, turning on and off certain features is common.
 - ****Hardware Issue:**** If your phone is exposed to water or physical damage, this may affect GPS. There may be a hardware issue caused due to this situation. Thus, the GPS antenna or chip may have been damaged.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Fix Apple iPhone 11 GPS Not Working?
 
@@ -198,10 +197,7 @@ A majority of people forget to turn on GPS services on their respective Apple iP
 ![activate the location services](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2: Simple Restart Apple iPhone 11
@@ -212,21 +208,7 @@ Restarting an Apple iPhone 11 is the ultimate way to rectify underlying problems
 
 ![tap on shut down option](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - ****Step 2:**** Wait for some time till your device gets powered off. After this, hold the “Power” button until the Apple logo appears to restart your device.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 3: Force Restart Apple iPhone 11
 
@@ -239,10 +221,7 @@ Sometimes your Apple iPhone 11 may get hung up due to an underlying issue. So, w
 ![force restart Apple iPhone 11](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 4: Reset Network Settings
@@ -275,6 +254,10 @@ Fixing persistent GPS problems on iOS is now easier with [<u>Wondershare Dr.Fone
 
 So, if you have consistent problems with your Apple iPhone 11 GPS system, this tool can rectify the iOS version. Moreover, you don't need special expertise or knowledge to use Wondershare Dr.Fone to fix your Apple iPhone 11. Meanwhile, you enter or exit DFU/Recovery mode with a single click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -303,13 +286,6 @@ Download and launch Wondershare Dr.Fone's latest version on your computer. Next,
 
 ![choose the system repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - ****Step 2: Choose Desired Repair Mode****
 
 Here choose "iOS Repair," and on the next screen, select the desired repair mode. Proceed with the "Standard Repair," as it will not affect your data. Now follow the on-screen instructions to activate Recovery Mode.
@@ -321,6 +297,10 @@ Here choose "iOS Repair," and on the next screen, select the desired repair mode
 After recovery mode is enabled, the platform will automatically detect the Apple iPhone 11 device and provide firmware accordingly. Press "Download" against the required firmware to start downloading it. Once the firmware is downloaded, click "Repair Now” to repair GPS not working issue on Apple iPhone 11.
 
 ![click on repair now](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -349,6 +329,10 @@ It’s worth noting that PokeGo++ was released for both Android and iOS. Apple i
 So, let’s get to the real question, i.e., does PokeGo++ still work. Unfortunately, the answer is “No”, PokeGo++ is neither available for iOS nor Android. Back in 2019, when the majority of users started switching to PokeGo++, Niantic filed a lawsuit against Global++. They claimed that the hacked version of Pokemon Go gives an unfair advantage to some users. In addition to this, Niantic also stated that PokeGo++ was developed by infringing on Niantic’s intellectual property rights.
 
 Due to this lawsuit, Global++ had to immediately stop the release of PokeGo++ to its users, take down their official website, and delete all their discord servers as well. In fact, Niantic even secured all their future projects with this lawsuit. It was believed that Global++ was secretly working on a hacked version of Harry Potter: Wizards Unite, Niantic’s next big project. But, due to the lawsuit, they had to stop working on this as well. So, as shocking as it may sound, but you can no longer use PokeGo++ Apple iPhone 11 or Android to fake GPS location and catch new Pokemon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Any better alternative for PokeGo ++
 
@@ -391,18 +375,22 @@ Despite being a pretty useful tweaked version of Pokemon Go, PokeGO++ is not ava
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-posting-videos-on-twitter-step-by-step-for-2024/"><u>[New] Posting Videos on Twitter Step-by-Step for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-edits-start-on-all-your-tech/"><u>[New] Seamless Edits Start on All Your Tech</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-sprint-through-slow-videos-best-8-android-choices/"><u>[Updated] In 2024, Sprint Through Slow Videos Best 8 Android Choices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-streamline-your-content-efficiently-adding-youtube-captions/"><u>[Updated] Streamline Your Content Efficiently Adding YouTube Captions</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-14-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 14 Pro Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-12-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 12 GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-unexpected-display-challenges-in-windows-11-expert-fixes/"><u>Overcoming Unexpected Display Challenges in Windows 11: Expert Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-steam-login-issues-on-rust-oses/"><u>Streamlining Steam Login Issues on Rust OSes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-battlefield-5-pc-crashes-expert-solutions-for-smooth-gameplay/"><u>Troubleshooting Battlefield 5 PC Crashes: Expert Solutions for Smooth Gameplay</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-windows-and-mac-8-best-3d-video-apps-for-free/"><u>[New] Explore Windows & Mac 8 Best 3D Video Apps for FREE</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-turning-tides-creative-methods-to-flip-your-youtube-video/"><u>[New] Turning Tides Creative Methods to Flip Your YouTube Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capturing-the-moment-the-ultimate-guide-to-screen-recording-with-obs-for-2024/"><u>[Updated] Capturing the Moment The Ultimate Guide to Screen Recording with OBS for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-visual-vibrancy-theory-turned-practice-for-2024/"><u>[Updated] Visual Vibrancy Theory-Turned-Practice for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/adventurous-at-your-fingertips-travel-gadgets-guide/"><u>Adventurous At Your Fingertips: Travel Gadgets Guide</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/asus-router-reviews-find-your-perfect-match-for-flawless-connectivity/"><u>ASUS Router Reviews: Find Your Perfect Match for Flawless Connectivity</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cinematic-cheers-for-the-festive-season-download-these-top-10-happy-new-year-movies/"><u>Cinematic Cheers for the Festive Season: Download These Top 10 'Happy New Year' Movies !</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/discover-how-photoscape-revolutionizes-image-editing-for-everyone-with-its-free-user-friendly-platform/"><u>Discover How PhotoScape Revolutionizes Image Editing for Everyone with Its Free, User-Friendly Platform</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-a-step-by-step-tutorial-for-recording-youtube-live-across-devices/"><u>In 2024, A Step-by-Step Tutorial for Recording YouTube Live Across Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-nubia-red-magic-9-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Nubia Red Magic 9 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-8-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone 8 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-3-versus-gpt-4-an-in-depth-performance-comparison/"><u>Llama 3 versus GPT-4 - An In-Depth Performance Comparison</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/sailing-into-the-future-assessing-the-performance-peaks-and-valleys-of-the-seatech-blu-ray-writer/"><u>Sailing Into the Future: Assessing the Performance Peaks and Valleys of the SeaTech Blu-Ray Writer</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/top-review-quality-and-functionality-of-bybs-premium-430-led-swing-lamp/"><u>Top Review: Quality and Functionality of BYB's Premium 430 LED Swing Lamp</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/understanding-the-technology-how-chatbots-mimic-human-dialogue/"><u>Understanding the Technology: How Chatbots Mimic Human Dialogue</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/unveiling-chatgpts-new-arsenal-of-features-what-users-need-to-know/"><u>Unveiling ChatGPT's New Arsenal of Features: What Users Need to Know</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/unveiling-the-versatility-of-anker-roavs-dash-cam-c1-a-complete-overview/"><u>Unveiling the Versat^ility of Anker Roav's Dash Cam C1 - A Complete Overview</u></a></li>
 </ul></div>
 

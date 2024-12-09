@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix the Apple iPhone 6s Plus GPS not Working Issue | Dr.fone
-date: 2024-11-22T17:19:07.003Z
-updated: 2024-11-23T16:12:57.238Z
+date: 2024-12-02T18:59:30.414Z
+updated: 2024-12-09T16:18:49.398Z
 tags: 
   - virtual location chang
   - location changer
@@ -47,12 +47,16 @@ A majority of people forget to turn on GPS services on their respective Apple iP
 
 ![tap on privacy and security](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 2:**** Press “Privacy & Security” and turn on “Location Services” to enable GPS. You can also enable location for other apps from the same settings.
 
 ![activate the location services](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2: Simple Restart Apple iPhone 6s Plus
@@ -83,13 +87,13 @@ A network connection error is also the reason for ****Apple iPhone 6s Plus GPS n
 
 ![access the general settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - ****Step 2:**** Access the "Transfer or Reset Apple iPhone 6s Plus" options, tap the "Reset" option, and select "Reset Network Settings.” Now reset your Apple iPhone 6s Plus network settings to default by tapping "Reset Network Settings."
 
 ![tap on reset network settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 5: Reset Location and Privacy Settings
 
@@ -220,6 +224,10 @@ Another way to track someone's location on Apple iPhone 6s Plus is through the i
 
 iMessage has a hidden feature through which you can also know **how to see someone’s location on Apple iPhone 6s Plus**. Thus, by using this app, you can easily reach the location of your target's phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Find Someone’s Location through iMessage
 
 **Step 1:** Grab the target’s iPhone and click to open the iMessage app. Then find your contact name and start a conversation with yourself.
@@ -233,6 +241,10 @@ iMessage has a hidden feature through which you can also know **how to see someo
 **Step 3:** On your Apple iPhone 6s Plus, join the location sharing of the target's phone and do not permit to share your location. Thus, you can easily track the target's location on your Apple iPhone 6s Plus via iMessage.
 
 ![observe target location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Fake Location on Apple iPhone 6s Plus to Avoid Others from Tracking You
 
@@ -270,23 +282,23 @@ Now enable the teleport mode by tapping on its icon displayed on the upper right
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 ### Conclusion
 
 Through this detailed guide, you can quickly learn **how to quickly see someone’s location on Apple iPhone 6s Plus**. For diversity, we have discussed three reliable apps that can help you navigate someone's location accurately. However, if you want to fake your location to prevent others from tracking you, we have recommended Dr.Fone – Virtual Location tool, which works precisely in this scenario.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Fixes to 'No GPS - Showing Approximate Location' on Apple iPhone 6s Plus Waze
 
 With all the hectic days and schedule that we all have, being on time seems to be so challenging. In such demanding situations, we all make sure that to save time and do whatever it takes. When it comes to driving and reaching somewhere on time, knowing about the roads, traffic situations etc matter a lot. And Waze app is such a blessing that can surely help us with these. Not to mention, the app uses GPS services of your device. You can afford any issue with such apps, right. Therefore, in this article, we are going to point out an issue that is “no GPS showing approximate location” in Apple iPhone 6s Plus. If you are suffering with the same, please read the article to the end and get solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why Waze shows “No GPS - Showing approximate location” on Apple iPhone 6s Plus
 
@@ -313,17 +325,9 @@ Step 3: Toggle off the switch next to “Set Automatically”. If you also want 
 
 ![date time settings 1](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Now, in the date & time settings, tap on “date”. Now, adjust the time according to you.
 
 ![date time settings 2](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: To change the time zones, hit on “Time Zone” in the date and time settings.
 
@@ -343,6 +347,10 @@ Step 3: Now, press the “Power” button again for long and power on your devic
 
 ![restart iphone](https://images.wondershare.com/drfone/2023/virtuallocation/restart-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Reset Network and Location & Privacy Settings
 
 If the above methods didn’t help you solving the problem, we would like to do some works with the network as well as location settings. It should be pointed out that when you reset your network settings, it will refresh and remove the entire settings related to networks like VPN, Wi-Fi etc. Also, by following the Location & Privacy settings, these settings will be restored to the default ones. However, this can be a great solution to fix Waze no GPS showing approximate location in iOS. This is what needs to be followed.
@@ -357,16 +365,12 @@ Step 3: Here, simply tap on “Reset Network Settings”. Confirm the actions an
 
 ![reset network settings](https://images.wondershare.com/drfone/2023/virtuallocation/reset-network-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To Reset Location & Privacy Settings, the steps are identical. Just tap on “Reset” followed by “Reset Location & Privacy Settings”.
 
 ![reset location privacy](https://images.wondershare.com/drfone/2023/virtuallocation/reset-location-privacy.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 6: Re-install Waze and grant location permission in settings
@@ -389,10 +393,6 @@ Step 6: Head to “Location Services” and look for the app.
 
 Step 7: Toggle the switch on to give the location permission. You can choose between “While Using the App” and “Always”.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 7: Toggle on and off Wi-Fi and cellular data
 
 Along with the poor signals, poor networks can also act as a great hindrance for no GPS showing approximate location in Apple iPhone 6s Plus problem. And therefore, doing a simple disable and enable can work wonders. This will simply refresh the GPS data and might help you fixing the issue. Follow the steps below.
@@ -407,10 +407,6 @@ Alternatively, you can head to the “Settings” and go to the “Wi-Fi” opti
 
 ![toggle wifi on off](https://images.wondershare.com/drfone/2023/virtuallocation/toggle-wifi-on-off.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 8: Update Apple iPhone 6s Plus to the latest version iOS
 
 It is an undeniable fact that Apple iPhone 6s Plus or any other device provides glitches when not updated. Therefore, as the last resort, we suggest you to check if your iOS is updated or not. Simply follow the steps below and check if Waze no GPS showing approximate location in Apple iPhone 6s Plus still exists.
@@ -422,6 +418,10 @@ Step 2: Once you are in the next menu, you could see the “Software Update” a
 Step 3: Please tap on that and you will be able to see if the update is present or not. If yes, go ahead with the prompts and install it in your device to make things work.
 
 ![update ios](https://images.wondershare.com/drfone/2023/virtuallocation/update-ios.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -453,22 +453,18 @@ We have introduced various ways to be followed when there is no GPS showing appr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-enhancing-your-mac-installation-manual-for-sierra-version-for-2024/"><u>[Updated] Enhancing Your Mac Installation Manual for Sierra Version for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlocking-full-potential-zdsoft-screen-recorder/"><u>[Updated] In 2024, Unlocking Full Potential ZDSoft Screen Recorder</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-se-2022ipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone SE (2022)/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-8-plusipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 8 Plus/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-7-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 7 and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-zte-nubia-flip-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on ZTE Nubia Flip 5G online without jailbreak</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 Pro without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-6-plus-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 6 Plus Waze | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-revelation-of-effortless-background-elimination-in-photopea/"><u>In 2024, Revelation of Effortless Background Elimination in Photopea</u></a></li>
-<li><a href="https://techidaily.com/maximize-speed-on-windows-11-for-optimal-functionality-a-step-by-step-tutorial/"><u>Maximize Speed on Windows 11 for Optimal Functionality – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/navigating-the-iupdates-project-stay-informed-with-our-latest-insights-and-news-features/"><u>Navigating the IUpdates Project: Stay Informed with Our Latest Insights & News Features</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pro-anglers-choice-the-top-5-cameras-for-fishing/"><u>Pro Angler's Choice The Top 5 Cameras For Fishing</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-12-proipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 12 Pro/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eautys-brightest-stars-youtube-personalities-to-follow-for-2024/"><u>[New] Beauty's Brightest Stars YouTube Personalities to Follow for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-video-vanishing-act-heres-how-to-perform-the-counter-with-12-steps/"><u>[New] Facebook Video Vanishing Act? Here's How to Perform the Counter with 12 Steps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-what-does-the-signature-blue-glyph-on-messenger-stand-for-in-2024/"><u>[New] What Does the Signature Blue Glyph on Messenger Stand For, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-your-iphone-footage-into-vr/"><u>[Updated] Transforming Your iPhone Footage Into VR</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-6sipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 6s/iPad | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138619861-9781633411111-backwoods-witchcraft/"><u>Backwoods Witchcraft | Free Book</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gaming-and-productivity-which-upgrade-comes-first-cpu-or-gpu/"><u>Maximizing Gaming & Productivity: Which Upgrade Comes First, CPu or GPU?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rogue-company-stability-issues-troubleshooting-pc-game-crashes/"><u>Rogue Company Stability Issues: Troubleshooting PC Game Crashes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211260224-9798887633343-the-reintegration-lessons-in-love-the-road-to-mastery/"><u>The Reintegration Lessons in Love; The Road to Mastery | Free Book</u></a></li>
 </ul></div>
 

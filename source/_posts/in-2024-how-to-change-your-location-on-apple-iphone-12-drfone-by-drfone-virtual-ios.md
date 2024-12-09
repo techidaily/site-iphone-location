@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change Your Location on Apple iPhone 12 | Dr.fone
-date: 2024-10-05T07:06:51.093Z
-updated: 2024-10-06T02:55:27.710Z
+date: 2024-12-03T16:52:34.974Z
+updated: 2024-12-09T18:13:34.039Z
 tags: 
   - virtual location chang
   - location changer
@@ -94,13 +94,6 @@ Step 1: Click on the bottom left button (the plus icon). Choose the “Location�
 
 ![fake location whatsapp](https://images.wondershare.com/drfone/2023/virtuallocation/fake-location-whatsapp.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: To send a fake location, use the search box to enter the new location and select the desired location that search results show.
 
 ![select fake location whatsapp](https://images.wondershare.com/drfone/2023/virtuallocation/select-fake-location-whatsapp.jpg)
@@ -169,9 +162,17 @@ Yes, you might encounter issues in certain apps if you change location on your A
 
 If you have faked your location on your Apple iPhone 12 for certain games and applications, check the settings of your location spoofer. Within the app settings, you can revert to your actual location. Apart from that, if you are using a VPN to change location, disconnect from it. Upon turning it off, your device will return to the real location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 In this guide, you have learned how to **change location on the Apple iPhone 12** in different scenarios. Changing or faking a location on an Apple iPhone 12 is easy when you know the right way to do so. We hope that our guide has helped you to spoof GPS location on your Apple iPhone 12. When it comes to tricking location-based apps such as Pokemon Go, [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) comes in handy. So, give a try it now for free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Ways:Change Your Home Address in Google/Apple Map on Apple iPhone 12/iPad
 
@@ -182,13 +183,6 @@ You can use dual maps apps on an iPhone, i.e., Google Maps and Apple Maps. Both 
 **You can watch the video below to change your location on Google/Apple Map**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/uYgmr4GROsw"></iframe>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How to Change Your Home Address in Google Maps on iPhone
 
@@ -219,6 +213,10 @@ Follow the steps given below to know how to change your home address in Google m
 
 ![enter new address](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change Your Home Address in Apple Maps on iPhone
 
 Unlike Google Maps, Apple Map doesn't allow you to change the home address directly in the app, nor does it automatically detect your new home location. To update your home address, you need to change it in your contact card saved on your Apple iPhone 12.
@@ -228,13 +226,6 @@ Here’s how to update your home address in Apple Maps via contact card:
 - **Step1:** Open the “Favorites” section in Apple maps and swipe it up.
 
 ![favorite section apple maps](https://images.wondershare.com/drfone/article/2022/05/how-to-change-your-home-address-in-google-or-apple-map-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step2:** Tap on the “i” button available beside your home address.
 
@@ -261,6 +252,10 @@ Are you moving to a new country or a new region? Do you want to update your new 
 - **Step3:** After this, you need to tap on the “View Apple ID” option available on the screen.
 
 ![view apple id](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step4:** Change your location by clicking on “Country/Region” in the “Accounts” section.
 
@@ -291,6 +286,10 @@ Alternatively, you can try to change “My Card” from your contact list to upd
 - **Step4:** Click on the “Done” tab after modifying the address.
 
 ![tap done my card iphone](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Spoof Location on iPhone to Change Home Address
 
@@ -327,13 +326,6 @@ Here, we have mentioned some easy steps of location spoofing using Dr.Fone:
 
 ![enter location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5:** The system will now show the entered location, and a pop-up will appear for the confirmation. Click on "Move Here".
 
 ![fake the location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -361,10 +353,7 @@ First and foremost, most of the apps and services we use today rely heavily on l
 ![iphone location access](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-1.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It’s no secret that online crimes are now rampant everywhere. Anyone who has internet access can become the next victim. That’s why you should remain vigilant every time you connect to the internet and surf the web. Don’t surrender confidential information unless the transaction is verified and legitimate. As for your location details, try to recalibrate the settings and hide it from public access? How do you stop sharing location on Apple iPhone 12? Well, there are many ways to do it. Just choose the best method that works perfectly for your current needs and situation.
@@ -401,6 +390,10 @@ For Apple iPhone 12 and other iOS devices, you can instantly deactivate location
 
 ![iphone airplane mode](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Toggle off the Share My Location feature on the Find My Friends app
 
 Find My Friends is a useful iOS application to help you monitor the whereabouts of your friends and relatives. In return, they can also view your location information from their end. Oftentimes, it does not cause any problems. But still, we don’t know what’s waiting ahead of us. Data breaches may happen and compromise our personal data. Therefore, it’s best to cut off location services on the Find My Friends app if you don’t need it. Here’s how to hide your location on your Apple iPhone 12 with the aid of this method.
@@ -415,6 +408,14 @@ Find My Friends is a useful iOS application to help you monitor the whereabouts 
 - **Step 5:** Toggle off the radio button next to **Share My Location.**
 
 ![turn off share my location](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Switch off Significant Location settings
 
@@ -432,13 +433,6 @@ In a specific way, the Apple iPhone 12 is capable of remembering certain places 
 
 ![turn off significant locations](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 5: Deactivate Location Services on individual mobile applications
 
 Instead of entirely turning off the Location Services across your Apple iPhone 12, you may just reconfigure the access of individual apps. For instance, the Maps app retains access while Apple TV is restricted. Is it possible? Definitely. Here’s a short guide on how to hide your location on your Apple iPhone 12 by reviewing the location access of each application.
@@ -455,13 +449,6 @@ Instead of entirely turning off the Location Services across your Apple iPhone 1
 ![iphone location access](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-11.jpg)
 
 **NOTE:** The changes on this setting are individually applied. You need to do the same procedure in all the apps you want to reconfigure the location access.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. Alternative Way to Hide Location on Apple iPhone 12 Using <u>Wondershare Dr.Fone</u>
 
@@ -486,14 +473,11 @@ The tutorials above on how to hide location on Apple iPhone 12 are indeed helpfu
 
 ![location settings updated](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-**NOTE:** Resort to this option if your actual location information is not required in the transaction or procedure. For example, you may change your location if you wish to use a dating app or play GPS-based games on your mobile device.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**NOTE:** Resort to this option if your actual location information is not required in the transaction or procedure. For example, you may change your location if you wish to use a dating app or play GPS-based games on your mobile device.
 
 ## Conclusion
 
@@ -513,15 +497,20 @@ Location services are there for a reason. It generally helps mobile devices deli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-traction-on-youtube-deciphering-ranking-principles/"><u>[New] 2024 Approved Gain Traction on YouTube Deciphering Ranking Principles</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-steps-to-disable-auto-recommended-podcasts-in-spotify/"><u>[Updated] In 2024, Steps to Disable Auto-Recommended Podcasts in Spotify</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-14-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 14 Pro Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-13-miniipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 13 mini/iPad | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-recommendations-best-mice-options-for-mac-users-in-202/"><u>Expert Recommendations: Best Mice Options for Mac Users in 202</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-the-ultimate-guide-to-fine-tuning-audio-volume-for-optimal-listening-experience/"><u>In 2024, The Ultimate Guide to Fine-Tuning Audio Volume for Optimal Listening Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-building-by-toms-hardware-experts/"><u>The Ultimate Guide to PC Building by Tom's Hardware Experts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-cutting-edge-free-flv-video-editing-software/"><u>Updated Cutting-Edge Free FLV Video Editing Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-expert-techniques-for-manipulating-iphone-photos/"><u>[New] 2024 Approved Expert Techniques for Manipulating iPhone Photos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unleashing-potential-professional-tips-to-transform-your-social-media-presence/"><u>[New] 2024 Approved Unleashing Potential Professional Tips to Transform Your Social Media Presence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-compile-of-premium-tiktok-backdrop-options/"><u>[New] Compile of Premium TikTok Backdrop Options</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-framed-facets-guide-to-the-best-apps-and-websites-for-image-framing/"><u>[New] In 2024, Framed Facets Guide to the Best Apps and Websites for Image Framing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-upload-tweets-no-retweets-on-mobile/"><u>[Updated] 2024 Approved How to Upload Tweets - No Retweets on Mobile?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-gratuita-da-file-m4a-a-mkv-online-con-movavi-guida-completa/"><u>Conversione Gratuita Da File M4A a MKV Online Con Movavi - Guida Completa</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-15-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 15 Pro Max/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-x-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone X GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-6s-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 6s Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/prime-panzoid-layout-libraries/"><u>Prime Panzoid Layout Libraries</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-preventing-baldurs-gate-3-from-crashing-on-your-windows-computer/"><u>Ultimate Guide to Preventing Baldur's Gate 3 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-14-plusipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 14 Plus/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Does iTools Virtual Location Not Work For Apple iPhone 12 Pro Max/iPad? Solved | Dr.fone
-date: 2024-11-25T21:23:44.411Z
-updated: 2024-12-02T00:26:52.535Z
+date: 2024-12-02T18:08:23.989Z
+updated: 2024-12-09T18:15:24.625Z
 tags: 
   - virtual location chang
   - location changer
@@ -89,10 +89,6 @@ From the exact coordinates of places to their routes, a GPX file would contain t
 
 ![GPX File](https://images.wondershare.com/drfone/article/2021/04/view-gpx-files-online-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Let’s suppose you have devised a route between two points that you would need later on. You can now export the GPX file from the application and even import it to the same or another application. When you use the GPX viewer, it will let you access the route offline without an active internet connection. That’s why GPX files are used to view a route offline while hiking, trekking, cycling, and do other offline activities.
 
 ## Part 2: How to View GPX Files Online in Google Maps?
@@ -123,10 +119,6 @@ This will make Google Maps load a new page that will let you create a fresh map 
 
 ![Import GPX to Google Maps](https://images.wondershare.com/drfone/article/2021/04/view-gpx-files-online-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to View a GPX File Offline with Dr.Fone – Virtual Location?
 
 Besides Google Maps, you can also take the assistance of Dr.Fone – Virtual Location to view GPX files on your computers offline. Since it is a desktop tool, it would let you load any GPX file without being connected to an active internet connection. Besides that, the application can also be used to spoof the location of your iOS device or simulate its movement in a route without jailbreaking it.
@@ -141,27 +133,27 @@ At first, you can just connect your Apple iPhone 12 Pro Max using a working ligh
 
 ![launch virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Simulate the Movement of your Apple iPhone 12 Pro Max**
 
 The application would automatically detect your Apple iPhone 12 Pro Max on the interface with its present location. To simulate its movement, you can click on the Multi-stop or One-stop Mode icons from the top.
 
 ![one stop mode](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can now drop the pin in a route on the map and click on the “Move Here” Button to start simulating the movement.
 
 ![simulate movement](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Subsequently, you can select the number of times you want to cover the route and click on the “March” button. The application will even let you select a preferred speed for the movement.
 
 ![select the speed](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Export or Import the GPX Files**
 
@@ -173,6 +165,10 @@ Similarly, you can also import a GPX file directly to the Dr.Fone application. T
 
 ![import gpx file](https://images.wondershare.com/drfone/guide/import-gpx.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the GPX file is loaded, you can simply wait for a while and let the application process it without closing it in between.
 
 ![wait import gpx](https://images.wondershare.com/drfone/guide/wait-import-gpx.png)
@@ -182,10 +178,6 @@ As you can see, it is pretty easy to view GPX online or offline using the right 
 ## 7 Fixes to 'No GPS - Showing Approximate Location' on Apple iPhone 12 Pro Max Waze
 
 With all the hectic days and schedule that we all have, being on time seems to be so challenging. In such demanding situations, we all make sure that to save time and do whatever it takes. When it comes to driving and reaching somewhere on time, knowing about the roads, traffic situations etc matter a lot. And Waze app is such a blessing that can surely help us with these. Not to mention, the app uses GPS services of your device. You can afford any issue with such apps, right. Therefore, in this article, we are going to point out an issue that is “no GPS showing approximate location” in Apple iPhone 12 Pro Max. If you are suffering with the same, please read the article to the end and get solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why Waze shows “No GPS - Showing approximate location” on Apple iPhone 12 Pro Max
 
@@ -212,12 +204,16 @@ Step 3: Toggle off the switch next to “Set Automatically”. If you also want 
 
 ![date time settings 1](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Now, in the date & time settings, tap on “date”. Now, adjust the time according to you.
 
 ![date time settings 2](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 5: To change the time zones, hit on “Time Zone” in the date and time settings.
@@ -225,6 +221,10 @@ Step 5: To change the time zones, hit on “Time Zone” in the date and time se
 Step 6: You can enter the city name and go ahead.
 
 ![date time settings 3](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Restart your Apple iPhone 12 Pro Max
 
@@ -239,7 +239,7 @@ Step 3: Now, press the “Power” button again for long and power on your devic
 ![restart iphone](https://images.wondershare.com/drfone/2023/virtuallocation/restart-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Reset Network and Location & Privacy Settings
@@ -256,13 +256,13 @@ Step 3: Here, simply tap on “Reset Network Settings”. Confirm the actions an
 
 ![reset network settings](https://images.wondershare.com/drfone/2023/virtuallocation/reset-network-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To Reset Location & Privacy Settings, the steps are identical. Just tap on “Reset” followed by “Reset Location & Privacy Settings”.
 
 ![reset location privacy](https://images.wondershare.com/drfone/2023/virtuallocation/reset-location-privacy.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 6: Re-install Waze and grant location permission in settings
 
@@ -282,10 +282,6 @@ Step 6: Head to “Location Services” and look for the app.
 
 ![grant permission](https://images.wondershare.com/drfone/2023/virtuallocation/grant-permission.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 7: Toggle the switch on to give the location permission. You can choose between “While Using the App” and “Always”.
 
 ## Part 7: Toggle on and off Wi-Fi and cellular data
@@ -302,6 +298,10 @@ Alternatively, you can head to the “Settings” and go to the “Wi-Fi” opti
 
 ![toggle wifi on off](https://images.wondershare.com/drfone/2023/virtuallocation/toggle-wifi-on-off.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: Update Apple iPhone 12 Pro Max to the latest version iOS
 
 It is an undeniable fact that Apple iPhone 12 Pro Max or any other device provides glitches when not updated. Therefore, as the last resort, we suggest you to check if your iOS is updated or not. Simply follow the steps below and check if Waze no GPS showing approximate location in Apple iPhone 12 Pro Max still exists.
@@ -314,6 +314,10 @@ Step 3: Please tap on that and you will be able to see if the update is present 
 
 ![update ios](https://images.wondershare.com/drfone/2023/virtuallocation/update-ios.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -325,10 +329,6 @@ Step 3: Please tap on that and you will be able to see if the update is present 
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -348,18 +348,20 @@ We have introduced various ways to be followed when there is no GPS showing appr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-efficient-remote-video-transmission-unveiling-vlcs-potential-for-2024/"><u>[New] Efficient Remote Video Transmission Unveiling VLC's Potential for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-20mb-video-seconds-breakdown/"><u>[New] In 2024, 20MB Video - Seconds Breakdown</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-oneclickfreeze-easy-screen-recording-quit-for-2024/"><u>[New] OneClickFreeze Easy Screen Recording Quit for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/op-tech-to-record-your-live-video-feeds-online/"><u>[New] Top Tech to Record Your Live Video Feeds Online</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-essential-websites-to-drive-youtube-engagement/"><u>[Updated] 2024 Approved Essential Websites to Drive YouTube Engagement</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-fresh-off-the-press-film-review-and-complementary-options-for-2024/"><u>[Updated] Fresh-Off-the-Press Film Review and Complementary Options for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12-miniipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12 mini/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-12ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 12/iPad | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-audience-friendly-techniques-for-monitoring-facebook-live/"><u>In 2024, Audience-Friendly Techniques for Monitoring Facebook Live</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-11-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 11 GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastery-over-mobile-and-desktop-recording-team-discussions/"><u>[New] In 2024, Mastery Over Mobile & Desktop Recording Team Discussions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-guide-to-saving-memories-as-videos-on-iphone-for-2024/"><u>[Updated] Ultimate Guide to Saving Memories as Videos on iPhone for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-your-channels-a-guide-to-youtube-metrics/"><u>2024 Approved Elevate Your Channels A Guide to YouTube Metrics</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-xs-max-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone XS Max Waze | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-guide-to-capturing-spherical-panoramic-shots/"><u>Detailed Guide to Capturing Spherical Panoramic Shots</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/get-more-for-less-in-tv-streaming-a-comprehensive-review-of-rokus-library-offerings/"><u>Get More for Less in TV Streaming: A Comprehensive Review of Roku's Library Offerings</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-7-plus-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 7 Plus Waze | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-huawei-p60-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Huawei P60 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/raoul-pal-warnings-explosive-growth-in-m2-supply-may-pull-crypto-into-an-unstoppable-supermassive-black-hole-yl-software-analysis/"><u>Raoul Pal Warnings: Explosive Growth in M2 Supply May Pull Crypto Into an Unstoppable 'Supermassive Black Hole' - YL Software Analysis</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-face-swap-revolution-the-top-apps-for-iphone-and-android/"><u>Updated 2024 Approved Face Swap Revolution The Top Apps for iPhone and Android</u></a></li>
 </ul></div>
 
