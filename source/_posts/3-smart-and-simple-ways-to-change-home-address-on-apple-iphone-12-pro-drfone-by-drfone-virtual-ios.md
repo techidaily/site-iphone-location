@@ -1,7 +1,7 @@
 ---
 title: 3 Smart and Simple Ways to Change Home Address on Apple iPhone 12 Pro | Dr.fone
-date: 2024-12-02T18:14:21.167Z
-updated: 2024-12-09T16:19:18.898Z
+date: 2024-12-11T17:09:54.197Z
+updated: 2024-12-15T20:14:12.937Z
 tags: 
   - virtual location chang
   - location changer
@@ -34,10 +34,6 @@ Step 3. This will further list various fields and would give you an option to ed
 
 ![change home address Apple iPhone 12 Pro 3](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4. In case you haven’t added any address, then just tap on the “Add address” button. This will let you enter your address and locate it on the map. Later, you can label it as Home, Work, and so on.
 
 Step 5. Alternatively, if you want, you can also mark any location as your favorite on Apple Maps for a quick access. Just open Apple Maps and select any location of your choice.
@@ -47,10 +43,6 @@ Step 5. Alternatively, if you want, you can also mark any location as your favor
 Step 6. After selecting the location, swipe up to get more options related to the location and tap on the “Favorites” feature to save it.
 
 ![change home address Apple iPhone 12 Pro 6](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change Home Address in Apple iPhone 12 Pro Autofill?
 
@@ -67,7 +59,7 @@ Step 4. Now, tap on the “My Info” option to view your details like name, ema
 ![change home address Apple iPhone 12 Pro 7](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Change Home Address in Google Maps on Apple iPhone 12 Pro?
@@ -104,15 +96,15 @@ That’s a wrap, everyone! I’m sure that after reading this guide you would be
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does PokeGo++ still work on Apple iPhone 12 Pro/iPad?
 
 Pokemon Go players always look forward to cheats and hacks that can help them catch more Pokemon in the game. While the majority of cheats available on the Internet no longer work, there are a few tricks that might help you expand your collection with unique Pokemon characters.
 
 One such cheat/hack, that has helped many iOS users collect Pokemon in the past, is PokeGo++. If you’ve been planning to use PokeGo++ to catch rare Pokemon, continue reading; this guide will provide you a deep insight into PokeGo++ and whether you can use it in 2021 or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What is Pokego++?
 
@@ -164,7 +156,7 @@ With the advent of digitalization in everything, GPS is one feature that has tak
 Many of the iOS users wonder about “how do I stop someone from tracking my Apple iPhone 12 Pro”. Though the saved locations are not sent to the Apple servers, but for some, privacy is everything. If you are one of those who chooses privacy over anything and doesn’t wish to share location with anyone else, this article deals with the same. We will help you know how to stop tracking on Apple iPhone 12 Pro in different ways.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Importance of Keeping Location Data Private
@@ -208,11 +200,19 @@ To do this, simply go to the third icon in the upper right corner of the screen.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Change Location**
 
 You can now easily stop tracking on Apple iPhone 12 Pro by deceiving your location as the program will understand your desired location. You can click on the “Move Here” option from the pop-up. It will change the location and now, any of the location based app in your Apple iPhone 12 Pro will show the selected location.
 
 ![stop tracking on Apple iPhone 12 Pro](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Disable location tracking of Apple iPhone 12 Pro completely
 
@@ -222,6 +222,10 @@ If the above method didn’t suit you, this is how you can turn off tracking on 
 
 ![disable location](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, go for the “Location Services” and tap on it.
 
 ![Location Services](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-2.jpg)
@@ -229,6 +233,10 @@ If the above method didn’t suit you, this is how you can turn off tracking on 
 **Step 3:** Slide the switch next to “Location Services” to turn the locations off.
 
 ![use the switch](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Disable location tracking of specific apps
 
@@ -243,14 +251,10 @@ In the above section, you have stopped tracking on Apple iPhone 12 Pro entirely 
 ![make adjustments](https://images.wondershare.com/drfone/article/2019/09/disable-location-specific-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The first option will never send your location to the apps. Second option will use your location only when you use the particular app. And as it suggests itself, by choosing the “Always” option will always track your location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Disable Significant Locations on Apple iPhone 12 Pro
 
@@ -264,23 +268,11 @@ Apart from the apps, Apple iPhone 12 Pro itself keeps record of where you travel
 
 ![System Services](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Look for “Significant Locations”. You will be prompted to use your password or touch ID to access the feature. Do it right away.
 
 **Step 5:** Toggle off the green slider near “Significant Locations”. This is it!
 
 ![Significant Locations](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Disable Share My Location service
 
@@ -291,6 +283,14 @@ The feature “Share My Locations” enables you to share your locations with yo
 **Step 2:** Look for the “Share My Location” and toggle it off.
 
 ![turn off Share My Location](https://images.wondershare.com/drfone/article/2019/09/disable-share-my-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 6: Disable location-based notifications or alerts
 
@@ -322,19 +322,20 @@ We are concluding the topic here with a great hope that you now are well informe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fb-content-extraction-mastered-discover-the-5-apps/"><u>[New] 2024 Approved FB Content Extraction Mastered - Discover the #5 Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-invisible-audiences-viewing-instagram-stories-privately-from-pcandroidios-screens/"><u>[New] Invisible Audiences Viewing Instagram Stories Privately From PC/Android/iOS Screens</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-social-media-streamlining-iphoneandroid-tips-for-effective-feeds-for-2024/"><u>[New] Social Media Streamlining IPhone/Android Tips for Effective Feeds for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-videotwit-extractor-directly-download-tweeted-media-for-mobile/"><u>[New] VideoTwit Extractor Directly Download Tweeted Media for Mobile</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy/"><u>[Updated] In 2024, Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-se-2022ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone SE (2022)/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone XS Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-6-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 6 Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-bringing-images-to-life-windows-and-mac-text-integration-techniques/"><u>In 2024, Bringing Images to Life Windows & Mac Text Integration Techniques</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-xripad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone XR/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-c50-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco C50 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-finest-unboxing-content-15-top-ranked-youtube-vids-for-2024/"><u>The Finest Unboxing Content 15 Top-Ranked YouTube Vids for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-influential-impact-celebrating-instagrams-most-dynamic-stars/"><u>[New] In 2024, Influential Impact Celebrating Instagram's Most Dynamic Stars</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unveiling-iphone-features-podcast-audiophiles-guide-for-2024/"><u>[Updated] Unveiling iPhone Features - Podcast Audiophiles Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-virtual-impression-sculpting-a-playful-digital-identity/"><u>[Updated] Virtual Impression Sculpting a Playful Digital Identity</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/classificacoes-e-testemunhos-de-especialistas-sobre-o-software-movavi/"><u>Classificações E Testemunhos De Especialistas Sobre O Software Movavi</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/filmoras-rival-a-comprehensive-list-of-top-quality-template-collections/"><u>Filmora's Rival A Comprehensive List of Top-Quality Template Collections</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-se-2022ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone SE (2022)/iPad? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-5-camera-background-modification-utilities/"><u>In 2024, Superior 5 Camera Background Modification Utilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-gadgets-a-look-into-toms-hardware-reviews/"><u>Inside the World of Gadgets - A Look Into Tom's Hardware Reviews</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-quality-movie-maker-turn-everyday-video-clips-into-a-high-quality-movie/"><u>Updated 2024 Approved Quality Movie Maker Turn Everyday Video Clips Into a High Quality Movie</u></a></li>
 </ul></div>
 

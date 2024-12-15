@@ -1,7 +1,7 @@
 ---
 title: Unable to Install New iOS on iPhone/iPad? Here Are Nine Quick Ways to Resolve!
-date: 2024-12-06T17:59:29.612Z
-updated: 2024-12-09T16:09:21.339Z
+date: 2024-12-08T20:11:57.951Z
+updated: 2024-12-15T19:33:10.057Z
 tags:
   - iphone
   - apple
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
  Let's look at some fixes that will help you get the latest system software running on your device properly. Here's how to fix your iPhone or iPad when it won't let you update iOS or iPadOS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Charge Your iPhone or iPad
 
  Let's start with some basics before diving into more advanced troubleshooting. As you probably know, your iPhone won't let you upgrade if you don't have enough battery power. This is to prevent your device from shutting off in the middle of an update, which can cause serious problems.
@@ -29,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 ![Photo of iPhone charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/iphone-on-charge.jpg)
 
  Make sure you plug in your iPhone or iPad and have plenty of battery charge before starting the OS update. It's a good idea to leave it on the charger while the process runs, too. That way, if it takes longer than expected, your phone won't run out of power.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Make Sure Your Device Is Eligible for the Update
 
@@ -42,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
  Look for your device name here. If you don't see it, your phone or tablet is too old to get the latest version. This is a [sign it's time to upgrade your iPhone](https://www.makeuseof.com/7-signs-its-time-to-upgrade-your-iphone/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Wait a While Before Updating
 
  If you try to update to the latest version of iOS as soon as it comes out, you might run into trouble. Apple's servers go under heavy load when many thousands of people are trying to update all at once.
@@ -54,9 +42,17 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
  The update menu lets you schedule a system update to run overnight, when most people in your area won't be trying to update. Try that, and if it doesn't work either, wait a few days before giving it another shot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Force-Restart Your Device
 
 ![iPhone in hand with Recovery Mode prompt showing](https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451fb3d4865d8f30f7e5a361bf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A one-off bug can prevent you from updating your iPhone. Restarting your phone will restart its processes and hopefully clear up any temporary glitches. If a normal shutdown and reboot of your phone doesn't work, follow our [guide to force-restarting your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) to learn how to escalate this process on your specific device.
 
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 ![Tap iPhone Storage.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/10-select-iphone-storage.png)
 
 ![iPhone Storage App List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/04a-iPhone-Storage-App-List.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -111,10 +111,6 @@ Let's look at what these do.
 
 ![iPhone Back Up to iTunes 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/iPhone-Back-Up-to-iTunes-2021.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Since Apple retired iTunes for Mac starting with macOS Catalina, you'll need to do this through Finder instead. Connect your device to your Mac, open Finder, and click your device's name on the left sidebar. This will bring you to a panel similar to the old iTunes interface, where you can follow the steps above (the necessary controls appear under the**General** tab).
 
  After doing this, the update should install onto your device. If you have trouble, see [what to do when your iPhone won't connect to your computer](https://www.makeuseof.com/tag/iphone-wont-connect-to-computer/) .
@@ -126,6 +122,10 @@ Let's look at what these do.
  To do this, go to**Settings > General > iPhone/iPad Storage** again. In the list of apps, look for an iOS update. If you see one, tap it and choose**Delete Update** . Then go back to the update page and try to run it again.
 
  Similarly, if you have installed beta system software on your device, try [uninstalling the beta version of iOS](https://www.makeuseof.com/tag/install-ios-beta/) before attempting the update again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Check Your Network and Reset Network Settings
 
@@ -144,20 +144,24 @@ To reset network settings on your iPhone or iPad:
 
 ![iOS 15 General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01a-iOS-15-General-Settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iOS 15 Reset Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01b-iOS-15-Reset-Menu.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iOS 15 Reset Network Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01c-iOS-15-Reset-Network-Settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Once you reset your Wi-Fi configuration, reconnect to a strong Wi-Fi network and try the iOS update again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Reset All Settings, Then Factory Reset
@@ -183,10 +187,6 @@ Here's how to factory reset your device:
 4. Walk through the steps, including entering your passcode to confirm.
 
 ![iOS 15 Reset Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01b-iOS-15-Reset-Menu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![iOS 15 Erase All](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/02a-iOS-15-Erase-All.png)
 
@@ -215,20 +215,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-elevate-your-editing-skills-with-pro-color-techniques-for-2024/"><u>[New] Elevate Your Editing Skills with Pro Color Techniques for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-quick-guide-retrieving-past-reddit-threads-instantly-for-2024/"><u>[New] Quick Guide Retrieving Past Reddit Threads Instantly for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guffaws-in-grooves-parody-playlist/"><u>[Updated] In 2024, Guffaws in Grooves Parody Playlist</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-itunes-to-listen-to-podcasts/"><u>[Updated] Navigating iTunes to Listen to Podcasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimizing-your-livestream-youtube-twitch-with-obs-for-2024/"><u>[Updated] Optimizing Your Livestream YouTube, Twitch with OBS for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparison-breakdown-exploring-the-differences-between-gpt-4-models/"><u>Comparison Breakdown: Exploring the Differences Between GPT-4 Models</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 15/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 11/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-xr-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone XR and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y28-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y28 5G Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/insider-look-at-twelve-souths-bookbook-v2-a-resourceful-case-design-for-macbook-owners/"><u>Insider Look at Twelve South's BookBook V2 - A Resourceful Case Design for MacBook Owners</u></a></li>
-<li><a href="https://win-able.techidaily.com/optional-12-cup-grated-parmesan-cheese/"><u>Optional: 1/2 Cup Grated Parmesan Cheese</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-avoid-the-void-strategies-for-non-black-screens-in-obs-recordings/"><u>[New] 2024 Approved Avoid the Void Strategies for Non-Black Screens in OBS Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-breathe-easy-with-knowledge-of-asmr-advantages/"><u>[New] Breathe Easy with Knowledge of ASMR Advantages</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-leveraging-advanced-techniques-in-360-video-on-fb-live-for-2024/"><u>[New] Leveraging Advanced Techniques in 360 Video on FB Live for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortlessly-embedding-visual-media-in-free-content-creation-for-2024/"><u>[Updated] Effortlessly Embedding Visual Media in Free Content Creation for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elevating-meetings-a-comprehensive-guide-to-zoom-filters/"><u>[Updated] Elevating Meetings A Comprehensive Guide to Zoom Filters</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12-miniipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12 mini/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-watch-dvd-movies-on-your-xbox-one-console/"><u>How to Watch DVD Movies on Your Xbox One Console</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-12ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 12/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-11-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 11 GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-snapshits-pro-photography-edits-guide-for-2024/"><u>Mastering Snapshits Pro Photography Edits Guide for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-artisans-path-learning-photoshops-powerful-distortion-effects/"><u>The Artisan’s Path Learning Photoshop's Powerful Distortion Effects</u></a></li>
 </ul></div>
 

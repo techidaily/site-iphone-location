@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Top-Rated, Cost-Effective Fellowes Microban Wired Keyboard: A Detailed Assessment"
-date: 2024-12-08T17:36:26.704Z
-updated: 2024-12-09T18:18:57.552Z
+date: 2024-12-12T20:23:40.830Z
+updated: 2024-12-15T22:08:54.057Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Top-Rated, Cost-Effective Fellowes Microban Wired Keyboard: A Detailed Assessment"
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fellowes Microban Split Design Keyboard
@@ -45,10 +45,6 @@ Lifewire / Emily Isaacs
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
@@ -75,7 +71,7 @@ Lifewire / Emily Isaacs
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Cleaner than the rest**
@@ -94,17 +90,21 @@ Lifewire / Emily Isaacs
 
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Plug and play**
 
  The keyboard doesn’t arrive with much. It comes in a mid-size box with the keyboard itself and an accessory pamphlet that addresses some frequently asked questions regarding Microban technology. Setting up is quite easy. It’s a plug and play device, which means that when the keyboard is connected to the computer, the computer will recognize the device is there and you can begin using it immediately.
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Features: Multimedia hotkeys for ease of use**
 
@@ -117,7 +117,7 @@ Lifewire / Emily Isaacs
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
@@ -175,20 +175,16 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-swipe-right-to-fb-vids-swipe-left-for-mp4s/"><u>[New] Swipe Right to FB Vids, Swipe Left for MP4s</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[Updated] In 2024, Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-minuscule-cinematic-design/"><u>2024 Approved Minuscule Cinematic Design</u></a></li>
-<li><a href="https://some-tips.techidaily.com/webmmp4-movavi/"><u>自由搜尋線上從WEBM到MP4格式切換 - 採用Movavi解答方案</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-steam-content-conflict-errors/"><u>Addressing Steam Content Conflict Errors</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/adventurous-at-your-fingertips-travel-gadgets-guide/"><u>Adventurous At Your Fingertips: Travel Gadgets Guide</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/discover-how-photoscape-revolutionizes-image-editing-for-everyone-with-its-free-user-friendly-platform/"><u>Discover How PhotoScape Revolutionizes Image Editing for Everyone with Its Free, User-Friendly Platform</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-hub-your-ultimate-guide/"><u>Exploring Tom's Tech Hub: Your Ultimate Guide</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/master-the-art-of-comfortable-commuting-on-mods-new-accessible-sidecar-bike/"><u>Master the Art of Comfortable Commuting on Mod’s New Accessible Sidecar Bike</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/sailing-into-the-future-assessing-the-performance-peaks-and-valleys-of-the-seatech-blu-ray-writer/"><u>Sailing Into the Future: Assessing the Performance Peaks and Valleys of the SeaTech Blu-Ray Writer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-art-of-flow-mastering-inshots-segmentation-techniques-for-2024/"><u>The Art of Flow Mastering Inshot's Segmentation Techniques for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/top-review-quality-and-functionality-of-bybs-premium-430-led-swing-lamp/"><u>Top Review: Quality and Functionality of BYB's Premium 430 LED Swing Lamp</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-lowering-cpu-demands-caused-by-chrome/"><u>Troubleshooting and Lowering CPU Demands Caused by Chrome</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/unveiling-chatgpts-new-arsenal-of-features-what-users-need-to-know/"><u>Unveiling ChatGPT's New Arsenal of Features: What Users Need to Know</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/unveiling-the-versatility-of-anker-roavs-dash-cam-c1-a-complete-overview/"><u>Unveiling the Versat^ility of Anker Roav's Dash Cam C1 - A Complete Overview</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-master-multi-screen-video-streaming-with-microsoft-edges-pip/"><u>[Updated] In 2024, Master Multi-Screen Video Streaming with Microsoft Edge's PIP</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfecting-chromes-sound-best-apps-for-online-text-to-speech-transformation/"><u>[Updated] Perfecting Chrome's Sound Best Apps for Online Text-to-Speech Transformation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-diving-into-virtual-worlds-iphone-vr-viewing-101/"><u>2024 Approved Diving Into Virtual Worlds IPhone VR Viewing 101</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 15/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 8/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-6ipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 6/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-synergy-combining-chatgpt-google-sheets-docs-and-excel-a-step-by-step-guide/"><u>Seamless Synergy: Combining ChatGPT, Google Sheets, Docs & Excel - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/strategic-boxes-opened-marketing-excellence-for-2024/"><u>Strategic Boxes Opened Marketing Excellence for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210780133-9781633413085-tarot-for-the-hard-work/"><u>Tarot for the Hard Work | Free Book</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/ultimate-selection-of-voice-customization-mobile-apps/"><u>Ultimate Selection of Voice Customization Mobile Apps</u></a></li>
 </ul></div>
 

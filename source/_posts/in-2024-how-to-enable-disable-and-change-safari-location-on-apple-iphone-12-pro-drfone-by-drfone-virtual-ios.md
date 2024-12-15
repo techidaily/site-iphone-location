@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 12 Pro | Dr.fone
-date: 2024-12-08T17:50:32.953Z
-updated: 2024-12-09T18:04:02.584Z
+date: 2024-12-09T18:56:24.656Z
+updated: 2024-12-15T22:03:03.974Z
 tags: 
   - virtual location chang
   - location changer
@@ -40,6 +40,10 @@ Go to the ‘Settings’ in the home screen of your Apple iPhone 12 Pro and proc
 
 ![iphone settings](https://images.wondershare.com/drfone/2023/virtuallocation/iphone-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Choose Safari to modify the settings
 
 In the ‘Privacy’ window, you have to select ‘Location Services’ option and tap ‘Safari Websites’ from the list
@@ -51,6 +55,14 @@ Step 3: Alter the Safari location services
 You have to tap the ‘Safari Websites’ option to select from the expanded list. If you want to enable/disable the location services in Safari websites then you have to choose ‘While using’ option. This feature enables location service of the Safari websites when it is active and the location service becomes inactive if the Safari is not in use.
 
 ![enable disable](https://images.wondershare.com/drfone/2023/virtuallocation/enable-disable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to prevent Safari from asking for your location on Apple iPhone 12 Pro
 
@@ -110,10 +122,6 @@ Select the ‘Teleport mode’ in the map view. You can find this icon at the to
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5: Authenticate the changes**
 
 The next map view shifts to the new location with a pop-up message ‘Move Here’. You must authenticate the changes by tapping this ‘Move here’ button.
@@ -144,10 +152,6 @@ When your device connects to the internet, your internet service provider assign
 
 All we want to say here is that if you want to change the location, then you should know if the location is based on an IP address or GPS app. To help you get started with how to **change location on Apple iPhone 12 Pro**, below we have covered every scenario when you might need to do so.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to break the geo-limitation on downloading Apps?
 
 Step 1: On your Apple iPhone 12 Pro, go to the App Store app.
@@ -168,10 +172,6 @@ Step 5: After that, click “Change Country or Region”.
 
 ![change country app store](https://images.wondershare.com/drfone/2023/virtuallocation/change-country-app-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 6: Now, select the country or region you want to set. In this scenario, we have switched to the UK from the US. Then, click “Next’.
 
 ![select country app store](https://images.wondershare.com/drfone/2023/virtuallocation/select-country-app-store.jpg)
@@ -181,7 +181,7 @@ Step 7: Agree with Terms and Conditions and enter your billing info. If there is
 ![bill info app store](https://images.wondershare.com/drfone/2023/virtuallocation/bill-info-app-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 8: Finally, click “Done” and that’s it.
@@ -207,10 +207,6 @@ Step 2: Click “Get Started”. Select “Teleport” mode located at the top r
 Step 3: You have changed the location successfully. And you will be now able to see your new location as a current location on your Apple iPhone 12 Pro.
 
 ![drfone- location changed on iphone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This will trick your Pokemon Go in believing that you’re somewhere you’re not. That’s how to **fake GPS Apple iPhone 12 Pro Pokemon Go**. Get ready to enjoy the game from the comfort of your home.
 
@@ -264,6 +260,10 @@ Step 2: Get the NordVPN app on your Apple iPhone 12 Pro.
 
 ![NordVPN download](https://images.wondershare.com/drfone/2023/virtuallocation/NordVPN-download.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Run the app and sign-in with your login details.
 
 Step 4: Click on Quick Connect and give permissions the app asked to connect to the VPN. In a while, you’ll view a map that shows various servers worldwide.
@@ -272,15 +272,7 @@ Step 5: To change location, select the ‘Map /List” view - you can click on t
 
 ![VPN download](https://images.wondershare.com/drfone/2023/virtuallocation/VPN.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 That’s it. Now, you will be available to access the content that is available in that region.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs You May Want to Know
 
@@ -302,6 +294,10 @@ Yes, you might encounter issues in certain apps if you change location on your A
 
 If you have faked your location on your Apple iPhone 12 Pro for certain games and applications, check the settings of your location spoofer. Within the app settings, you can revert to your actual location. Apart from that, if you are using a VPN to change location, disconnect from it. Upon turning it off, your device will return to the real location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 In this guide, you have learned how to **change location on the Apple iPhone 12 Pro** in different scenarios. Changing or faking a location on an Apple iPhone 12 Pro is easy when you know the right way to do so. We hope that our guide has helped you to spoof GPS location on your Apple iPhone 12 Pro. When it comes to tricking location-based apps such as Pokemon Go, [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) comes in handy. So, give a try it now for free.
@@ -311,6 +307,10 @@ In this guide, you have learned how to **change location on the Apple iPhone 12 
 Have you recently been relocated to somewhere else or are tired of entering your Home address on Maps every day? Well, to save your time, why not add or change your home address on Apple iPhone 12 Pro. In this way, you can easily start your commute and share your address with others on the go. The good thing is that the provision to change home address in Apple iPhone 12 Pro is available for both Apple and Google Maps. Let’s get started and learn how to change home address on Apple iPhone 12 Pro like a pro!
 
 ![change home address Apple iPhone 12 Pro 1](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Change Home Address in Apple Maps on Apple iPhone 12 Pro
 
@@ -325,6 +325,10 @@ Step 2. This will list out detailed information about you. You can review the fi
 Step 3. This will further list various fields and would give you an option to edit them. You can scroll down and tap on the Edit button nearby the home address to change it.
 
 ![change home address Apple iPhone 12 Pro 3](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4. In case you haven’t added any address, then just tap on the “Add address” button. This will let you enter your address and locate it on the map. Later, you can label it as Home, Work, and so on.
 
@@ -351,7 +355,11 @@ Step 4. Now, tap on the “My Info” option to view your details like name, ema
 ![change home address Apple iPhone 12 Pro 7](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Change Home Address in Google Maps on Apple iPhone 12 Pro?
@@ -370,19 +378,11 @@ Step 4. Now, all you got to do is tap on the search bar and enter your home addr
 
 ![change home address Apple iPhone 12 Pro 9](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5. That’s it! You can now save the changes you have made and review them whenever you want. To make any changes to it, you can just tap on the three-dot icon adjacent to the Home button. This will let you edit your home address, remove it, and add directions.
 
 ![change home address Apple iPhone 12 Pro 10](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-10.jpg)
 
 That’s a wrap, everyone! I’m sure that after reading this guide you would be able to change home address on Apple iPhone 12 Pro like a pro. To make things easier for you, I have come up with a step-by-step tutorial on how to change home address on Apple iPhone 12 Pro via Apple Maps as well as Google Maps. Furthermore, I have also listed a smart solution to change your address in Safari’s autofill to save your time. Well, this is what I did when I wanted to know how do I change my home address on Apple iPhone 12 Pro a while back. You can follow this drill and share this guide with others to teach them the same.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -410,19 +410,16 @@ That’s a wrap, everyone! I’m sure that after reading this guide you would be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/aughter-lane-navigating-to-the-top-15-funny-youtubers/"><u>[New] Laughter Lane Navigating to the Top 15 Funny YouTubers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-master-the-art-of-garnering-more-facebook-fans/"><u>[Updated] Master the Art of Garnering More Facebook Fans</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-top-40-twitter-visuals-the-essential-gif-hoarders-toolkit-for-2024/"><u>[Updated] Top 40 Twitter Visuals The Essential GIF Hoarder's Toolkit for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-captivating-clips-transforming-footage-vertically-in-final-cut-x/"><u>2024 Approved Captivating Clips Transforming Footage Vertically in Final Cut X</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone XS/iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-flying-fun-in-depth-dji-phantom-4-examination-for-2024/"><u>Beyond Flying Fun In-Depth DJI Phantom 4 Examination for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-14ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 14/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 7/iPad? | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/get-your-favorite-episodes-and-shows-download-video-content-for-pcmac-for-free/"><u>Get Your Favorite Episodes & Shows: Download Video Content for PC/Mac for Free</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ss-10-tools-to-grab-youtube-images-online/"><u>Harness 10 Tools to Grab YouTube Images Online</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-6sipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 6s/iPad | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-f14-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy F14 5G Unlock Without Password</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-seipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone SE/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone XS/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-11-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 11 Waze | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-honor-v-purse-by-drfone-android/"><u>In 2024, How to Bypass FRP on Honor V Purse?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-revolutionary-recorders-outside-the-native-windows-ecosystem/"><u>In 2024, Revolutionary Recorders Outside the Native Windows Ecosystem</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-list-of-ios-tools-for-erasing-intrusive-images/"><u>In 2024, The Ultimate List of iOS Tools for Erasing Intrusive Images</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranked-smart-eyewear-innovations/"><u>Top-Ranked Smart Eyewear Innovations</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/troubleshooting-guide-steps-to-resolve-a-sudden-windows-program-failure-tips-from-yl-software-experts/"><u>Troubleshooting Guide: Steps to Resolve a Sudden Windows Program Failure - Tips From YL Software Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-singapore-financial-institution-under-scrutiny-for-significant-it-outage-regulatory-intervention-imminent/"><u>ZDNet Exclusive: Singapore Financial Institution Under Scrutiny for Significant IT Outage, Regulatory Intervention Imminent</u></a></li>
 </ul></div>
 
