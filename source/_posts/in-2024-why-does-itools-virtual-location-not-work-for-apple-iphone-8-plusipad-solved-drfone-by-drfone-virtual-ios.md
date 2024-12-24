@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 8 Plus/iPad? Solved | Dr.fone
-date: 2024-12-13T20:57:24.828Z
-updated: 2024-12-15T20:22:59.169Z
+date: 2024-12-19T19:02:55.959Z
+updated: 2024-12-24T17:53:41.838Z
 tags: 
   - virtual location chang
   - location changer
@@ -50,6 +50,10 @@ As you have seen above, iTools Virtual Location software is faced with a pile of
 
 ![dr.fone-virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are several tools out there claiming to offer such, but none comes close to [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). The powerful iOS location changer has all it takes to make location changing easy and full of fun. This program has a simple and straightforward interface that eases every user's navigation. With the three simple steps to change GPS location on your device, Dr.Fone is no doubt the location changer you have been looking for. The program is available for all versions of windows including Windows 11/10/8.1/8/7. Some of the features of Dr.Fone - Virtual Location (iOS/Android) include:
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
@@ -74,7 +78,7 @@ There are several tools out there claiming to offer such, but none comes close t
 **3981454** people have downloaded it
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Double Location Dongle: All to Know About Apple iPhone 8 Plus/iPad GPS Spoofing
@@ -93,6 +97,10 @@ iTeleporter Pro 2.0 is a similar dongle that was very efficient in spoofing an i
 
 You don’t have to keep your Apple iPhone 8 Plus’s charging port occupied anymore. You can connect this Dongle to your phone by Bluetooth wirelessly. It is easy to charge this dongle too. It comes with a decent USB plug that you can insert into your Personal computer, Laptop or Desktop for easy charging.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.2 Double Location Mini 2.0
 
 This dongle provides 2 in 1 benefits. On one side, it has the USB plug that will help you connect the dongle to your PC or laptop. While on the other side, you have the lightning port. If you have access to a lightning cable, it is easy to charge the iPhone and iPad with this one.
@@ -100,10 +108,6 @@ This dongle provides 2 in 1 benefits. On one side, it has the USB plug that will
 ### 1.3 Double Location Pro 2.0
 
 This square white beauty does a terrific job in hiding your actual location. Also, it is having 3-in-1 benefits where you can connect it to iPhone, iPad and Apple adapters as well. It has a 3.5mm headphone jack and a lightning charge port.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part2. Why choose Double Location Dongle?
 
@@ -118,6 +122,10 @@ It provides iOS system level GPS manipulation that changes your location in all 
 ### 2.2 Safety as Priority
 
 This dongle is completely safe and blocks any external interferences that try to capture your data illegally. It shields the bans from the Manufacturer’s (Apple) side. Your data and you are absolutely safe.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.3 No Jailbreak
 
@@ -136,6 +144,10 @@ You can spoof your location on a wide range of apps like Google Maps, Find My iP
 While you’ve already seen one side of the coin, it is time to see the other one. Yes, there are good benefits to Double Location but I have to mention the cons as well in this double location dongle review.
 
 ![double location dongle pic 3](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.1 Costly on Comparison
 
@@ -169,10 +181,6 @@ The helpline center’s response is so slow that I sometimes wonder if there is 
 
 ![double location dongle pic 6](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Benefit 3:** Gives access to in-game controls where you can tilt your phone and move your game character.
 
 ![double location dongle pic 7](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-7.jpg)
@@ -182,6 +190,10 @@ The helpline center’s response is so slow that I sometimes wonder if there is 
 ![double location dongle pic 8](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-8.jpg)
 
 You need to select your location before you enter the game and not after it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part5. Any PC program if Double Location Dongle fails to work?
 
@@ -203,16 +215,12 @@ Dr. fone is similar software that spoofs your location. This is an economical pu
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How does it work?
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Quick Steps to Change Weather Location on Apple iPhone 8 Plus
@@ -245,11 +253,11 @@ If an extreme weather disturbance is detected in your area, the Weather app will
 
 ![weather map](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-3.JPG)
 
-The Apple iPhone 8 Plus’s Weather app has a map feature that exclusively displays the weather conditions in a specific location. From there, you can view certain atmospheric information, including temperature, precipitation, air quality, and wind conditions. Just make sure that your location is set properly. If you want to replace it, just follow the guide on how to change the weather location on your Apple iPhone 8 Plus.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+The Apple iPhone 8 Plus’s Weather app has a map feature that exclusively displays the weather conditions in a specific location. From there, you can view certain atmospheric information, including temperature, precipitation, air quality, and wind conditions. Just make sure that your location is set properly. If you want to replace it, just follow the guide on how to change the weather location on your Apple iPhone 8 Plus.
 
 ### Air Quality
 
@@ -278,6 +286,10 @@ Let’s say you just need to check the weather conditions in another location. C
 
 ![reorder location list](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Change the Weather app’s primary location on the widget
 
 Do you have a Weather widget on your Apple iPhone 8 Plus’s home screen? If so, you can directly modify the location settings from there. Don’t worry. It’s as easy as shooting fish in a barrel. Here’s how to change the weather location on Apple iPhone 8 Plus from the home screen widget.
@@ -287,10 +299,6 @@ Do you have a Weather widget on your Apple iPhone 8 Plus’s home screen? If so,
 
 ![edit weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Click **Location.** From there, enter your desired location into the search bar and choose one from the suggested results.
 
 ![search weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-9.jpg)
@@ -298,7 +306,7 @@ Do you have a Weather widget on your Apple iPhone 8 Plus’s home screen? If so,
 - **Step 4:** The location will be then changed immediately on the widget. If the Edit Weather option is unavailable on your end, try to update your iOS first. The Weather app has just been released recently on Apple iPhone 8 Plus. Therefore, Apple is making changes from time to time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Change weather location on Apple iPhone 8 Plus with <u>Wondershare Dr.Fone.</u>
@@ -320,10 +328,6 @@ Is there any other way in case the first two techniques do not bring positive re
 
 ![move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 7:** In no time, the current location registered on your Apple iPhone 8 Plus will be changed along with your weather location. See? It’s just as simple as that. Therefore, it’s best to use Wondershare Dr.Fone if you wish to change the weather location on your Apple iPhone 8 Plus.
 
 **NOTE:** If you wish to restore the original location settings of your Apple iPhone 8 Plus, simply disconnect it from the computer and restart it.
@@ -333,10 +337,6 @@ Is there any other way in case the first two techniques do not bring positive re
 It’s fair to say that Weather is not a primary iOS application. You can continue with your usual routine even without it. However, we cannot deny the fact that it’s there for a reason. All we know for now is that the Weather app helps us stay updated with the latest meteorological forecast. But we don’t know what’s waiting ahead. Maybe the Weather app would soon become a paramount component of an upcoming iOS feature. Is it possible to happen in the future? We’re not sure yet. But one way or another, it’s best to keep Weather up and running on our Apple iPhone 8 Plus.
 
 ![ipad weather widget](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 It doesn’t take much to follow the tutorials above on how to change weather location on Apple iPhone 8 Plus. Most of them can instantly be conducted and finished with just the snap of a finger. That’s why you should regularly calibrate its location settings and make sure that it’s showing appropriate weather reports. Who knows? Keeping tabs on the atmospheric conditions around your local area can help you in a specific way you don’t actually expect. For instance, severe weather alerts are definitely capable of preventing you from running or driving toward a bad storm. Another thing is that the Weather’s Ten-Day Forecast feature can help you organize your weekly schedules accordingly. For sure, Weather has a lot more to offer. Thus, try to explore it once in a while and take advantage of the benefits.
 
@@ -358,18 +358,18 @@ By default, the Apple iPhone 8 Plus’s Weather app uses your current location f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-rhythmic-revelations-adding-audio-to-your-vimeo-videos/"><u>[New] 2024 Approved Rhythmic Revelations Adding Audio to Your Vimeo Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-trending-upwards-todays-most-effective-instagram-tags/"><u>[New] 2024 Approved Trending Upwards Today's Most Effective Instagram Tags</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-silent-spectator-of-social-media-snippets/"><u>[New] In 2024, Silent Spectator of Social Media Snippets</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-find-the-disappeared-watch-tile/"><u>[Updated] Find the Disappeared Watch Tile</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/boost-your-pcs-efficiency-top-strategies-for-enhanced-performance-by-yl-computing/"><u>Boost Your PC's Efficiency: Top Strategies for Enhanced Performance by YL Computing</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-xripad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone XR/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-se-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone SE and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-itel-p55-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Itel P55 5G Devices</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-11-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 11 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-13-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 13 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-top-notch-visual-chronology-creator/"><u>In 2024, Top-Notch Visual Chronology Creator</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-fine-tuning-minecrafts-ram-for-better-gaming-results-for-2024/"><u>[New] Fine-Tuning Minecraft's RAM for Better Gaming Results for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-suggestions-best-iphone-audio-innovators/"><u>[New] Leading Suggestions Best iPhone Audio Innovators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-creating-a-space-for-feedback-talking-with-your-viewers/"><u>[Updated] Creating a Space for Feedback Talking with Your Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-selection-of-youtubes-finest-cosmetics-vloggers/"><u>[Updated] The Ultimate Selection of YouTube's Finest Cosmetics Vloggers</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-6sipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 6s/iPad | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-v27-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo V27</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 13 Pro Max/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-13ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 13/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-14-plus-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 14 Plus and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-windows-11-a-step-by-step-guide-to-removing-your-pin-code/"><u>Unlocking Windows 11: A Step-by-Step Guide to Removing Your Pin Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrading-your-fire-tv-stick-with-the-official-kodi-leia-189-guide/"><u>Upgrading Your Fire TV Stick with the Official Kodi Leia 18.9 Guide</u></a></li>
 </ul></div>
 

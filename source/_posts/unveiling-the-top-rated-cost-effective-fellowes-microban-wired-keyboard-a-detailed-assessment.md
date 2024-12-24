@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Top-Rated, Cost-Effective Fellowes Microban Wired Keyboard: A Detailed Assessment"
-date: 2024-12-12T20:23:40.830Z
-updated: 2024-12-15T22:08:54.057Z
+date: 2024-12-21T18:52:39.982Z
+updated: 2024-12-24T19:37:37.691Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Top-Rated, Cost-Effective Fellowes Microban Wired Keyboard: A Detailed Assessment"
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fellowes Microban Split Design Keyboard
@@ -45,9 +45,17 @@ Lifewire / Emily Isaacs
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -70,15 +78,15 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Cleaner than the rest**
 
  Ergonomic keyboards are designed to encourage natural, neutral movements that put less strain on wrists and shoulders,[preventing repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) over time. This is especially important for people who spend large portions of their day in a home or office setting tethered to their computer.
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WPjeQmKmzof_KVFE5_fIwN92cXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_05-24f7f07146ae45cd86d2c5bdd4791ee5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -91,7 +99,7 @@ Lifewire / Emily Isaacs
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Plug and play**
@@ -102,10 +110,6 @@ Lifewire / Emily Isaacs
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Features: Multimedia hotkeys for ease of use**
 
  The Fellowes features seven hotkeys for multimedia playback. These keys are located along the top of the keyboard and offer such functionality as mute, volume up, volume down, sleep, email, search, and one-touch internet access. We were disappointed that it didn’t include hotkeys for pausing, skipping forward, or skipping backward in multimedia.
@@ -115,10 +119,6 @@ Lifewire / Emily Isaacs
  The Fellowes connects to a PC via a USB cord. We couldn’t help but appreciate the simplicity of this design choice, especially as more and more companies are looking for ways to cut cords. Cutting down on cables is great when it makes sense, but the corded connection here allows for a dependable product, since you never have to worry about a low battery, and also means that the keyboard is more reliable for[faster typists](https://www.lifewire.com/typing-speed-tests-1356663) . It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed. This is useful if you type faster than conventional keyboards can keep up with, making it less likely for you to lose a stroke.
 
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
 
@@ -175,16 +175,19 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-master-multi-screen-video-streaming-with-microsoft-edges-pip/"><u>[Updated] In 2024, Master Multi-Screen Video Streaming with Microsoft Edge's PIP</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-perfecting-chromes-sound-best-apps-for-online-text-to-speech-transformation/"><u>[Updated] Perfecting Chrome's Sound Best Apps for Online Text-to-Speech Transformation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-diving-into-virtual-worlds-iphone-vr-viewing-101/"><u>2024 Approved Diving Into Virtual Worlds IPhone VR Viewing 101</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 15/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 8/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-6ipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 6/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-synergy-combining-chatgpt-google-sheets-docs-and-excel-a-step-by-step-guide/"><u>Seamless Synergy: Combining ChatGPT, Google Sheets, Docs & Excel - A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/strategic-boxes-opened-marketing-excellence-for-2024/"><u>Strategic Boxes Opened Marketing Excellence for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210780133-9781633413085-tarot-for-the-hard-work/"><u>Tarot for the Hard Work | Free Book</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/ultimate-selection-of-voice-customization-mobile-apps/"><u>Ultimate Selection of Voice Customization Mobile Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-youtube-live-with-high-quality-webcam-cameras-for-2024/"><u>[Updated] Elevating YouTube Live with High-Quality Webcam Cameras for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-silent-story-consumers-leading-anonymity-apps/"><u>[Updated] In 2024, Silent Story Consumers Leading Anonymity Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-the-garmin-ultra-30-an-insightful-review/"><u>Discovering the Garmin Ultra 30 An Insightful Review</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-steps-to-restore-accidentally-deleted-outlook-pst-files-instantly/"><u>Easy Steps to Restore Accidentally Deleted Outlook PST Files Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-bluetooth-sound-delay-simple-steps-for-a-smooth-listening-experience/"><u>Fixing Bluetooth Sound Delay: Simple Steps for a Smooth Listening Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-lenovo-mouse-pad-up-and-running-in-windows-1187-solution/"><u>Get Your Lenovo Mouse Pad Up and Running in Windows 11/8/7 [SOLUTION]</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-14-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 14 Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-se-2020ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone SE (2020)/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-getting-the-latest-evga-drivers-installed-in-windows/"><u>Step-by-Step Guide: Getting the Latest EVGA Drivers Installed in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-performance-hiccups-in-guilty-gear-strive/"><u>Troubleshooting Performance Hiccups in Guilty Gear -Strive-</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-12-miniipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 12 mini/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 

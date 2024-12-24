@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Technology: How Chatbots Mimic Human Dialogue"
-date: 2024-12-08T20:51:51.350Z
-updated: 2024-12-15T19:10:23.779Z
+date: 2024-12-23T17:47:09.335Z
+updated: 2024-12-24T18:54:56.596Z
 tags:
   - chatgpt
   - open-ai
@@ -17,13 +17,13 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  Large language models (LLMs) come in all shapes and sizes, and will assist you in any way you see fit. But which is best? We put the dominant AIs from Alphabet, OpenAI, and Meta to the test.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -63,12 +63,16 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
@@ -154,19 +154,19 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-loom-screen-recorder-downloader/"><u>[New] 2024 Approved Loom Screen Recorder Downloader</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-securing-your-videos-on-facebook-pc-plus-android-methods-for-2024/"><u>[Updated] Securing Your Videos on Facebook PC + Android Methods for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-successful-messaging-using-mozilla-thunderbird/"><u>Comprehensive Strategies for Successful Messaging Using Mozilla Thunderbird</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-non-successful-updates-in-windows-discord/"><u>Dealing with Non-Successful Updates in Windows Discord</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-13-miniipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 13 mini/iPad | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-disabling-instant-movie-making-in-quicktime/"><u>In 2024, Disabling Instant Movie Making in QuickTime</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-6-plus-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 6 Plus and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rebuilding-atheros-network-driver-effectively/"><u>Rebuilding Atheros Network Driver Effectively</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/restoring-lost-eyes-only-snapshots-on-snapchat/"><u>Restoring Lost Eyes-Only Snapshots on Snapchat</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssential-tactics-for-youtube-short-troubleshooting/"><u>[New] Essential Tactics for YouTube Short Troubleshooting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-master-list-top-free-photo-stockpile-locales/"><u>[New] In 2024, Master List Top Free Photo Stockpile Locales</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-the-melody-of-text-vocal-styling-for-ppt-for-2024/"><u>[New] Mastering the Melody of Text Vocal Styling for PPT for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-strangers-to-community-your-facebook-onboarding-journey/"><u>[Updated] In 2024, From Strangers to Community Your Facebook Onboarding Journey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-youtube-scriptwriting-for-viral-impact-for-2024/"><u>[Updated] Mastering YouTube Scriptwriting for Viral Impact for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/8-tips-to-create-attractive-instagram-unboxing-reels/"><u>8 Tips to Create Attractive Instagram Unboxing Reels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/cutting-edge-recording-for-a-greener-planet/"><u>Cutting Edge Recording for a Greener Planet</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-15-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 15 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-11-pro-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 11 Pro and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-6s-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 6s Plus GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone XS Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone XS/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-google-pixel-8-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Google Pixel 8 Pro to Another | Dr.fone</u></a></li>
 </ul></div>
 
