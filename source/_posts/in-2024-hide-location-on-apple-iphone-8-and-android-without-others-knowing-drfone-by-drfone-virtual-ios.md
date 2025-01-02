@@ -1,7 +1,7 @@
 ---
 title: In 2024, Hide location on Apple iPhone 8 and Android without others knowing | Dr.fone
-date: 2024-12-07T16:00:34.729Z
-updated: 2024-12-09T18:52:10.831Z
+date: 2024-12-27T16:09:42.257Z
+updated: 2025-01-01T16:51:05.879Z
 tags: 
   - virtual location chang
   - location changer
@@ -31,6 +31,10 @@ First and foremost, most of the apps and services we use today rely heavily on l
 It’s no secret that online crimes are now rampant everywhere. Anyone who has internet access can become the next victim. That’s why you should remain vigilant every time you connect to the internet and surf the web. Don’t surrender confidential information unless the transaction is verified and legitimate. As for your location details, try to recalibrate the settings and hide it from public access? How do you stop sharing location on Apple iPhone 8? Well, there are many ways to do it. Just choose the best method that works perfectly for your current needs and situation.
 
 Once again, it’s hard to say that turning off the location services on your Apple iPhone 8 is a must. We need to consider numerous things before we do that. But in a way, concealing our location information can be of great help to somehow protect us from cyber fraud. Do you want to try it now? Find the tutorials below on how to hide location on Apple iPhone 8. One of them can assist you in this regard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How to Hide Location on Apple iPhone 8?
 
@@ -62,6 +66,10 @@ For Apple iPhone 8 and other iOS devices, you can instantly deactivate location 
 
 ![iphone airplane mode](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Toggle off the Share My Location feature on the Find My Friends app
 
 Find My Friends is a useful iOS application to help you monitor the whereabouts of your friends and relatives. In return, they can also view your location information from their end. Oftentimes, it does not cause any problems. But still, we don’t know what’s waiting ahead of us. Data breaches may happen and compromise our personal data. Therefore, it’s best to cut off location services on the Find My Friends app if you don’t need it. Here’s how to hide your location on your Apple iPhone 8 with the aid of this method.
@@ -73,12 +81,16 @@ Find My Friends is a useful iOS application to help you monitor the whereabouts 
 
 ![iphone share my location](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Toggle off the radio button next to **Share My Location.**
 
 ![turn off share my location](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Switch off Significant Location settings
@@ -93,7 +105,7 @@ In a specific way, the Apple iPhone 8 is capable of remembering certain places t
 ![iphone system service](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 5:** Find and click **Significant Locations.**
@@ -111,10 +123,6 @@ Instead of entirely turning off the Location Services across your Apple iPhone 8
 - **Step 4:** Browse the list below and find the specific app you wish to modify the location service settings. Click on it afterward.
 
 ![iphone app permissions](https://images.wondershare.com/drfone/article/2024/02/how-to-hide-location-on-iphone-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** Click **Never** under the Allow Location Access section. Alternatively, you may select **Ask Next Time** or **While Using the App** if you just wish to keep the location access within bounds.
 
@@ -151,6 +159,10 @@ The tutorials above on how to hide location on Apple iPhone 8 are indeed helpful
 
 Location services are there for a reason. It generally helps mobile devices deliver smooth performance and provide convenience to the users. However, we cannot deny that online frauds are everywhere nowadays. That’s why most of us feel uncomfortable sharing our whereabouts and other sensitive information with anyone or anything online. Don’t worry. There’s nothing wrong with that. If you opt to protect your privacy, the tutorials above on how to hide location on your Apple iPhone 8 can surely help you. Meanwhile, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a great alternative if you wish to mask your location details with different coordinates. It has a powerful Virtual Location feature capable of modifying your location settings and simulating GPS movements. All you have to do is connect your Apple iPhone 8 to the computer and set it up from there. In a minute or two, your location settings will be instantly modified according to your preferences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Fixes to 'No GPS - Showing Approximate Location' on Apple iPhone 8 Waze
 
 With all the hectic days and schedule that we all have, being on time seems to be so challenging. In such demanding situations, we all make sure that to save time and do whatever it takes. When it comes to driving and reaching somewhere on time, knowing about the roads, traffic situations etc matter a lot. And Waze app is such a blessing that can surely help us with these. Not to mention, the app uses GPS services of your device. You can afford any issue with such apps, right. Therefore, in this article, we are going to point out an issue that is “no GPS showing approximate location” in Apple iPhone 8. If you are suffering with the same, please read the article to the end and get solutions.
@@ -184,15 +196,19 @@ Step 4: Now, in the date & time settings, tap on “date”. Now, adjust the tim
 
 ![date time settings 2](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: To change the time zones, hit on “Time Zone” in the date and time settings.
 
 Step 6: You can enter the city name and go ahead.
 
 ![date time settings 3](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Restart your Apple iPhone 8
 
@@ -205,14 +221,6 @@ Step 2: When you see the “Slide to power off” slider, simply drag it to the 
 Step 3: Now, press the “Power” button again for long and power on your device.
 
 ![restart iphone](https://images.wondershare.com/drfone/2023/virtuallocation/restart-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: Reset Network and Location & Privacy Settings
 
@@ -232,10 +240,6 @@ To Reset Location & Privacy Settings, the steps are identical. Just tap on “Re
 
 ![reset location privacy](https://images.wondershare.com/drfone/2023/virtuallocation/reset-location-privacy.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: Re-install Waze and grant location permission in settings
 
 There are times when an app fails to work properly. And it can be possible that Waze in your device is not able to discover your location. In such cases, giving a little treatment to the apps can be helpful. So, here is the next fix. Try to install the app once again and give the permissions concerning location when Waze Apple iPhone 8 no GPS issue still arrives. Make sure to follow the steps carefully.
@@ -254,15 +258,7 @@ Step 6: Head to “Location Services” and look for the app.
 
 ![grant permission](https://images.wondershare.com/drfone/2023/virtuallocation/grant-permission.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 7: Toggle the switch on to give the location permission. You can choose between “While Using the App” and “Always”.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 7: Toggle on and off Wi-Fi and cellular data
 
@@ -289,6 +285,10 @@ Step 2: Once you are in the next menu, you could see the “Software Update” a
 Step 3: Please tap on that and you will be able to see if the update is present or not. If yes, go ahead with the prompts and install it in your device to make things work.
 
 ![update ios](https://images.wondershare.com/drfone/2023/virtuallocation/update-ios.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -325,7 +325,7 @@ Although iTools can be of great help in mocking your GPS location, the tool is m
 _**Tips:** iTools Virtual Location not working? Switch to Dr.Fone - Virtual Location for flawless GPS control. Try it now and never lose your way!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Solve These Issues?
@@ -383,17 +383,21 @@ There are several tools out there claiming to offer such, but none comes close t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fixing-mistaken-face-id-in-facebook-chats/"><u>[Updated] Fixing Mistaken Face ID in Facebook Chats</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-bridging-audio-artistry-in-visual-formats/"><u>[Updated] In 2024, Bridging Audio Artistry in Visual Formats</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-make-your-mark-active-living-on-facebook/"><u>2024 Approved How to Make Your Mark Active Living on Facebook</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-cost-effective-techniques-in-text-animations/"><u>2024 Approved Mastering Cost-Effective Techniques in Text Animations</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-6-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 6 Waze | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-exclusive-windows-11s-media-importers/"><u>In 2024, The Ultimate Exclusive Windows 11'S Media Importers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/precision-review-of-the-dji-inspire-2-drone-for-2024/"><u>Precision Review of the DJI Inspire 2 Drone for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-algorithm-advantage-tips-for-achieving-instagram-video-fame-for-2024/"><u>The Algorithm Advantage Tips for Achieving Instagram Video Fame for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-hdcp-compatible-displays-solutions-and-guidance/"><u>Troubleshooting Non-HDCP Compatible Displays: Solutions and Guidance</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-exclusive-insiders-list-of-20-storage-services-unlimited-upload/"><u>[New] In 2024, Exclusive Insider's List of 20 Storage Services, Unlimited Upload</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-full-screen-mastery-achieved-in-obs/"><u>[Updated] In 2024, Full Screen Mastery Achieved in Obs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-virtual-vanguards-identifying-the-top-7-fps-powerhouses/"><u>[Updated] In 2024, Virtual Vanguards Identifying the Top 7 FPS Powerhouses</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-memory-limitation-indicators-on-windowsvmware-systems/"><u>Correcting Memory Limitation Indicators on Windows/VMware Systems</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-12-proipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 12 Pro/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-printscreen-back-a-guide-to-overcome-glitches-in-win10-and-win11/"><u>Getting Your PrintScreen Back: A Guide to Overcome Glitches in Win10 and Win11</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-12-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 12 Waze | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 8/iPad? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-xsipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone XS/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/split-cut-and-trim-avi-files-like-a-pro-a-beginners-guide-for-2024/"><u>Split, Cut, and Trim AVI Files Like a Pro A Beginners Guide for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-smart-eyewear/"><u>Top Rated Smart Eyewear</u></a></li>
 </ul></div>
 
