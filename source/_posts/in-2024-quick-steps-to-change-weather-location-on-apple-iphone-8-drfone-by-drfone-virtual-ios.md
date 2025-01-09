@@ -1,7 +1,7 @@
 ---
 title: In 2024, Quick Steps to Change Weather Location on Apple iPhone 8 | Dr.fone
-date: 2024-12-29T19:28:23.602Z
-updated: 2025-01-02T04:33:15.133Z
+date: 2025-01-06T19:41:11.417Z
+updated: 2025-01-09T19:42:44.640Z
 tags: 
   - virtual location chang
   - location changer
@@ -28,26 +28,22 @@ In most basic explanation, the Weather app is a tool that helps you determine th
 
 Apart from its well-circulated weather updates, the Apple iPhone 8’s Weather app has a lot more to offer. Check out the list provided below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ten-Day Forecast
 
 ![ten day forecast](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Are you planning a particular activity in the coming days? If so, the Ten-Day Forecast feature of Apple iPhone 8’s Weather app can surely help you in this regard. Basically, it provides estimated predictions on atmospheric conditions, precipitations, and temperature for the next ten days.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Severe Weather Alerts
 
 ![severe weather alert](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-2.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If an extreme weather disturbance is detected in your area, the Weather app will send you an alert straight away. It can be a weather advisory issued by the state meteorological bureau or a flash report from a credible source. That’s why you should ensure the location settings on your Apple iPhone 8 are well-calibrated. If not, take a moment to reconfigure it. There are lots of tutorials out there on how to change weather location on Apple iPhone 8. One of them can certainly assist you.
@@ -59,7 +55,7 @@ If an extreme weather disturbance is detected in your area, the Weather app will
 The Apple iPhone 8’s Weather app has a map feature that exclusively displays the weather conditions in a specific location. From there, you can view certain atmospheric information, including temperature, precipitation, air quality, and wind conditions. Just make sure that your location is set properly. If you want to replace it, just follow the guide on how to change the weather location on your Apple iPhone 8.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Air Quality
@@ -82,7 +78,7 @@ Let’s say you just need to check the weather conditions in another location. C
 ![weather app menu](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3:** Enter your preferred location into the search bar. Find and click it from the suggested results.
@@ -92,6 +88,10 @@ Let’s say you just need to check the weather conditions in another location. C
 - **Step 4:** Then, click **Add.** The new location will be then added to the list. If you wish to reorder the list based on your preference, just click the **More** icon at the top-right corner of the left-side panel screen and then click **Edit List.** From there, drag the locations up and down to reorganize them to your desired order.
 
 ![reorder location list](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Change the Weather app’s primary location on the widget
 
@@ -105,6 +105,10 @@ Do you have a Weather widget on your Apple iPhone 8’s home screen? If so, you 
 - **Step 3:** Click **Location.** From there, enter your desired location into the search bar and choose one from the suggested results.
 
 ![search weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** The location will be then changed immediately on the widget. If the Edit Weather option is unavailable on your end, try to update your iOS first. The Weather app has just been released recently on Apple iPhone 8. Therefore, Apple is making changes from time to time.
 
@@ -155,10 +159,6 @@ If you’re new to the Pokemon Go world and haven’t heard about PokeGo++, here
 
 ![pokego++](https://images.wondershare.com/drfone/2020/2020/pokego++.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 PokeGo++ was developed by the developers at Global++ to give users leverage and help them catch their favorite Pokemon characters easily. These developers reverse-engineered the original Pokemon Go code released by Niantic and designed their own version of the game, i.e., Poke Go++. With PokeGo++, you can set your smartphone’s GPS location instantly and find some of the rarest Pokemon characters to increase your XP.
 
 It’s worth noting that PokeGo++ was released for both Android and iOS. Apple iPhone 8/iPad users could use PokeGo++ via Cydia Impactor. On the other hand, PokeGo++ Android could be installed using Fly GPS. For users who don’t know, Cydia Impactor is a dedicated iOS tool that lets users install and run sideload apps on the iDevice without having to jailbreak it.
@@ -203,7 +203,7 @@ GPS (Global Positioning System) is an important utility in this modern age. Afte
 As a user with daily traveling, you want to avoid such issues. This article will make things easier because you will find ways and solutions to overcome this issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What Happens If Your Apple iPhone 8 GPS Does Not Work on Apple iPhone 8?
@@ -211,6 +211,10 @@ As a user with daily traveling, you want to avoid such issues. This article will
 Apple iPhone 8 is among the most popular gadget devices in current times. Meanwhile, its GPS function allows users to stay active on the real-time map technology. However, GPS not working on Apple iPhone 8s is a common problem. When this happens, you cannot track pinpoint locations.
 
 This means you will find difficulty in locating your destination. Moreover, you will not be able to use those applications that rely on GPS technology. For example, a fitness app needs to track your distance and route. Not to forget, a malfunctioning GPS may also drain more battery.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What Are the Potential Reasons for Apple iPhone 8 GPS Not Working?
 
@@ -234,7 +238,7 @@ A majority of people forget to turn on GPS services on their respective Apple iP
 ![tap on privacy and security](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - ****Step 2:**** Press “Privacy & Security” and turn on “Location Services” to enable GPS. You can also enable location for other apps from the same settings.
@@ -272,10 +276,6 @@ A network connection error is also the reason for ****Apple iPhone 8 GPS not wor
 - ****Step 2:**** Access the "Transfer or Reset Apple iPhone 8" options, tap the "Reset" option, and select "Reset Network Settings.” Now reset your Apple iPhone 8 network settings to default by tapping "Reset Network Settings."
 
 ![tap on reset network settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 5: Reset Location and Privacy Settings
 
@@ -323,15 +323,15 @@ Download and launch Wondershare Dr.Fone's latest version on your computer. Next,
 
 ![choose the system repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - ****Step 2: Choose Desired Repair Mode****
 
 Here choose "iOS Repair," and on the next screen, select the desired repair mode. Proceed with the "Standard Repair," as it will not affect your data. Now follow the on-screen instructions to activate Recovery Mode.
 
 ![proceed with standard repair](https://images.wondershare.com/drfone/guide/ios-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - ****Step 3: Repair the GPS Issue****
 
@@ -359,22 +359,21 @@ Apparently, this article provides step-by-step procedures to solve ****Apple iPh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-sharpened-focus-on-squares-creating-striking-imovie-content-for-instagram/"><u>[New] 2024 Approved Sharpened Focus on Squares Creating Striking iMovie Content for Instagram</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-window-capture-suite-pro-xp/"><u>[New] 2024 Approved Window Capture Suite Pro XP</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-expert-tips-to-transform-lengthy-videos-into-engaging-segmented-content/"><u>[New] In 2024, Expert Tips to Transform Lengthy Videos Into Engaging, Segmented Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>[Updated] In 2024, From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-selection-top-10-vimeo-download-tools-unveiled/"><u>[Updated] The Ultimate Selection Top 10 Vimeo Download Tools Unveiled</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-hidden-face-technique-for-anonymous-content-sharing/"><u>2024 Approved The Hidden Face Technique for Anonymous Content Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-buying-a-high-quality-360-camera-today/"><u>2024 Approved Unveiling the Secrets Buying a High-Quality 360 Camera Today</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-11-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 11 Pro GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-15-pro-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 15 Pro Waze | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-8-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 8 Waze | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-12-miniipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 12 mini/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-13ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 13/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-14-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 14 Pro Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/transfert-de-donnees-via-whatsapp-sur-ios-avec-phonecloner/"><u>Transfert De Données via WhatsApp Sur iOS Avec PhoneCloner</u></a></li>
-<li><a href="https://media-tips.techidaily.com/tv-sizing-guide-finding-your-optimal-display-dimensions-for-ultimate-viewing-comfort/"><u>TV Sizing Guide: Finding Your Optimal Display Dimensions for Ultimate Viewing Comfort</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-chuckle-laugh-moments-and-tears-from-these-top-ten-ig-feeds/"><u>[New] In 2024, Chuckle-Laugh Moments & Tears From These Top Ten IG Feeds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-footage-to-frame-crafting-youtube-thumbnails-on-mobile-devices/"><u>[Updated] 2024 Approved From Footage to Frame Crafting YouTube Thumbnails on Mobile Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-resolved-inaccessible-full-screen-obs/"><u>[Updated] In 2024, Resolved Inaccessible Full Screen OBS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unveil-the-untouched-best-of-insta-stories/"><u>[Updated] Unveil the Untouched Best of Insta Stories</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-the-best-gopro-max-360-vs-hero-11/"><u>2024 Approved Comparing the Best GoPro Max 360 VS Hero 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professional-level-interview-and-journey-podcasts-on-apple-devices/"><u>2024 Approved Professional-Level Interview & Journey Podcasts on Apple Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/high-quality-win11-screen-capture-pro-for-2024/"><u>High-Quality Win11 Screen Capture Pro for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-6s-plusipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 6s Plus/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-15ipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 15/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-issues-with-stuck-qbittorent/"><u>Troubleshooting Guide: Resolving Issues with Stuck qBittorent</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlocking-gpu-power-enable-cuda-support-in-handbrake-for-faster-video-conversion/"><u>Unlocking GPU Power: Enable CUDA Support in HandBrake for Faster Video Conversion</u></a></li>
 </ul></div>
 

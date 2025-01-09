@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to See Someones Location on Apple iPhone 11 | Dr.fone
-date: 2024-12-26T01:12:46.797Z
-updated: 2025-01-01T22:01:07.075Z
+date: 2025-01-06T16:09:23.216Z
+updated: 2025-01-09T17:55:14.626Z
 tags: 
   - virtual location chang
   - location changer
@@ -50,24 +50,20 @@ Find My iPhone offers numerous other features that can help you to find lost or 
 
 ![find my friends ios app](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Through this particular app, you can also try **how to find someone’s location on Apple iPhone 11** efficiently. First, however, you should be remindful of the following two factors before locating someone’s location on Apple iPhone 11 through this app:
 
 - The suitable users for locating someone’s location on Apple iPhone 11 are those who have an evident reach to the target’s iPhone and are also included in the contact list of that particular phone.
 - Through this app, you cannot observe someone's location in an incognito mode as the target iPhone owner can easily check if someone is navigating their location once they open the Find My Friends app. Also, a notification will pop up on the target's iPhone regarding their shared location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps on How to Track Someone’s iPhone via Find My Friends
 
 **Step 1:** Install the "Find My Friends" app on the target's iPhone to start. Remember that the "Find My Friends" app is only available on iOS 12 or below. IOS 13 users need to install the "Find My" app to proceed.
 
 ![open find friends app](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** After installing the app on the target's phone, open it and tap on the contact picture to activate the toggle called "Share My Location."
 
@@ -93,10 +89,6 @@ iMessage has a hidden feature through which you can also know **how to see someo
 
 ![open your imessage chat](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Now tap on the contact icon and then click on the info icon from where you would see different options. Tap on "Share My Location" and set the time duration of location sharing. You can set the time for 1 hour, 24 hours, or indefinitely.
 
 ![enable imessage share location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-12.jpg)
@@ -104,6 +96,10 @@ iMessage has a hidden feature through which you can also know **how to see someo
 **Step 3:** On your Apple iPhone 11, join the location sharing of the target's phone and do not permit to share your location. Thus, you can easily track the target's location on your Apple iPhone 11 via iMessage.
 
 ![observe target location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Fake Location on Apple iPhone 11 to Avoid Others from Tracking You
 
@@ -141,15 +137,15 @@ Now enable the teleport mode by tapping on its icon displayed on the upper right
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 ### Conclusion
 
 Through this detailed guide, you can quickly learn **how to quickly see someone’s location on Apple iPhone 11**. For diversity, we have discussed three reliable apps that can help you navigate someone's location accurately. However, if you want to fake your location to prevent others from tracking you, we have recommended Dr.Fone – Virtual Location tool, which works precisely in this scenario.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 11
 
@@ -169,7 +165,7 @@ Considering why keeping privacy is never a bad idea. And of course you have cont
 Thus, to avoid such bothersome situations, keeping the location data private becomes essential. And now that you know the importance, let us understand how to stop tracking on Apple iPhone 11
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Switch to a Virtual Location to Stop Someone from Tracking your Apple iPhone 11
@@ -224,6 +220,10 @@ If the above method didn’t suit you, this is how you can turn off tracking on 
 
 ![use the switch](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Disable location tracking of specific apps
 
 In the above section, you have stopped tracking on Apple iPhone 11 entirely which means any of the location based app or service won’t be able to locate you. Nevertheless, completely turning it off can sometimes be useless as there are some apps that need the tracking of your location so as to give you better experience. As a solution for this, you can follow the steps below and can turn off location for specific apps only. Here is how to stop tracking on Apple iPhone 11 for specific apps.
@@ -237,10 +237,6 @@ In the above section, you have stopped tracking on Apple iPhone 11 entirely whic
 ![make adjustments](https://images.wondershare.com/drfone/article/2019/09/disable-location-specific-apps.jpg)
 
 The first option will never send your location to the apps. Second option will use your location only when you use the particular app. And as it suggests itself, by choosing the “Always” option will always track your location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Disable Significant Locations on Apple iPhone 11
 
@@ -283,7 +279,7 @@ iPhone provides three kinds of location based services. These include the servic
 ![disable the location services or alerts](https://images.wondershare.com/drfone/article/2019/09/disable-location-based-alerts.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final Words
@@ -304,6 +300,10 @@ In most basic explanation, the Weather app is a tool that helps you determine th
 
 Apart from its well-circulated weather updates, the Apple iPhone 11’s Weather app has a lot more to offer. Check out the list provided below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ten-Day Forecast
 
 ![ten day forecast](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-1.JPG)
@@ -320,19 +320,11 @@ If an extreme weather disturbance is detected in your area, the Weather app will
 
 ![weather map](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-3.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Apple iPhone 11’s Weather app has a map feature that exclusively displays the weather conditions in a specific location. From there, you can view certain atmospheric information, including temperature, precipitation, air quality, and wind conditions. Just make sure that your location is set properly. If you want to replace it, just follow the guide on how to change the weather location on your Apple iPhone 11.
 
 ### Air Quality
 
 ![air quality](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-4.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If information regarding air quality is widely available in your country, it will also show up on the Apple iPhone 11’s Weather app. You can view from there the recorded air quality index in your area together with a rating if it is good or not. At present, we cannot deny that being aware of the air quality around us is indeed essential. It somehow helps us lessen our exposure to harmful pollutants in the atmosphere. That’s why you should take advantage of this feature. Read the tutorial on how to change the weather location on your Apple iPhone 11 and configure your settings. This way, you’ll stay updated on the air quality of the places you will visit going forward.
 
@@ -349,6 +341,10 @@ Let’s say you just need to check the weather conditions in another location. C
 
 ![weather app menu](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Enter your preferred location into the search bar. Find and click it from the suggested results.
 
 ![search weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-6.jpg)
@@ -356,6 +352,10 @@ Let’s say you just need to check the weather conditions in another location. C
 - **Step 4:** Then, click **Add.** The new location will be then added to the list. If you wish to reorder the list based on your preference, just click the **More** icon at the top-right corner of the left-side panel screen and then click **Edit List.** From there, drag the locations up and down to reorganize them to your desired order.
 
 ![reorder location list](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Change the Weather app’s primary location on the widget
 
@@ -365,6 +365,10 @@ Do you have a Weather widget on your Apple iPhone 11’s home screen? If so, you
 - **Step 2:** Click **Edit Weather.**
 
 ![edit weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Click **Location.** From there, enter your desired location into the search bar and choose one from the suggested results.
 
@@ -386,10 +390,6 @@ Is there any other way in case the first two techniques do not bring positive re
 - **Step 5:** Enter your desired location into the search bar and choose one from the list of suggestions. Right after, click the **Enter** icon to proceed.
 
 ![search for your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 6:** The details pertaining to your selected location will be displayed on the screen. Check them very carefully and confirm that it is the exact location you’re looking for. Once you’re done verifying the details, click the **Move Here** button below to continue.
 
@@ -425,15 +425,18 @@ By default, the Apple iPhone 11’s Weather app uses your current location for u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>2024 Approved Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 13 Pro Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-newbie-to-pro-in-screenshotting-a-beginners-guide-for-logitech-keyboard-enthusiasts/"><u>From Newbie to Pro in Screenshotting: A Beginner's Guide for Logitech Keyboard Enthusiasts</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-11-pro-max-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 11 Pro Max and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/return-creator-toolkit/"><u>Return Creator Toolkit</u></a></li>
-<li><a href="https://fake-location.techidaily.com/unveiling-the-style-and-functionality-a-comprehensive-look-at-taotronics-modern-led-lamps/"><u>Unveiling the Style & Functionality: A Comprehensive Look at TaoTronics' Modern LED Lamps</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-12ipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 12/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-is-my-game-of-crusader-kings-ii-not-loading-and-how-to-fix-it/"><u>Why Is My Game of Crusader Kings II Not Loading and How to Fix It?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-and-the-stuck-windows-key-a-step-by-step-solution/"><u>Windows 10 and the Stuck Windows Key - A Step-by-Step Solution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cognitive-conclaves-educational-yt-powerhouses-for-2024/"><u>[Updated] Cognitive Conclaves Educational YT Powerhouses for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-interview-skills-with-chatgpt-insider-advice-and-expert-tips/"><u>Enhancing Your Interview Skills with ChatGPT: Insider Advice and Expert Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-guide-to-enhancing-youtube-content-post-upload/"><u>Essential Guide to Enhancing YouTube Content Post-Upload</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210966228-9781639036912-gods-will-and-plan-for-your-life/"><u>God's Will and Plan for Your Life | Free Book</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-7-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 7 Waze | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-compilation-of-top-sky-hd-sites/"><u>In 2024, The Ultimate Compilation of Top Sky HD Sites</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-p60-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on P60</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-13-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 13 Pro Max/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 

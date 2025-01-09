@@ -1,7 +1,7 @@
 ---
 title: Why Does iTools Virtual Location Not Work For Apple iPhone 6s/iPad? Solved | Dr.fone
-date: 2024-12-25T19:11:20.643Z
-updated: 2025-01-01T18:58:57.019Z
+date: 2025-01-05T17:46:43.365Z
+updated: 2025-01-09T17:57:17.704Z
 tags: 
   - virtual location chang
   - location changer
@@ -61,6 +61,10 @@ There are several tools out there claiming to offer such, but none comes close t
 - **Change directions up to 360 degrees-** use the direction arrows to set the desired movement direction.
 - **Works with all GPS-** based AR games or apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -99,6 +103,10 @@ Go to the ‘Settings’ in the home screen of your Apple iPhone 6s and proceed 
 
 ![iphone settings](https://images.wondershare.com/drfone/2023/virtuallocation/iphone-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Choose Safari to modify the settings
 
 In the ‘Privacy’ window, you have to select ‘Location Services’ option and tap ‘Safari Websites’ from the list
@@ -131,19 +139,15 @@ In the ‘Privacy’ window, choose ‘Location Services’ and tap ‘Safari We
 
 ![privacy location services](https://images.wondershare.com/drfone/2023/virtuallocation/privacy-location-services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Stop the location services
 
 In the pop-up screen, tick the ‘Never’ option to completely stop the ‘Location Services’ for Safari. This modification will prevent Safari from requesting to share the location details of the Apple iPhone 6s device.
 
 ![stop location services](https://images.wondershare.com/drfone/2023/virtuallocation/stop-location-services.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to change Safari location on Apple iPhone 6s
 
@@ -171,15 +175,15 @@ The next window displays the current virtual location details of the Apple iPhon
 
 ![virtual location 03](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Enter your favourite spot**
 
 Select the ‘Teleport mode’ in the map view. You can find this icon at the top right of the screen. Choose the first image from the horizontal list of symbols. Then enter your favourite spot worldwide in the text box near the ‘Go’ button. It is high time to press the ‘Go’ button and fix your admirable spots as your default device location.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5: Authenticate the changes**
 
@@ -203,23 +207,11 @@ Locating someone’s iPhone may sound strange, but it can serve the purpose in v
 
 This article will address three methods for **seeing someone’s location on Apple iPhone 6s** accurately and within no time. Moreover, we will also recommend a third-party tool to fake your location to prevent others from tracking you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to See Someone’s Location on Apple iPhone 6s using Find My iPhone
 
 [Find My iPhone](https://www.apple.com/icloud/find-my/) is one of the popular apps to locate iPhones effectively. iPhone users utilize this app to navigate lost or stolen phones efficiently. Through this app, you can also learn **how to check someone's location on Apple iPhone 6s** through their iCloud. First, make sure to activate Find My Apple iPhone 6s feature in the target’s iCloud settings. After that, you can easily see the targets’ location on your Apple iPhone 6s from your screen with a few clicks.
 
 ![find my iphone interface](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps to See Someone’s Location on Apple iPhone 6s through Find My iPhone
 
@@ -228,7 +220,7 @@ This article will address three methods for **seeing someone’s location on Ap
 ![enable find my iphone](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Now, you are ready to locate the target's iPhone location anytime you wish. To do so, access the official website of iCloud and log in to the target’s iCloud account carefully.
@@ -243,19 +235,11 @@ This article will address three methods for **seeing someone’s location on Ap
 
 Find My iPhone offers numerous other features that can help you to find lost or stolen phones effortlessly. Through this app, you can play a sound on your lost iPhone for 2 minutes, even if the iPhone is on silent mode. You can also get easy and clear directions through this app towards the exact location of your phone. Moreover, if your Apple iPhone 6s gets stolen, you can lock your device through a passcode and can erase all the data from it with a single click.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Find Someone’s Location on Apple iPhone 6s via Find My Friends
 
 [Find My Friends](https://apps.apple.com/us/app/find-my-friends/id466122094) is another helpful app through which you can track someone’s location easily. Your friends and family members can share their location through this app, and they can also start following your location simultaneously. Moreover, you can set location-based alarms in case you have to pick up someone from the school or airport.
 
 ![find my friends ios app](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Through this particular app, you can also try **how to find someone’s location on Apple iPhone 6s** efficiently. First, however, you should be remindful of the following two factors before locating someone’s location on Apple iPhone 6s through this app:
 
@@ -268,6 +252,10 @@ Through this particular app, you can also try **how to find someone’s location
 
 ![open find friends app](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** After installing the app on the target's phone, open it and tap on the contact picture to activate the toggle called "Share My Location."
 
 ![enable share my location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-8.jpg)
@@ -276,15 +264,27 @@ Through this particular app, you can also try **how to find someone’s location
 
 ![select the location sharing time](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** You would receive a notification message asking for permission to accept the target's location and share your location on your Apple iPhone 6s. Tap on "Don't share" to locate the target's phone without sharing your location. Now on the Find My Friends app, you can easily see the location of the target's iPhone along with its contact icon.
 
 ![don’t share your location with target](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Check Someone’s Location on Apple iPhone 6s by iMessage
 
 Another way to track someone's location on Apple iPhone 6s is through the iMessage app. This app enables the users to have internet-based conversations with their friends and family members and improves features. Also, all the messages are secured via end-to-end encryption for data privacy security. You can also share stickers and emojis through this special app.
 
 iMessage has a hidden feature through which you can also know **how to see someone’s location on Apple iPhone 6s**. Thus, by using this app, you can easily reach the location of your target's phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to Find Someone’s Location through iMessage
 
@@ -299,10 +299,6 @@ iMessage has a hidden feature through which you can also know **how to see someo
 **Step 3:** On your Apple iPhone 6s, join the location sharing of the target's phone and do not permit to share your location. Thus, you can easily track the target's location on your Apple iPhone 6s via iMessage.
 
 ![observe target location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Fake Location on Apple iPhone 6s to Avoid Others from Tracking You
 
@@ -340,6 +336,10 @@ Now enable the teleport mode by tapping on its icon displayed on the upper right
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 ### Conclusion
@@ -360,17 +360,20 @@ Through this detailed guide, you can quickly learn **how to quickly see someone�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-professionals-primer-to-perfecting-picture-colors/"><u>[New] A Professional's Primer to Perfecting Picture Colors</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-high-quality-video-grabs-by-leading-software-for-2024/"><u>[Updated] High Quality Video Grabs by Leading Software for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-youtube-shorts-earnings-essentials-and-profit-prospects-for-2024/"><u>[Updated] Maximizing Youtube Shorts Earnings Essentials and Profit Prospects for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimal-camera-balance-for-drone-use/"><u>[Updated] Optimal Camera Balance for Drone Use</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-xiaomi-redmi-note-12-4g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 12 4G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-seipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone SE/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-13ipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 13/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/meta-unleashes-pioneering-ai-powerhouse-worldwide/"><u>Meta Unleashes Pioneering AI Powerhouse Worldwide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-add-audio-to-video-in-magix-movie-edit-pro/"><u>New In 2024, How to Add Audio to Video in Magix Movie Edit Pro</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-gratuitier-webcam-trimmer-fur-windows-and-macos-perfekt-zum-entfernen-von-nicht-benotigten-video-abschnitten/"><u>Top Gratuitier Webcam Trimmer Für Windows & macOS: Perfekt Zum Entfernen Von Nicht Benötigten Video-Abschnitten</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-avoid-and-eliminate-fog-on-gopro-lenshousing/"><u>[New] How to Avoid and Eliminate Fog on GoPro Lens/Housing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-getting-started-with-windows-10-sound-recording/"><u>[New] In 2024, Getting Started with Windows 10 Sound Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-8-youtube-rank-tracker-to-track-your-video/"><u>[New] Top 8 YouTube Rank Tracker to Track Your Video</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-connectivity-modifier-fb-stories-backup-tool/"><u>[Updated] Connectivity Modifier FB Stories Backup Tool</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-xripad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone XR/iPad | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pop-8-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pop 8 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 11/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-15ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 15/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/maximizing-performance-safely-understanding-the-ideal-heat-threshold-for-your-cpu-with-yl-software/"><u>Maximizing Performance Safely: Understanding the Ideal Heat Threshold for Your CPU with YL Software</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-gt-neo-5-se-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722980330154-troubleshoot-and-resolve-pc-issues-in-assassins-creed-odyssey-no-sweat/"><u>Troubleshoot and Resolve PC Issues in Assassin's Creed Odyssey - No Sweat!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/validate-video-rights-a-guide-to-pre-uploading-on-tiktok/"><u>Validate Video Rights A Guide to Pre-Uploading on TikTok</u></a></li>
 </ul></div>
 
