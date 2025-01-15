@@ -1,7 +1,7 @@
 ---
 title: 3 Smart and Simple Ways to Change Home Address on Apple iPhone XS | Dr.fone
-date: 2025-01-04T17:27:23.119Z
-updated: 2025-01-09T17:49:27.945Z
+date: 2025-01-09T01:36:04.226Z
+updated: 2025-01-15T08:56:53.368Z
 tags: 
   - virtual location chang
   - location changer
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 Have you recently been relocated to somewhere else or are tired of entering your Home address on Maps every day? Well, to save your time, why not add or change your home address on Apple iPhone XS. In this way, you can easily start your commute and share your address with others on the go. The good thing is that the provision to change home address in Apple iPhone XS is available for both Apple and Google Maps. Let’s get started and learn how to change home address on Apple iPhone XS like a pro!
 
 ![change home address Apple iPhone XS 1](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Change Home Address in Apple Maps on Apple iPhone XS
 
@@ -40,12 +44,16 @@ Step 5. Alternatively, if you want, you can also mark any location as your favor
 
 ![change home address Apple iPhone XS 5](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6. After selecting the location, swipe up to get more options related to the location and tap on the “Favorites” feature to save it.
 
 ![change home address Apple iPhone XS 6](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change Home Address in Apple iPhone XS Autofill?
@@ -61,6 +69,10 @@ Step 3. Here, you can view details related to the automatic filling of contacts,
 Step 4. Now, tap on the “My Info” option to view your details like name, email, address, and so on. Just go to the “Address” field and manually enter your new address to change it.
 
 ![change home address Apple iPhone XS 7](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Change Home Address in Google Maps on Apple iPhone XS?
 
@@ -113,10 +125,6 @@ Fixing the issue can be put as secondary thing. What should matter is why such t
 
 It is understood that the Waze app runs on GPS. Therefore, having poor signals can be the main cause of why Apple iPhone XS says “no GPS showing approximate location”. This will not let the location services work properly and therefore arising the issues like these. And hence, as the first thing, we would like to suggest you leaving the place if there are poor or no signals at all. This will do nothing but ruin your mood and app’s performance. Do this and see if the problem goes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Check date & time settings
 
 As the other solution to Waze Apple iPhone XS 6 no GPS, you must check your date and time settings. A lot of times, the issue comes with incorrect time/location settings. And therefore, here we suggest you to do the following things.
@@ -139,10 +147,6 @@ Step 6: You can enter the city name and go ahead.
 
 ![date time settings 3](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Restart your Apple iPhone XS
 
 One of the most frequently used methods to troubleshoot certain iOS problems is to simply give a restart to your device. Doing this simply terminates all the running background processes and starts the phone freshly. This is what you need to do and see if Waze Apple iPhone XS no GPS issue gets resolved.
@@ -156,7 +160,7 @@ Step 3: Now, press the “Power” button again for long and power on your devic
 ![restart iphone](https://images.wondershare.com/drfone/2023/virtuallocation/restart-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Reset Network and Location & Privacy Settings
@@ -174,16 +178,12 @@ Step 3: Here, simply tap on “Reset Network Settings”. Confirm the actions an
 ![reset network settings](https://images.wondershare.com/drfone/2023/virtuallocation/reset-network-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To Reset Location & Privacy Settings, the steps are identical. Just tap on “Reset” followed by “Reset Location & Privacy Settings”.
 
 ![reset location privacy](https://images.wondershare.com/drfone/2023/virtuallocation/reset-location-privacy.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 6: Re-install Waze and grant location permission in settings
 
@@ -231,6 +231,10 @@ Step 3: Please tap on that and you will be able to see if the update is present 
 
 ![update ios](https://images.wondershare.com/drfone/2023/virtuallocation/update-ios.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -258,7 +262,7 @@ Explore the techniques in how to change safari location on the Apple iPhone XS.
 _**Tips:** Enhance your Apple iPhone XS privacy with Dr.Fone - Virtual Location! Change your location to protect your privacy, and prevent your Apple iPhone XS from being tracked. Get it now!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to enable/disable Safari Location on Apple iPhone XS
@@ -335,15 +339,15 @@ In the home page of this program, select the ‘Virtual Location’ option. In t
 
 ![virtual location 01](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Quick look at the map view**
 
 The next window displays the current virtual location details of the Apple iPhone XS device.
 
 ![virtual location 03](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Enter your favourite spot**
 
@@ -351,25 +355,21 @@ Select the ‘Teleport mode’ in the map view. You can find this icon at the to
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Authenticate the changes**
 
 The next map view shifts to the new location with a pop-up message ‘Move Here’. You must authenticate the changes by tapping this ‘Move here’ button.
 
 ![virtual location 05](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6: Check the default location**
 
 Open the current location in your Apple iPhone XS and verify it displays your favourite spot.
 
 ![virtual location 07](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -389,15 +389,22 @@ Thus, concealing the location details of your device protects you from unwanted 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-harness-the-power-of-speech-to-text-in-google-documents-for-2024/"><u>[Updated] Harness the Power of Speech-to-Text in Google Documents for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-for-attaching-tunes-in-instagram-media-for-2024/"><u>[Updated] Step-by-Step for Attaching Tunes in Instagram Media for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-tricks-to-document-league-of-legends-games-efficiently-for-2024/"><u>[Updated] Top Tricks to Document League of Legends Games Efficiently for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-11ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 11/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-utorrent-pauseresume-issue-on-windows-pcs/"><u>Fixing the uTorrent Pause/Resume Issue on Windows PCs</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-se-2020-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone SE (2020) and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-going-viral-guide-keyword-strategies-for-cut-to-the-chase-videos/"><u>In 2024, Going Viral Guide Keyword Strategies for Cut-to-the-Chase Videos</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-seipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone SE/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/zero-issues-startechs-driver-flawlessness-in-winxp811/"><u>Zero Issues: StarTech's Driver Flawlessness in WinXP/8/11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-the-power-of-three-tiers-in-crafting-fb-ad-engaging-messages/"><u>[New] Unveiling the Power of Three Tiers in Crafting FB Ad Engaging Messages</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-correcting-excessive-encoding-in-obs/"><u>[Updated] Correcting Excessive Encoding in OBS</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone XS/iPad? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-persistent-crashes-in-game-names-thunder-tier-one-on-windows/"><u>Fixes for Persistent Crashes in [Game Name]'s Thunder Tier One on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-honor-x9b-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Honor X9b?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-12ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 12/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-11-pro-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 11 Pro and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-13-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 13 and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-6-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 6 Plus GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782553-9781591432500-soul-breathing/"><u>Soul Breathing | Free Book</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-complete-users-manual-to-enhance-your-iphone-with-hdr-features/"><u>The Complete User's Manual to Enhance Your iPhone with HDR Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-peak-performance-with-these-12-free-disk-defrag-tools-july-2024/"><u>Unlock Peak Performance with These 12 Free Disk Defrag Tools (July 2024)</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/zugriffsverweigerung-fur-ordner-in-windows-11-entdecken-sie-3-losungsansatze/"><u>Zugriffsverweigerung Für Ordner in Windows 11: Entdecken Sie 3 Lösungsansätze</u></a></li>
 </ul></div>
 

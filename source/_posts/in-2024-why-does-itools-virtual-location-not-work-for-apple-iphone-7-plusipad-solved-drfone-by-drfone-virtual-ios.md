@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 7 Plus/iPad? Solved | Dr.fone
-date: 2025-01-04T19:10:45.626Z
-updated: 2025-01-09T17:13:03.904Z
+date: 2025-01-10T03:16:02.339Z
+updated: 2025-01-15T01:35:19.896Z
 tags: 
   - virtual location chang
   - location changer
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 
 It is no secret that a multiplicity of users across the globe have reported a bunch of problems using iTools Virtual Location. These problems vary in magnitude and make [iTools Virtual Location](https://www.thinkskysoft.com/itool-virtual-location/) not work. In this article, we are going to dig into probable causes and solutions for iTools Virtual Location that fails to work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Common Issues That iTools Virtual Location Not Working
 
 Although iTools can be of great help in mocking your GPS location, the tool is marred by a plethora of shortcomings. Lots of users have been perennially complaining about some flaws of iTools Virtual Location. Some of the common issues are:
@@ -35,6 +31,10 @@ Although iTools can be of great help in mocking your GPS location, the tool is m
 - **Image load failed-** Image loading failure is a common problem amongst iOS 17 users. Droves of users complain they continually get a developer image load failed. The program fails to load various location images, and thus users cannot see the respective location images. The screen is stuck in loading without displaying any image.
 
 _**Tips:** iTools Virtual Location not working? Switch to Dr.Fone - Virtual Location for flawless GPS control. Try it now and never lose your way!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Solve These Issues?
 
@@ -53,6 +53,10 @@ With the significant problems mentioned, it's prudent for someone to ask now wha
 As you have seen above, iTools Virtual Location software is faced with a pile of problems that make it difficult to safely and efficiently fake GPS locations. So no one should teach you that you need a better tool. Yes, a stable and safe tool for changing location as you desire.
 
 ![dr.fone-virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There are several tools out there claiming to offer such, but none comes close to [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). The powerful iOS location changer has all it takes to make location changing easy and full of fun. This program has a simple and straightforward interface that eases every user's navigation. With the three simple steps to change GPS location on your device, Dr.Fone is no doubt the location changer you have been looking for. The program is available for all versions of windows including Windows 11/10/8.1/8/7. Some of the features of Dr.Fone - Virtual Location (iOS/Android) include:
 
@@ -97,6 +101,10 @@ You don’t have to keep your Apple iPhone 7 Plus’s charging port occupied any
 
 This dongle provides 2 in 1 benefits. On one side, it has the USB plug that will help you connect the dongle to your PC or laptop. While on the other side, you have the lightning port. If you have access to a lightning cable, it is easy to charge the iPhone and iPad with this one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.3 Double Location Pro 2.0
 
 This square white beauty does a terrific job in hiding your actual location. Also, it is having 3-in-1 benefits where you can connect it to iPhone, iPad and Apple adapters as well. It has a 3.5mm headphone jack and a lightning charge port.
@@ -116,7 +124,7 @@ It provides iOS system level GPS manipulation that changes your location in all 
 This dongle is completely safe and blocks any external interferences that try to capture your data illegally. It shields the bans from the Manufacturer’s (Apple) side. Your data and you are absolutely safe.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.3 No Jailbreak
@@ -127,19 +135,23 @@ Often, you might receive restrictions from the manufacturer during the GPS simul
 
 You don’t need a computer for the Dongle to work. It is easy to attach it to your Apple iPhone 7 Plus or iPad’s charging port and then launch it into action. You can carry it wherever you go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.5 Works for diverse Apps
 
 You can spoof your location on a wide range of apps like Google Maps, Find My iPhone, Zenly, Pokémon Go, Tinder, Snapchat, Instagram, and Facebook among more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part3. Why should you not choose Double Location Dongle?
 
 While you’ve already seen one side of the coin, it is time to see the other one. Yes, there are good benefits to Double Location but I have to mention the cons as well in this double location dongle review.
 
 ![double location dongle pic 3](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.1 Costly on Comparison
 
@@ -163,19 +175,11 @@ The helpline center’s response is so slow that I sometimes wonder if there is 
 
 ![double location dongle pic 4](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2.** Enter the iOS Companion app to activate the benefits. When you purchase your dongle, the sellers will give you access to this link too. This one is required for availing of all benefits.
 
 **Benefit 1:** Using coordinates or specific location, lock your spoof location.
 
 ![double location dongle pic 5](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Benefit 2:** Create a virtual illusion like you are riding a bike or driving a car in your new location.
 
@@ -189,7 +193,15 @@ The helpline center’s response is so slow that I sometimes wonder if there is 
 
 ![double location dongle pic 8](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You need to select your location before you enter the game and not after it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part5. Any PC program if Double Location Dongle fails to work?
 
@@ -245,17 +257,9 @@ To view GPX on the map, you can first head to the official website of Google Map
 
 ![Google Maps More Option](https://images.wondershare.com/drfone/article/2021/04/view-gpx-files-online-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This will display various options related to your Google Maps account. From here, you can just click on the “Your Places” feature.
 
 ![Google Maps Your Places](https://images.wondershare.com/drfone/article/2021/04/view-gpx-files-online-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2: Choose to Create a New Map**
 
@@ -264,7 +268,7 @@ As a dedicated section of “Your Places” would be launched, you can view all 
 ![Google Maps Create Map Option](https://images.wondershare.com/drfone/article/2021/04/view-gpx-files-online-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Import and View the GPX File Online**
@@ -272,10 +276,6 @@ As a dedicated section of “Your Places” would be launched, you can view all 
 This will make Google Maps load a new page that will let you create a fresh map as per your preferences. Here, you can just click on the “Import” button to load a browser window from where you can directly load a GPX file on Google Maps and make it available offline as well.
 
 ![Import GPX to Google Maps](https://images.wondershare.com/drfone/article/2021/04/view-gpx-files-online-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to View a GPX File Offline with Dr.Fone – Virtual Location?
 
@@ -301,10 +301,6 @@ You can now drop the pin in a route on the map and click on the “Move Here” 
 
 ![simulate movement](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Subsequently, you can select the number of times you want to cover the route and click on the “March” button. The application will even let you select a preferred speed for the movement.
 
 ![select the speed](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
@@ -314,6 +310,10 @@ Subsequently, you can select the number of times you want to cover the route and
 Once you have loaded the map on the interface, you can easily save it offline as a GPX file. To do that, just click on the Export icon from the floating menu on the side.
 
 ![save one stop route](https://images.wondershare.com/drfone/guide/save-one-stop-route.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Similarly, you can also import a GPX file directly to the Dr.Fone application. To do this, you just have to click on the “Import” icon from the sidebar. This will open a browser window, letting you go to a location on your computer where the GPX file is saved.
 
@@ -339,22 +339,17 @@ As you can see, it is pretty easy to view GPX online or offline using the right 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastery-in-video-handling-with-microsoft-hubs/"><u>[Updated] Mastery in Video Handling with Microsoft Hubs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211487783-fixing-windows-10-update-failures-get-your-updates-rolling/"><u>Fixing Windows 10 Update Failures - Get Your Updates Rolling!</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12 Pro Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-13-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 13 GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-samsungs-advanced-2023-bd-j5900-reviewed-here/"><u>In 2024, Samsung's Advanced 2023 BD-J5900 Reviewed Here</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-12-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 12 Pro Max/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/limited-time-offer-snag-the-ultimate-deal-on-blinks-4-camera-security-system-plus-floodlight-attachment-for-only-80-over-labor-day-weekend-exclusive-insight246/"><u>Limited Time Offer: Snag the Ultimate Deal on Blink's 4-Camera Security System + Floodlight Attachment for Only $80 Over Labor Day Weekend - Exclusive Insight From ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/navigating-the-nuances-of-using-switch-pro-controller-on-steam/"><u>Navigating the Nuances of Using Switch Pro Controller on Steam</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-discover-5-trustworthy-websites-offering-humorous-background-sounds-legally/"><u>New Discover 5 Trustworthy Websites Offering Humorous Background Sounds Legally</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/personal-growth-chronicles-for-youtube-audience/"><u>Personal Growth Chronicles for YouTube Audience</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-5-samsung-gear-360-camera-alternatives-for-2024/"><u>Top 5 Samsung Gear 360 Camera Alternatives for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unblocking-dxgi-device-hang-issue-error-0x887a0006/"><u>Unblocking DXGI: Device Hang Issue, Error 0X887A0006</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-15-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 15 Pro Max/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-tips-for-recording-high-quality-mov-video-on-windows-11/"><u>[New] 2024 Approved Tips for Recording High-Quality MOV Video on Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-epic-escapades-in-playtime-paradise/"><u>[Updated] 2024 Approved Epic Escapades in Playtime Paradise</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-15-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 15 Waze | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/correcting-time-jumps-fixing-obs-studio-problems-for-2024/"><u>Correcting Time Jumps Fixing OBS Studio Problems for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-xipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone X/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-tips-for-flv-file-fusion-on-youtube-for-2024/"><u>Essential Tips for FLV File Fusion on YouTube for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-7-plus-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 7 Plus and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-11-pro-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 11 Pro Lock Screen</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-12-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 12 Before the Plan Expires</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/"><u>Leveraging Social Media Power Optimal Use of Hash Tags on FB</u></a></li>
 </ul></div>
 

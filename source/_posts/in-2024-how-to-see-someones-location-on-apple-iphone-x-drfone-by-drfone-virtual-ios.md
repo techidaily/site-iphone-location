@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to See Someones Location on Apple iPhone X | Dr.fone
-date: 2025-01-02T16:43:01.285Z
-updated: 2025-01-09T19:11:30.064Z
+date: 2025-01-09T02:16:18.027Z
+updated: 2025-01-15T05:02:24.104Z
 tags: 
   - virtual location chang
   - location changer
@@ -26,6 +26,10 @@ This article will address three methods for **seeing someone’s location on Ap
 
 ![find my iphone interface](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to See Someone’s Location on Apple iPhone X through Find My iPhone
 
 **Step 1:** Initiate activating the feature of Find My iPhone on the target’s phone. For this, navigate to the “Settings” of the target iPhone. Then find and click on the option of “iCloud," where you will see the feature "Find My iPhone." Next, turn on its toggle by tapping on it.
@@ -39,10 +43,6 @@ This article will address three methods for **seeing someone’s location on Ap
 **Step 3:** A new window will appear on your screen from where you click on the option "Find My iPhone." Now you can see all of the iOS devices attached to this account. Choose the Apple iPhone X device from the options you want to locate on the map.
 
 ![track iphone location](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Other Features
 
@@ -73,9 +73,17 @@ Through this particular app, you can also try **how to find someone’s location
 
 ![select the location sharing time](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** You would receive a notification message asking for permission to accept the target's location and share your location on your Apple iPhone X. Tap on "Don't share" to locate the target's phone without sharing your location. Now on the Find My Friends app, you can easily see the location of the target's iPhone along with its contact icon.
 
 ![don’t share your location with target](https://images.wondershare.com/drfone/article/2022/05/see-someones-location-iphone-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Check Someone’s Location on Apple iPhone X by iMessage
 
@@ -113,6 +121,10 @@ You can effortlessly hide your current location to prevent others from tracking 
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ultimate Steps to Use Dr.Fone – Virtual Location
 
 **Step 1: Select Virtual Location**
@@ -120,10 +132,6 @@ You can effortlessly hide your current location to prevent others from tracking 
 Start with launching the Dr.Fone tool on your computer and open the tool to click on "Virtual Location" on its home page.
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2: Connect your Phone**
 
@@ -155,13 +163,13 @@ Not many of us are aware of Spoofing Dongles. These are very useful hardware pie
 
 iTeleporter Pro 2.0 is a similar dongle that was very efficient in spoofing an individual’s location. It is now combined with Double Location and both together created three Double Location masterpieces. Apart from the obvious spoofing benefits, these have other benefits too –
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.1 Double Location BT 2.0
 
 You don’t have to keep your Apple iPhone X’s charging port occupied anymore. You can connect this Dongle to your phone by Bluetooth wirelessly. It is easy to charge this dongle too. It comes with a decent USB plug that you can insert into your Personal computer, Laptop or Desktop for easy charging.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.2 Double Location Mini 2.0
 
@@ -176,6 +184,10 @@ This square white beauty does a terrific job in hiding your actual location. Als
 Choosing Double Location Dongle will be a profit both because of its high functionality and long durability. Moreover, the hardware piece also provides additional benefits apart from the spoofing of location.
 
 ![double location dongle pic 2](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.1 iOS System-level location change
 
@@ -215,10 +227,6 @@ The delivery time is excruciatingly long. It will take a lot of time for them to
 
 The website layout is a bit confusing. After iTeleporter has combined with Double Location, they made a few modifications to the site. Now it is a tiny bit confusing to navigate through the pages and get to where you want. It could be a little simpler to make life easier.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3.4 Helpline Replies
 
 The helpline center’s response is so slow that I sometimes wonder if there is a helpline team. They have their pages on Facebook and Twitter. You can chat with executives on their official websites as well. Though they promise a response within 1 hour, it is not the case most of the time. They do reply but not when you most need it.
@@ -235,13 +243,13 @@ The helpline center’s response is so slow that I sometimes wonder if there is 
 
 ![double location dongle pic 5](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Benefit 2:** Create a virtual illusion like you are riding a bike or driving a car in your new location.
 
 ![double location dongle pic 6](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Benefit 3:** Gives access to in-game controls where you can tilt your phone and move your game character.
 
@@ -250,6 +258,10 @@ The helpline center’s response is so slow that I sometimes wonder if there is 
 **Benefit 4:** Use another android or iPhone device as a joystick to control your character in the game.
 
 ![double location dongle pic 8](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You need to select your location before you enter the game and not after it.
 
@@ -298,10 +310,6 @@ With GPS, you can track the live locations of your destination in seconds. In fa
 - ****Incorrect Settings:**** It's possible that GPS settings are not properly configured on your Apple iPhone X. Like, you may have accidentally turned off location services. While using your Apple iPhone X, turning on and off certain features is common.
 - ****Hardware Issue:**** If your phone is exposed to water or physical damage, this may affect GPS. There may be a hardware issue caused due to this situation. Thus, the GPS antenna or chip may have been damaged.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How To Fix Apple iPhone X GPS Not Working?
 
 Having an erroneous Apple iPhone X GPS is not a new thing. But it does bring many inconveniences for the users. After all, you are deprived of live location tracking and positioning. To fix such ****Apple iPhone X GPS not working**** issues, these ways are ideal solutions:
@@ -319,7 +327,7 @@ A majority of people forget to turn on GPS services on their respective Apple iP
 ![activate the location services](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2: Simple Restart Apple iPhone X
@@ -331,10 +339,6 @@ Restarting an Apple iPhone X is the ultimate way to rectify underlying problems.
 ![tap on shut down option](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-3.jpg)
 
 - ****Step 2:**** Wait for some time till your device gets powered off. After this, hold the “Power” button until the Apple logo appears to restart your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 3: Force Restart Apple iPhone X
 
@@ -358,10 +362,6 @@ A network connection error is also the reason for ****Apple iPhone X GPS not wor
 
 ![tap on reset network settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 5: Reset Location and Privacy Settings
 
 In most scenarios, your location is used on many apps that risk GPS optimal functioning. For this purpose, you need to reset the location to the default factory settings. Thinking about how to do it? Get along with these steps:
@@ -373,10 +373,6 @@ In most scenarios, your location is used on many apps that risk GPS optimal func
 - ****Step 2:**** Now press the "Transfer or Reset Apple iPhone X" option from General. From the next screen, choose the "Reset" option, and select "Reset Location & Privacy." After pressing "Reset Settings," your device location settings will reset to default.
 
 ![choose reset location and privacy](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 6: Use Wondershare Dr.Fone to Fix Apple iPhone X GPS Problems
 
@@ -418,6 +414,10 @@ Here choose "iOS Repair," and on the next screen, select the desired repair mode
 
 ![proceed with standard repair](https://images.wondershare.com/drfone/guide/ios-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 3: Repair the GPS Issue****
 
 After recovery mode is enabled, the platform will automatically detect the Apple iPhone X device and provide firmware accordingly. Press "Download" against the required firmware to start downloading it. Once the firmware is downloaded, click "Repair Now” to repair GPS not working issue on Apple iPhone X.
@@ -444,19 +444,18 @@ Apparently, this article provides step-by-step procedures to solve ****Apple iPh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-highest-rated-10-online-subtitle-tools/"><u>[New] Highest-Rated 10 Online Subtitle Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-your-listening-palette-with-youtube-music/"><u>[Updated] 2024 Approved Elevating Your Listening Palette with YouTube Music</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/osplextor-ssd/"><u>「OS向け最適化されたPlextor SSDコピーツール：高性能デバイスを完全に複製します」</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-binge-worthy-tv-streaming-options-available-in-2024/"><u>Best Binge-Worthy TV Streaming Options Available in 202^4</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-top-performing-netgear-routers-available/"><u>Discover the Top-Performing Netgear Routers Available</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-6-plusipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 6 Plus/iPad? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/efficiently-edit-your-youtube-videos-using-sony-vegas-for-2024/"><u>Efficiently Edit Your YouTube Videos Using Sony Vegas for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-repairing-the-unresponsive-at-symbol-keys/"><u>Expert Tips on Repairing the Unresponsive 'At Symbol' Keys</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y56-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y56 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 15 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-13-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 13 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-14-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 14 Pro Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/transforming-vids-10-leading-apps-for-instagram-video-editing/"><u>Transforming Vids 10 Leading Apps for Instagram Video Editing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-amplify-your-channels-evading-synthetic-watchers/"><u>[New] Amplify Your Channels Evading Synthetic Watchers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-saving-gameplay-moments-for-the-web/"><u>[Updated] 2024 Approved Saving Gameplay Moments for the Web</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 13 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/biz-youtubes-top-10-for-quick-channel-setup-for-2024/"><u>Best Biz YouTubes Top 10 for Quick Channel Setup for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/converting-memories-into-videos-the-power-of-pixiz-techniques-for-2024/"><u>Converting Memories Into Videos The Power of Pixiz Techniques for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/1723013940509-get-lost-in-thrilling-motorcycle-chaos-with-days-gone-now-drops-on-steam-and-epic-games-store/"><u>Get Lost in Thrilling Motorcycle Chaos with Days Gone – Now Drops on Steam and Epic Games Store!</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-verified-on-instagram/"><u>How to Get Verified on Instagram</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-s17-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo S17 Device</u></a></li>
 </ul></div>
 

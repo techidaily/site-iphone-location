@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix the Apple iPhone 8 Plus GPS not Working Issue | Dr.fone
-date: 2024-12-30T00:22:42.368Z
-updated: 2025-01-01T20:56:23.075Z
+date: 2025-01-12T06:19:24.954Z
+updated: 2025-01-15T14:41:45.276Z
 tags: 
   - virtual location chang
   - location changer
@@ -39,10 +39,6 @@ With GPS, you can track the live locations of your destination in seconds. In fa
 
 Having an erroneous Apple iPhone 8 Plus GPS is not a new thing. But it does bring many inconveniences for the users. After all, you are deprived of live location tracking and positioning. To fix such ****Apple iPhone 8 Plus GPS not working**** issues, these ways are ideal solutions:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 1: Make Sure GPS Service is Enabled on Apple iPhone 8 Plus
 
 A majority of people forget to turn on GPS services on their respective Apple iPhone 8 Pluss. Thus, most times, users don't know how to turn on GPS back. Henceforth, GPS not working issues become evident. To enable GPS service on Apple iPhone 8 Plus, follow these steps:  
@@ -75,10 +71,6 @@ Sometimes your Apple iPhone 8 Plus may get hung up due to an underlying issue. S
 
 ![force restart Apple iPhone 8 Plus](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 4: Reset Network Settings
 
 A network connection error is also the reason for ****Apple iPhone 8 Plus GPS not working****. This happens when your Apple iPhone 8 Plus isn't connected to a Wi-Fi network or facing problems in connection. For resetting the network settings, these steps are your trusted solution.
@@ -91,10 +83,6 @@ A network connection error is also the reason for ****Apple iPhone 8 Plus GPS no
 
 ![tap on reset network settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 5: Reset Location and Privacy Settings
 
 In most scenarios, your location is used on many apps that risk GPS optimal functioning. For this purpose, you need to reset the location to the default factory settings. Thinking about how to do it? Get along with these steps:
@@ -106,6 +94,10 @@ In most scenarios, your location is used on many apps that risk GPS optimal func
 - ****Step 2:**** Now press the "Transfer or Reset Apple iPhone 8 Plus" option from General. From the next screen, choose the "Reset" option, and select "Reset Location & Privacy." After pressing "Reset Settings," your device location settings will reset to default.
 
 ![choose reset location and privacy](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 6: Use Wondershare Dr.Fone to Fix Apple iPhone 8 Plus GPS Problems
 
@@ -153,6 +145,10 @@ After recovery mode is enabled, the platform will automatically detect the Apple
 
 ![click on repair now](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 GPS is an important feature to have in this modern world. After all, it keeps a person’s or object’s location active in live mapping technology. This way, tracking people in an emergency or finding destinations is easier. Meanwhile, the ****Apple iPhone 8 Plus GPS problem**** is a common issue in most devices. Thus, users have to face a lot of difficulties while navigating GPS locations.
@@ -179,22 +175,22 @@ Step 3. This will further list various fields and would give you an option to ed
 
 ![change home address Apple iPhone 8 Plus 3](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4. In case you haven’t added any address, then just tap on the “Add address” button. This will let you enter your address and locate it on the map. Later, you can label it as Home, Work, and so on.
 
 Step 5. Alternatively, if you want, you can also mark any location as your favorite on Apple Maps for a quick access. Just open Apple Maps and select any location of your choice.
 
 ![change home address Apple iPhone 8 Plus 5](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6. After selecting the location, swipe up to get more options related to the location and tap on the “Favorites” feature to save it.
 
 ![change home address Apple iPhone 8 Plus 6](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change Home Address in Apple iPhone 8 Plus Autofill?
@@ -226,10 +222,6 @@ Step 3. This will list out all the saved addresses on the screen like your home,
 Step 4. Now, all you got to do is tap on the search bar and enter your home address so that Google Maps would automatically load it. You can also tap on the “Choose on Map” field to find the home address easily on Google Maps.
 
 ![change home address Apple iPhone 8 Plus 9](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5. That’s it! You can now save the changes you have made and review them whenever you want. To make any changes to it, you can just tap on the three-dot icon adjacent to the Home button. This will let you edit your home address, remove it, and add directions.
 
@@ -288,6 +280,10 @@ Step 6: You can enter the city name and go ahead.
 
 ![date time settings 3](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Restart your Apple iPhone 8 Plus
 
 One of the most frequently used methods to troubleshoot certain iOS problems is to simply give a restart to your device. Doing this simply terminates all the running background processes and starts the phone freshly. This is what you need to do and see if Waze Apple iPhone 8 Plus no GPS issue gets resolved.
@@ -315,12 +311,20 @@ Step 3: Here, simply tap on “Reset Network Settings”. Confirm the actions an
 ![reset network settings](https://images.wondershare.com/drfone/2023/virtuallocation/reset-network-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To Reset Location & Privacy Settings, the steps are identical. Just tap on “Reset” followed by “Reset Location & Privacy Settings”.
 
 ![reset location privacy](https://images.wondershare.com/drfone/2023/virtuallocation/reset-location-privacy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: Re-install Waze and grant location permission in settings
 
@@ -340,11 +344,11 @@ Step 6: Head to “Location Services” and look for the app.
 
 ![grant permission](https://images.wondershare.com/drfone/2023/virtuallocation/grant-permission.jpg)
 
-Step 7: Toggle the switch on to give the location permission. You can choose between “While Using the App” and “Always”.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 7: Toggle the switch on to give the location permission. You can choose between “While Using the App” and “Always”.
 
 ## Part 7: Toggle on and off Wi-Fi and cellular data
 
@@ -360,10 +364,6 @@ Alternatively, you can head to the “Settings” and go to the “Wi-Fi” opti
 
 ![toggle wifi on off](https://images.wondershare.com/drfone/2023/virtuallocation/toggle-wifi-on-off.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 8: Update Apple iPhone 8 Plus to the latest version iOS
 
 It is an undeniable fact that Apple iPhone 8 Plus or any other device provides glitches when not updated. Therefore, as the last resort, we suggest you to check if your iOS is updated or not. Simply follow the steps below and check if Waze no GPS showing approximate location in Apple iPhone 8 Plus still exists.
@@ -377,7 +377,7 @@ Step 3: Please tap on that and you will be able to see if the update is present 
 ![update ios](https://images.wondershare.com/drfone/2023/virtuallocation/update-ios.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
@@ -410,19 +410,18 @@ We have introduced various ways to be followed when there is no GPS showing appr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-durecorder-complete-breakdown/"><u>[Updated] In 2024, Mastering DuRecorder Complete Breakdown</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-instantly-boost-youtube-performance-master-render-and-upload-for-2024/"><u>[Updated] Instantly Boost YouTube Performance - Master Render and Upload for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-creating-unique-youtube-music-mixtapes/"><u>2024 Approved Creating Unique YouTube Music Mixtapes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-resolution-alteration-in-iphone-photography/"><u>2024 Approved Navigating Resolution Alteration in iPhone Photography</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-6ipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 6/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 13 Pro Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/facile-conversion-de-fichiers-ts-en-webm-sur-internet-gratuit-avec-movavi/"><u>Facile Conversion De Fichiers Ts en Webm Sur Internet - Gratuit Avec Movavi</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 11/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pinnacle-vr-devices-the-essential-list/"><u>Pinnacle VR Devices The Essential List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-mini-computers-in-depth-analysis-and-reviews-techradar/"><u>Top-Rated Mini Computers : In-Depth Analysis & Reviews - TechRadar</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-boosting-reliability-verify-age-on-tiktok/"><u>[New] In 2024, Boosting Reliability Verify Age on TikTok</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-foremost-low-impact-screen-recorders-explored/"><u>[Updated] 2024 Approved Foremost Low-Impact Screen Recorders Explored</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-essential-tutorial-for-home-grown-animation-magic/"><u>[Updated] 2024 Approved The Essential Tutorial for Home-Grown Animation Magic</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-perfect-photo-safe-mix-zero-cost-cloud-with-elite-paid-options/"><u>[Updated] 2024 Approved The Perfect Photo Safe Mix Zero-Cost Cloud with Elite Paid Options</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-good-youtube-names-generators-plus-how-to-brainstorm-for-2024/"><u>[Updated] Good YouTube Names Generators [+ How to Brainstorm] for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-v29-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo V29 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-12-miniipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 12 mini/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-spark-10-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Spark 10 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-15-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 15 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-xr-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone XR GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-12-miniipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 12 mini/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Quick Steps to Change Weather Location on Apple iPhone 6s | Dr.fone
-date: 2025-01-07T17:44:58.991Z
-updated: 2025-01-09T17:02:28.256Z
+date: 2025-01-08T14:01:02.720Z
+updated: 2025-01-14T18:28:45.580Z
 tags: 
   - virtual location chang
   - location changer
@@ -28,37 +28,33 @@ In most basic explanation, the Weather app is a tool that helps you determine th
 
 Apart from its well-circulated weather updates, the Apple iPhone 6s’s Weather app has a lot more to offer. Check out the list provided below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Ten-Day Forecast
 
 ![ten day forecast](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-1.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Are you planning a particular activity in the coming days? If so, the Ten-Day Forecast feature of Apple iPhone 6s’s Weather app can surely help you in this regard. Basically, it provides estimated predictions on atmospheric conditions, precipitations, and temperature for the next ten days.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Severe Weather Alerts
 
 ![severe weather alert](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If an extreme weather disturbance is detected in your area, the Weather app will send you an alert straight away. It can be a weather advisory issued by the state meteorological bureau or a flash report from a credible source. That’s why you should ensure the location settings on your Apple iPhone 6s are well-calibrated. If not, take a moment to reconfigure it. There are lots of tutorials out there on how to change weather location on Apple iPhone 6s. One of them can certainly assist you.
 
 ### Maps
 
 ![weather map](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-3.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Apple iPhone 6s’s Weather app has a map feature that exclusively displays the weather conditions in a specific location. From there, you can view certain atmospheric information, including temperature, precipitation, air quality, and wind conditions. Just make sure that your location is set properly. If you want to replace it, just follow the guide on how to change the weather location on your Apple iPhone 6s.
 
@@ -81,6 +77,10 @@ Let’s say you just need to check the weather conditions in another location. C
 
 ![weather app menu](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Enter your preferred location into the search bar. Find and click it from the suggested results.
 
 ![search weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-6.jpg)
@@ -98,19 +98,11 @@ Do you have a Weather widget on your Apple iPhone 6s’s home screen? If so, you
 
 ![edit weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Click **Location.** From there, enter your desired location into the search bar and choose one from the suggested results.
 
 ![search weather location](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-9.jpg)
 
 - **Step 4:** The location will be then changed immediately on the widget. If the Edit Weather option is unavailable on your end, try to update your iOS first. The Weather app has just been released recently on Apple iPhone 6s. Therefore, Apple is making changes from time to time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Change weather location on Apple iPhone 6s with <u>Wondershare Dr.Fone.</u>
 
@@ -122,6 +114,10 @@ Is there any other way in case the first two techniques do not bring positive re
 - **Step 4:** Once the downloading process has concluded, Wondershare Dr.Fone - Virtual Location will immediately open on a separate window. From there, go to the top-right menu bar and then click **Teleport Mode.** It’s the first icon in the row.
 
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Enter your desired location into the search bar and choose one from the list of suggestions. Right after, click the **Enter** icon to proceed.
 
@@ -135,6 +131,10 @@ Is there any other way in case the first two techniques do not bring positive re
 
 **NOTE:** If you wish to restore the original location settings of your Apple iPhone 6s, simply disconnect it from the computer and restart it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Is the Weather App on Apple iPhone 6s Really Helpful?
 
 It’s fair to say that Weather is not a primary iOS application. You can continue with your usual routine even without it. However, we cannot deny the fact that it’s there for a reason. All we know for now is that the Weather app helps us stay updated with the latest meteorological forecast. But we don’t know what’s waiting ahead. Maybe the Weather app would soon become a paramount component of an upcoming iOS feature. Is it possible to happen in the future? We’re not sure yet. But one way or another, it’s best to keep Weather up and running on our Apple iPhone 6s.
@@ -142,10 +142,6 @@ It’s fair to say that Weather is not a primary iOS application. You can contin
 ![ipad weather widget](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-10.jpg)
 
 It doesn’t take much to follow the tutorials above on how to change weather location on Apple iPhone 6s. Most of them can instantly be conducted and finished with just the snap of a finger. That’s why you should regularly calibrate its location settings and make sure that it’s showing appropriate weather reports. Who knows? Keeping tabs on the atmospheric conditions around your local area can help you in a specific way you don’t actually expect. For instance, severe weather alerts are definitely capable of preventing you from running or driving toward a bad storm. Another thing is that the Weather’s Ten-Day Forecast feature can help you organize your weekly schedules accordingly. For sure, Weather has a lot more to offer. Thus, try to explore it once in a while and take advantage of the benefits.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -170,6 +166,10 @@ Before initiating this, it is to be noted that though **faking location on Apple
 - Also, you may have to face some consequences even if you delete the fake GPS app from the Apple iPhone 6s device, like malfunctioning in the original GPS.
 - More than this, legal repercussions can also come your way, and you may need to handle it for faking GPS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Fake iOS GPS location with a location simulator
 
 If you wish to spoof location on your Apple iPhone 6s and even show off the route between the two destinations, the best that can help you is [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With the help of this, you will not only just have a fake location on iOS (including iOS17), but can simulate the movement between two and multiple spots. We are going to show you how. Have a look below for the steps. Before moving, ensure to download this location spoofer for both iOS and Android and install it on your PC.
@@ -178,15 +178,15 @@ If you wish to spoof location on your Apple iPhone 6s and even show off the rout
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step-by-step guide on how to fake GPS location on both iOS and Android devices with Dr.Fone - Virtual Location**
 
 **Step 1:** Launch the iOS GPS spoof tool on your PC and go to the “Virtual Location” tab when you enter the main interface.
 
 ![main interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Now, connect your Apple iPhone 6s or Android phone to the computer and click on the “Get Started” option on the screen
 
@@ -195,7 +195,7 @@ If you wish to spoof location on your Apple iPhone 6s and even show off the rout
 ![click Center On](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4:** Choose the first one to activate the "teleport mode" from the five modes given at the upper right side of the screen. Then, type the name of the location in the field and tap “Go”.
@@ -328,10 +328,6 @@ You have to tap the ‘Safari Websites’ option to select from the expanded lis
 
 ![enable disable](https://images.wondershare.com/drfone/2023/virtuallocation/enable-disable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to prevent Safari from asking for your location on Apple iPhone 6s
 
 Why do Apple iPhone 6s users want to stop the Safari from asking the location?
@@ -396,6 +392,10 @@ The next map view shifts to the new location with a pop-up message ‘Move Here�
 
 ![virtual location 05](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Check the default location**
 
 Open the current location in your Apple iPhone 6s and verify it displays your favourite spot.
@@ -420,22 +420,16 @@ Thus, concealing the location details of your device protects you from unwanted 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-pro-screen-reader-best-video-grabbing-picks/"><u>[New] In 2024, Pro Screen Reader Best Video Grabbing Picks</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-v29-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from V29 Pro</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 15 Pro/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-6-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 6 Plus Smoothly</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-6ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 6/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone XS Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone XS Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-streamline-your-travel-narratives-top-ios-techniques-for-podcasting/"><u>In 2024, Streamline Your Travel Narratives Top iOS Techniques for Podcasting</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-ways-iphone-adapted-into-a-gaming-haven/"><u>Innovative Ways: IPhone Adapted Into a Gaming Haven</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-the-matrix-of-multiple-social-media-connections-on-xbox/"><u>Mastering the Matrix of Multiple Social Media Connections on Xbox</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/virtual-venue-face-off-assessing-obs-and-twitch-studios-for-2024/"><u>Virtual Venue Face-Off Assessing OBS & Twitch Studios for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/zoom-mastery-achieving-precision-in-google-meet-sessions/"><u>Zoom Mastery Achieving Precision in Google Meet Sessions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-nexus-of-playfulness-for-young-gamers/"><u>[New] In 2024, The Nexus of Playfulness for Young Gamers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-next-gen-audiovideo-1-players-guide-for-24-for-2024/"><u>[Updated] Next Gen Audio/Video #1 Players Guide for '24 for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-6ipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 6/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 13 Pro Max/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-6sipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 6s/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 11/iPad? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/os-attempting-to-locate-missing-drivers/"><u>OS Attempting to Locate Missing Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/stay-unplugged-avoiding-abrupt-updates-on-windows-11/"><u>Stay Unplugged: Avoiding Abrupt Updates on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-zte-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your ZTE Device</u></a></li>
 </ul></div>
 

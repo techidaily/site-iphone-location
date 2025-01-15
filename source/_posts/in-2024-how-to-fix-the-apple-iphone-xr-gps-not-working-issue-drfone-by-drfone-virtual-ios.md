@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix the Apple iPhone XR GPS not Working Issue | Dr.fone
-date: 2024-12-27T20:24:58.139Z
-updated: 2025-01-02T05:24:25.141Z
+date: 2025-01-10T12:55:37.642Z
+updated: 2025-01-14T19:47:17.040Z
 tags: 
   - virtual location chang
   - location changer
@@ -20,6 +20,10 @@ GPS (Global Positioning System) is an important utility in this modern age. Afte
 
 As a user with daily traveling, you want to avoid such issues. This article will make things easier because you will find ways and solutions to overcome this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Happens If Your Apple iPhone XR GPS Does Not Work on Apple iPhone XR?
 
 Apple iPhone XR is among the most popular gadget devices in current times. Meanwhile, its GPS function allows users to stay active on the real-time map technology. However, GPS not working on Apple iPhone XRs is a common problem. When this happens, you cannot track pinpoint locations.
@@ -34,10 +38,6 @@ With GPS, you can track the live locations of your destination in seconds. In fa
 - ****Airplane Mode:**** When airplane mode is enabled on your Apple iPhone XR, this may cause a GPS issue. You may have forgotten to turn off your airplane mode after air travel. Not to forget, turning off GPS is necessary during flight as per regulations.
 - ****Incorrect Settings:**** It's possible that GPS settings are not properly configured on your Apple iPhone XR. Like, you may have accidentally turned off location services. While using your Apple iPhone XR, turning on and off certain features is common.
 - ****Hardware Issue:**** If your phone is exposed to water or physical damage, this may affect GPS. There may be a hardware issue caused due to this situation. Thus, the GPS antenna or chip may have been damaged.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How To Fix Apple iPhone XR GPS Not Working?
 
@@ -63,6 +63,10 @@ Restarting an Apple iPhone XR is the ultimate way to rectify underlying problems
 
 ![tap on shut down option](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 2:**** Wait for some time till your device gets powered off. After this, hold the “Power” button until the Apple logo appears to restart your device.
 
 ### Way 3: Force Restart Apple iPhone XR
@@ -82,6 +86,10 @@ A network connection error is also the reason for ****Apple iPhone XR GPS not wo
 - ****Step 1:**** From your Apple iPhone XR, launch “Settings,” scroll down, and move into "General" from the settings menu.
 
 ![access the general settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - ****Step 2:**** Access the "Transfer or Reset Apple iPhone XR" options, tap the "Reset" option, and select "Reset Network Settings.” Now reset your Apple iPhone XR network settings to default by tapping "Reset Network Settings."
 
@@ -105,6 +113,10 @@ Fixing persistent GPS problems on iOS is now easier with [<u>Wondershare Dr.Fone
 
 So, if you have consistent problems with your Apple iPhone XR GPS system, this tool can rectify the iOS version. Moreover, you don't need special expertise or knowledge to use Wondershare Dr.Fone to fix your Apple iPhone XR. Meanwhile, you enter or exit DFU/Recovery mode with a single click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -116,10 +128,6 @@ So, if you have consistent problems with your Apple iPhone XR GPS system, this t
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -149,6 +157,10 @@ After recovery mode is enabled, the platform will automatically detect the Apple
 
 ![click on repair now](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 GPS is an important feature to have in this modern world. After all, it keeps a person’s or object’s location active in live mapping technology. This way, tracking people in an emergency or finding destinations is easier. Meanwhile, the ****Apple iPhone XR GPS problem**** is a common issue in most devices. Thus, users have to face a lot of difficulties while navigating GPS locations.
@@ -167,10 +179,6 @@ Not many of us are aware of Spoofing Dongles. These are very useful hardware pie
 
 iTeleporter Pro 2.0 is a similar dongle that was very efficient in spoofing an individual’s location. It is now combined with Double Location and both together created three Double Location masterpieces. Apart from the obvious spoofing benefits, these have other benefits too –
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1.1 Double Location BT 2.0
 
 You don’t have to keep your Apple iPhone XR’s charging port occupied anymore. You can connect this Dongle to your phone by Bluetooth wirelessly. It is easy to charge this dongle too. It comes with a decent USB plug that you can insert into your Personal computer, Laptop or Desktop for easy charging.
@@ -178,10 +186,6 @@ You don’t have to keep your Apple iPhone XR’s charging port occupied anymore
 ### 1.2 Double Location Mini 2.0
 
 This dongle provides 2 in 1 benefits. On one side, it has the USB plug that will help you connect the dongle to your PC or laptop. While on the other side, you have the lightning port. If you have access to a lightning cable, it is easy to charge the iPhone and iPad with this one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.3 Double Location Pro 2.0
 
@@ -194,7 +198,11 @@ Choosing Double Location Dongle will be a profit both because of its high functi
 ![double location dongle pic 2](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.1 iOS System-level location change
@@ -209,10 +217,6 @@ This dongle is completely safe and blocks any external interferences that try to
 
 Often, you might receive restrictions from the manufacturer during the GPS simulation. In that case, you have to consider jailbreak to get the job done. But Double Location doesn’t require jailbreak and smoothly gets your work done.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.4 No need of PC
 
 You don’t need a computer for the Dongle to work. It is easy to attach it to your Apple iPhone XR or iPad’s charging port and then launch it into action. You can carry it wherever you go.
@@ -221,15 +225,15 @@ You don’t need a computer for the Dongle to work. It is easy to attach it to y
 
 You can spoof your location on a wide range of apps like Google Maps, Find My iPhone, Zenly, Pokémon Go, Tinder, Snapchat, Instagram, and Facebook among more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part3. Why should you not choose Double Location Dongle?
 
 While you’ve already seen one side of the coin, it is time to see the other one. Yes, there are good benefits to Double Location but I have to mention the cons as well in this double location dongle review.
 
 ![double location dongle pic 3](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.1 Costly on Comparison
 
@@ -281,10 +285,6 @@ iSpoofer is system software that helps in hiding your locations in the games or 
 
 Dr. fone is similar software that spoofs your location. This is an economical purchase that lets you take the monthly, quarterly and annual plans. All of them cost less than $10!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -296,6 +296,10 @@ Dr. fone is similar software that spoofs your location. This is an economical pu
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How does it work?
 
@@ -382,14 +386,10 @@ In the above section, you have stopped tracking on Apple iPhone XR entirely whic
 
 ![make adjustments](https://images.wondershare.com/drfone/article/2019/09/disable-location-specific-apps.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The first option will never send your location to the apps. Second option will use your location only when you use the particular app. And as it suggests itself, by choosing the “Always” option will always track your location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Disable Significant Locations on Apple iPhone XR
@@ -450,18 +450,18 @@ We are concluding the topic here with a great hope that you now are well informe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-building-your-brand-with-a-sports-youtube-chain-on-macos/"><u>[New] 2024 Approved Building Your Brand with a Sports YouTube Chain on macOS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-snappy-and-simple-steps-for-posting-short-videos-online/"><u>[New] In 2024, Snappy and Simple Steps for Posting Short Videos Online</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-cost-effective-video-cameras/"><u>[New] The Ultimate Guide to Cost-Effective Video Cameras</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-making-sense-of-mukbangs-crafting-foodie-streams/"><u>[Updated] Making Sense of Mukbangs Crafting Foodie Streams</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-ultimate-guide-to-saving-youtube-tracks-and-dialogues/"><u>2024 Approved The Ultimate Guide to Saving YouTube Tracks & Dialogues</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-11-pro-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 11 Pro Waze | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-resolving-black-screen-dilemma-in-far-cry-6/"><u>Expert Advice on Resolving Black Screen Dilemma in Far Cry 6</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-13-pro-max-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 13 Pro Max and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-se-2020-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone SE (2020) GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 15 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nubia-red-magic-9-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nubia Red Magic 9 Pro Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-civi-3-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Civi 3 Phone Pattern Lock</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-stand-out-strong-tailoring-templates-for-video-gaming-logos/"><u>[New] In 2024, Stand Out Strong Tailoring Templates for Video Gaming Logos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-maximizing-efficiency-video-capturing-in-adobe-presenter/"><u>[New] Maximizing Efficiency Video Capturing in Adobe Presenter</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12-miniipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12 mini/iPad | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/cutting-edge-identifying-instagram-leavers/"><u>Cutting Edge Identifying Instagram Leavers</u></a></li>
+<li><a href="https://win-web3.techidaily.com/discover-official-bts-background-artwork-and-images-professional-stock-content-curated-by-yl-software-experts/"><u>Discover Official BTS Background Artwork & Images – Professional Stock Content Curated by YL Software Experts</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-12ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 12/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-11-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 11 GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-tecno-phantom-v-fold-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Tecno Phantom V Fold to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safe-and-smart-choosing-the-ideal-child-phone-features-ratings-and-picks-by-tech-experts/"><u>Safe and Smart: Choosing the Ideal Child Phone - Features, Ratings & Picks by Tech Experts</u></a></li>
 </ul></div>
 

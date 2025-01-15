@@ -1,7 +1,7 @@
 ---
 title: 4 Effective Methods Fake GPS Location on Apple iPhone 12 mini/iPad | Dr.fone
-date: 2025-01-04T18:30:41.974Z
-updated: 2025-01-09T20:03:51.969Z
+date: 2025-01-09T01:33:01.422Z
+updated: 2025-01-15T05:28:56.606Z
 tags: 
   - virtual location chang
   - location changer
@@ -32,10 +32,6 @@ Before initiating this, it is to be noted that though **faking location on Apple
 - Secondly, on the web, various harmful websites are blocked for your safety based on the geological location. So if you fake your current location, these websites or apps can get access to your browser or device, which is risky for you.
 - Also, you may have to face some consequences even if you delete the fake GPS app from the Apple iPhone 12 mini device, like malfunctioning in the original GPS.
 - More than this, legal repercussions can also come your way, and you may need to handle it for faking GPS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 1: Fake iOS GPS location with a location simulator
 
@@ -69,10 +65,6 @@ If you wish to spoof location on your Apple iPhone 12 mini and even show off the
 
 ![show the fake location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Simulate the Route Movement between two Places**
 
 **Step 1**: When you launch the tool and start the process, you need to hit the third icon at the upper right to select the “one-stop route”.
@@ -87,12 +79,16 @@ On the left panel, you can also enter the number of trips. This number will depi
 
 ![start marching](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** The **GPS spoofing Apple iPhone 12 mini** and simulation of movement will begin now. You can track the movement, and the position will be seen moving with the previously chosen speed.
 
 ![track the movement](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Spoof Apple iPhone 12 mini location with NordVPN
@@ -111,7 +107,7 @@ Jailbreaking could be an easy method but a lot of people avoid it. So, if you wi
 ![adjust the location](https://images.wondershare.com/drfone/article/2023/04/fake-gps-ios.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Fake iOS or Android GPS by using a computer program
@@ -161,6 +157,10 @@ We made you familiar with useful iOS location spoofers, including [Dr.Fone - Vir
 
 _Further reading: [What is HackRF and how to use a HackRF for GPS Spoofing?](https://drfone.wondershare.com/fake-location/gps-spoofing-with-hackrf-from-windows.html) _
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Fixes to 'No GPS - Showing Approximate Location' on Apple iPhone 12 mini Waze
 
 With all the hectic days and schedule that we all have, being on time seems to be so challenging. In such demanding situations, we all make sure that to save time and do whatever it takes. When it comes to driving and reaching somewhere on time, knowing about the roads, traffic situations etc matter a lot. And Waze app is such a blessing that can surely help us with these. Not to mention, the app uses GPS services of your device. You can afford any issue with such apps, right. Therefore, in this article, we are going to point out an issue that is “no GPS showing approximate location” in Apple iPhone 12 mini. If you are suffering with the same, please read the article to the end and get solutions.
@@ -199,6 +199,14 @@ Step 5: To change the time zones, hit on “Time Zone” in the date and time se
 Step 6: You can enter the city name and go ahead.
 
 ![date time settings 3](https://images.wondershare.com/drfone/2023/virtuallocation/date-time-settings-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Restart your Apple iPhone 12 mini
 
@@ -248,11 +256,11 @@ Step 6: Head to “Location Services” and look for the app.
 
 ![grant permission](https://images.wondershare.com/drfone/2023/virtuallocation/grant-permission.jpg)
 
-Step 7: Toggle the switch on to give the location permission. You can choose between “While Using the App” and “Always”.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 7: Toggle the switch on to give the location permission. You can choose between “While Using the App” and “Always”.
 
 ## Part 7: Toggle on and off Wi-Fi and cellular data
 
@@ -267,10 +275,6 @@ Step 3: Wait for a few seconds and turn it on again. Do the same with Cellular D
 Alternatively, you can head to the “Settings” and go to the “Wi-Fi” option to turn off and on. For cellular data, tap “Mobile Data” and turn off and on.
 
 ![toggle wifi on off](https://images.wondershare.com/drfone/2023/virtuallocation/toggle-wifi-on-off.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 8: Update Apple iPhone 12 mini to the latest version iOS
 
@@ -295,6 +299,10 @@ Step 3: Please tap on that and you will be able to see if the update is present 
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -339,6 +347,10 @@ Follow the steps given below to know how to change your home address in Google m
 
 ![enter new address](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change Your Home Address in Apple Maps on iPhone
 
 Unlike Google Maps, Apple Map doesn't allow you to change the home address directly in the app, nor does it automatically detect your new home location. To update your home address, you need to change it in your contact card saved on your Apple iPhone 12 mini.
@@ -349,21 +361,17 @@ Here’s how to update your home address in Apple Maps via contact card:
 
 ![favorite section apple maps](https://images.wondershare.com/drfone/article/2022/05/how-to-change-your-home-address-in-google-or-apple-map-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step2:** Tap on the “i” button available beside your home address.
 
 ![i icon apple maps](https://images.wondershare.com/drfone/article/2022/05/how-to-change-your-home-address-in-google-or-apple-map-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step3:** Here, you will find an option to open your Contact Card.
 
 ![choose contact card apple maps](https://images.wondershare.com/drfone/article/2022/05/how-to-change-your-home-address-in-google-or-apple-map-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step4:** Tap on the "Edit" option to add or remove your home address from the contact card.
 
@@ -391,10 +399,6 @@ Are you moving to a new country or a new region? Do you want to update your new 
 
 **Note:** Make sure that all your Apple ID subscriptions are used and finished because changing the Appl ID address might make them unusable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Changing My Card to Change Home Address on iPhone
 
 Alternatively, you can try to change “My Card” from your contact list to update your new address on your Apple iPhone 12 mini. First, you need to follow the simple steps given below to change your home address in Apple on iPhone via contact cards:
@@ -402,10 +406,6 @@ Alternatively, you can try to change “My Card” from your contact list to upd
 - **Step1:** Open the contacts in your Apple iPhone 12 mini and tap on “My Card” to edit your home address.
 
 ![go to contacts iphone](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![my card iphone](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-14.jpg)
 
@@ -482,18 +482,16 @@ Updating your home address on your Apple iPhone 12 mini can sometimes be tricky.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-telling-stories-vertically-video-editing-for-instagram-with-fcpx-for-2024/"><u>[Updated] Telling Stories Vertically Video Editing for Instagram with FCPX for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-transformative-tech-upgrading-phones-for-a-vr-experience/"><u>2024 Approved Transformative Tech Upgrading Phones for a VR Experience</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-15-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 15 Waze | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guard-your-digital-realm-avoid-the-google-bard-menace/"><u>Guard Your Digital Realm: Avoid the Google Bard Menace</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-samsung-galaxy-m34-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Samsung Galaxy M34.</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-7-plus-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 7 Plus and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-kitchen-tasks-with-chatgpt-7-essentials/"><u>Mastering Kitchen Tasks with ChatGPT - 7 Essentials</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/step-by-step-tutorial-for-effective-morphvox-audio-changes-for-2024/"><u>Step-by-Step Tutorial for Effective MorphVOX Audio Changes for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-next-level-of-gaming-sony-vr-headset-info-release-date-speculations-cost-predictions-technical-breakdown-and-hidden-rumors/"><u>The Next Level of Gaming: Sony VR Headset Info- Release Date Speculations, Cost Predictions, Technical Breakdown & Hidden Rumors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigate-with-ease-mastering-ifunnys-meme-app/"><u>[Updated] 2024 Approved Navigate with Ease Mastering iFunny's Meme App</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>[Updated] 2024 Approved The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-through-youtubes-minis-for-2024/"><u>[Updated] Navigating Through YouTube's Minis for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 8/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-11-proipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 11 Pro/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-clearing-the-air-understanding-digital-audio-workstations/"><u>Updated 2024 Approved Clearing the Air Understanding Digital Audio Workstations</u></a></li>
 </ul></div>
 
