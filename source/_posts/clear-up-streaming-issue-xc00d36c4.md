@@ -1,7 +1,7 @@
 ---
 title: Clear Up Streaming Issue - XC00D36C4
-date: 2025-01-11T05:19:47.202Z
-updated: 2025-01-15T11:06:49.200Z
+date: 2025-01-19T18:26:50.869Z
+updated: 2025-01-21T17:36:15.943Z
 categories:
   - repair-tools
 description: This Article Describes Clear Up Streaming Issue - XC00D36C4
@@ -53,19 +53,11 @@ Table of Content
 * System drivers are outdated
 * Windows Media Player has a copy-protected feature enabled (in case of DVD/CD videos)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How to fix error 0xc00d36c4 in videos** **?**
 
  The error usually occurs due to an incompatible file format or codec. Thus, workarounds involve either converting the video file format or installing the supporting codec. In case, the video doesn’t play even after converting the video or installing the codec, troubleshoot the system drivers.
 
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **8 Methods to fix Video error 0xc00d36c4**
 
@@ -78,6 +70,10 @@ Table of Content
  7\. Repair with a Stellar Repair for Video software  
  8\. Try AVI repair in VLC Media Player to fix error 0xc00d36c4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 1: Play video in another media player**
 
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
@@ -85,7 +81,7 @@ Table of Content
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 2: Download the missing codecs**
@@ -128,7 +124,7 @@ Table of Content
 * Next, click**Start.** Your converted video file will be saved at the specified location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 4: Disable Copy Protection in Windows Media Player**
@@ -156,6 +152,10 @@ Table of Content
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 5: Remove and reinstall all USB controllers**
 
  ‘This file isn’t playable 0xc00d36c4 error’ can also be due to system conflict between the connected external media (SD card, USB pen drive, etc.) and your computer.
@@ -179,6 +179,10 @@ Table of Content
 * Next, restart the computer. The USB controllers will be reinstalled.
 
  Now, connect your USB device to a computer, and check if the video 0xc00d36c4 error is fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 6: Update the Display Adapter Driver**
 
@@ -253,10 +257,6 @@ Now, check if the video error is resolved.
 
 **For any query reach us through comments in the box below.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Was this article helpful?
 
 YES 0
@@ -284,21 +284,17 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-web.techidaily.com/1-steps-to-turn-off-auto-updating-on-your-windows-pc-tips-by-yl-software/"><u>1. Steps to Turn Off Auto-Updating on Your Windows PC - Tips by YL Software</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-budding-filmmakers-companion-understanding-display-quality-101/"><u>2024 Approved The Budding Filmmaker’s Companion Understanding Display Quality 101</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 15/iPad | Dr.fone</u></a></li>
-<li><a href="https://discover-data.techidaily.com/dial-into-fun-subscribe-for-ultimate-party-mix-newest-karaoke-tracks-volumes-1-18-to-24-curated-by-pcdj-experts/"><u>Dial Into Fun: Subscribe for Ultimate Party Mix | Newest Karaoke Tracks, Volumes 1-18 to 24, Curated by PCDJ Experts</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone XS Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-se-2020ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone SE (2020)/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 7/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-14-pro-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 14 Pro Waze | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-7-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 7 and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-app-changes-in-the-latest-windows-11-update/"><u>Navigating App Changes in the Latest Windows 11 Update</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-6-services-for-live-video-localization/"><u>Premium 6 Services for Live Video Localization</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-realme-c55-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Realme C55 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-xcover-7-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy XCover 7 FRP</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/tracing-your-instagram-fanbase-shifts-for-2024/"><u>Tracing Your Instagram Fanbase Shifts for 2024</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/1728504048876-windows-pc/"><u>Windows PC でパスワードを利用したバックアップの暗号化手順</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-digital-personas-made-simple-a-guide-for-the-curious-vr-explorer/"><u>[New] 2024 Approved Digital Personas Made Simple A Guide for the Curious VR Explorer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-navigate-the-world-of-tags-for-superior-content-performance/"><u>[Updated] 2024 Approved Navigate the World of Tags for Superior Content Performance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ultimate-techniques-streaming-hulu-on-win-mac-and-mobile/"><u>[Updated] In 2024, Ultimate Techniques Streaming Hulu on Win, Mac, and Mobile</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-100-killer-facebook-bios-to-make-profile-attractive2/"><u>2024 Approved 100 Killer Facebook Bios to Make Profile Attractive2</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capturing-your-mi-11-screens-step-by-step/"><u>2024 Approved Capturing Your Mi 11 Screens - Step by Step</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12/iPad | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-epson-tm-t88v-printer-driver-updates-and-downloads-for-windows-systems/"><u>Latest EPSON TM-T88V Printer Driver Updates & Downloads for Windows Systems</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226691480-jpeg-movavi/"><u>お使いのパソコンで即座にJPEGへ変更可能な無料オンライン画像変換 - Movavi</u></a></li>
 </ul></div>
 

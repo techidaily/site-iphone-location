@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone XS Max | Dr.fone
-date: 2025-01-10T21:59:37.504Z
-updated: 2025-01-15T10:40:47.256Z
+date: 2025-01-17T18:56:59.638Z
+updated: 2025-01-21T16:40:55.702Z
 tags: 
   - virtual location chang
   - location changer
@@ -52,6 +52,10 @@ You have to tap the ‘Safari Websites’ option to select from the expanded lis
 
 ![enable disable](https://images.wondershare.com/drfone/2023/virtuallocation/enable-disable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to prevent Safari from asking for your location on Apple iPhone XS Max
 
 Why do Apple iPhone XS Max users want to stop the Safari from asking the location?
@@ -66,10 +70,6 @@ In your Apple iPhone XS Max, tap ‘Settings’ then select the ‘Privacy’ op
 
 ![iphone settings](https://images.wondershare.com/drfone/2023/virtuallocation/iphone-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Modify the options in Location Services
 
 In the ‘Privacy’ window, choose ‘Location Services’ and tap ‘Safari Websites’ from the displayed list.
@@ -81,6 +81,10 @@ Step 3: Stop the location services
 In the pop-up screen, tick the ‘Never’ option to completely stop the ‘Location Services’ for Safari. This modification will prevent Safari from requesting to share the location details of the Apple iPhone XS Max device.
 
 ![stop location services](https://images.wondershare.com/drfone/2023/virtuallocation/stop-location-services.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to change Safari location on Apple iPhone XS Max
 
@@ -101,10 +105,6 @@ Change the location details of your Apple iPhone XS Max using the incredible sof
 In the home page of this program, select the ‘Virtual Location’ option. In the next screen, tap the ‘Get Started’ button to trigger the procedure.
 
 ![virtual location 01](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Quick look at the map view**
 
@@ -133,6 +133,10 @@ Open the current location in your Apple iPhone XS Max and verify it displays you
 ## Conclusion
 
 Thus, concealing the location details of your device protects you from unwanted cyber issues. Instead of turning on and off the iOS Safari location services, you can straightaway modify it into a fake zone. This approach would greatly help when you install any apps or enter into websites at this online platform. You can make use of the cyberspace efficiently if you make such modification in your Apple iPhone XS Max. Choose [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to make desired changes in your default location of your Apple iPhone XS Max.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Methods to Protect Yourself from Location Tracking on Apple iPhone XS Max
 
@@ -195,10 +199,6 @@ If the above method didn’t suit you, this is how you can turn off tracking on 
 
 ![disable location](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Now, go for the “Location Services” and tap on it.
 
 ![Location Services](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-2.jpg)
@@ -218,6 +218,10 @@ In the above section, you have stopped tracking on Apple iPhone XS Max entirely 
 **Step 3:** Select the apps and make adjustments according to your preferences. You can choose among “Never”, “While Using the App” and “Always”.
 
 ![make adjustments](https://images.wondershare.com/drfone/article/2019/09/disable-location-specific-apps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The first option will never send your location to the apps. Second option will use your location only when you use the particular app. And as it suggests itself, by choosing the “Always” option will always track your location.
 
@@ -249,10 +253,6 @@ The feature “Share My Locations” enables you to share your locations with yo
 
 ![turn off Share My Location](https://images.wondershare.com/drfone/article/2019/09/disable-share-my-location.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 6: Disable location-based notifications or alerts
 
 iPhone provides three kinds of location based services. These include the services regarding alerts, Apple ads and suggestions. If this feature is turned on, you may get the notifications, suggestions or iAds according to what is best for your location. If this bothers you and you don’t want this to happen, you can turn it off by following steps below. This is how to turn off tracking on Apple iPhone XS Max in terms of location-based alerts and notifications:
@@ -264,6 +264,10 @@ iPhone provides three kinds of location based services. These include the servic
 **Step 3:** Subsequently, you can disable the location based services or alerts as you want.
 
 ![disable the location services or alerts](https://images.wondershare.com/drfone/article/2019/09/disable-location-based-alerts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -278,6 +282,10 @@ You can use dual maps apps on an iPhone, i.e., Google Maps and Apple Maps. Both 
 **You can watch the video below to change your location on Google/Apple Map**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/uYgmr4GROsw"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Change Your Home Address in Google Maps on iPhone
 
@@ -299,10 +307,6 @@ Follow the steps given below to know how to change your home address in Google m
 
 ![tap three dots](https://images.wondershare.com/drfone/article/2022/05/how-to-change-your-home-address-in-google-or-apple-map-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step6:** When you click on these three dots, you will find different options. For example, select “Edit home”.
 
 ![tap edit home google maps](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-4.jpg)
@@ -311,6 +315,10 @@ Follow the steps given below to know how to change your home address in Google m
 - **Step8:** Click on the “Save” option available at the bottom of the screen to save your new address.
 
 ![enter new address](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change Your Home Address in Apple Maps on iPhone
 
@@ -321,10 +329,6 @@ Here’s how to update your home address in Apple Maps via contact card:
 - **Step1:** Open the “Favorites” section in Apple maps and swipe it up.
 
 ![favorite section apple maps](https://images.wondershare.com/drfone/article/2022/05/how-to-change-your-home-address-in-google-or-apple-map-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step2:** Tap on the “i” button available beside your home address.
 
@@ -341,10 +345,6 @@ Here’s how to update your home address in Apple Maps via contact card:
 - **Step5:** Click on the “Done” button when you are done with the modification.
 
 ![tap done](https://images.wondershare.com/drfone/article/2022/05/how-to-change-your-home-address-in-google-or-apple-map-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Change iPhone Home Location by Modifying Apple ID Address
 
@@ -372,10 +372,6 @@ Alternatively, you can try to change “My Card” from your contact list to upd
 
 ![go to contacts iphone](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![my card iphone](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-14.jpg)
 
 - **Step2:** You will find the “Edit” option at the top-right corner of the screen. Tap on it.
@@ -386,16 +382,16 @@ Alternatively, you can try to change “My Card” from your contact list to upd
 
 ![add address my card iphone](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step4:** Click on the “Done” tab after modifying the address.
 
 ![tap done my card iphone](https://images.wondershare.com/drfone/article/2022/06/how-to-change-your-home-address-in-google-or-apple-map-17.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Spoof Location on iPhone to Change Home Address
@@ -433,6 +429,10 @@ Here, we have mentioned some easy steps of location spoofing using Dr.Fone:
 
 ![enter location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** The system will now show the entered location, and a pop-up will appear for the confirmation. Click on "Move Here".
 
 ![fake the location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -459,17 +459,20 @@ Updating your home address on your Apple iPhone XS Max can sometimes be tricky. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-top-8-multiparty-android-conferencing-apps/"><u>[Updated] 2024 Approved The Top 8 Multiparty Android Conferencing Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-examining-youtubes-copyright-stance-versus-cc-approach-for-2024/"><u>[Updated] Examining Youtube's Copyright Stance Versus CC Approach for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exclusive-lineup-all-angle-recorders/"><u>[Updated] In 2024, Exclusive Lineup All-Angle Recorders</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-leading-stock-tutorials-channel-roundup/"><u>[Updated] In 2024, Leading Stock Tutorials Channel Roundup</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-smartscreen-capture-v11-professional/"><u>[Updated] SmartScreen Capture V11 Professional</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-shaky-to-steady-selecting-the-best-gimbals-for-your-drones/"><u>2024 Approved From Shaky to Steady Selecting the Best Gimbals for Your Drones</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-15-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 15 Pro Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/te-storytelling-free-soundtrack-options-available-in-2024/"><u>Elevate Storytelling - Free Soundtrack Options Available, In 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-x-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone X and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-14-pro-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 14 Pro and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-quick-steps-for-effective-double-take-filming-for-2024/"><u>[New] Essential Quick Steps for Effective Double Take Filming for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-creating-a-backup-securing-your-fb-messenger-records/"><u>[Updated] Creating a Backup Securing Your FB Messenger Records</u></a></li>
+<li><a href="https://some-tips.techidaily.com/brighten-your-night-with-the-new-super-bright-govee-outdoor-lighting-install-now-for-an-eco-friendly-yard-makeover/"><u>Brighten Your Night with the New Super-Bright Govee Outdoor Lighting: Install Now for an Eco-Friendly Yard Makeover!</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/comparing-veeam-and-zerto-identifying-key-distinctions-in-backup-and-disaster-recovery-solutions/"><u>Comparing Veeam and Zerto: Identifying Key Distinctions in Backup & Disaster Recovery Solutions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/complete-removal-guide-how-to-fully-uninstall-quicktime-from-your-windows-pc-xp-vista-and-win-10/"><u>Complete Removal Guide: How To Fully Uninstall QuickTime From Your Windows PC (XP, Vista & Win 10)</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-12-proipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 12 Pro/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-11-proipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 11 Pro/iPad? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/hack-free-xbox-one-gaming-without-dedicated-devices/"><u>Hack-Free Xbox One Gaming Without Dedicated Devices</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-se-2022-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone SE (2022) GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-5-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 5 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-se-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone SE Waze | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 7/iPad | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-navigating-to-system-settings-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Navigating to System Settings via Control Panel - Tips From YL Computing</u></a></li>
 </ul></div>
 

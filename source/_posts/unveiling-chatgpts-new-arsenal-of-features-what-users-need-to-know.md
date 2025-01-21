@@ -1,7 +1,7 @@
 ---
 title: "Unveiling ChatGPT's New Arsenal of Features: What Users Need to Know"
-date: 2025-01-13T06:17:50.286Z
-updated: 2025-01-15T07:33:04.151Z
+date: 2025-01-20T16:49:32.059Z
+updated: 2025-01-21T16:14:47.077Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 ## Discover the Full Potential of ChatGPT by Enabling Its Newly Launched Beta Features - Here’s How
 
  OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus users.After months of speculation regarding the internet-connected Plugins, OpenAI has pushed its Plugins live, allowing Plus users to choose whether to turn them on or not using a new Beta feature.Connecting ChatGPT to the internet has been a long-standing request for millions of ChatGPT users, and now, the moment is here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
@@ -49,12 +53,16 @@ That's not all, though.
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -65,16 +73,12 @@ Close
 
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable ChatGPT Plugins and Web Browsing
@@ -84,7 +88,7 @@ Close
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to your**Settings** in the bottom left-hand corner of the ChatGPT screen
@@ -95,10 +99,6 @@ Close
  After enabling both settings, you'll find new options from the ChatGPT model switcher (where you'd normally switch between GPT-3.5 and GPT-4). You'll now find an option for Web Browsing and one for Plugins.
 
  From here, you can select either Web Browsing to enable web-connected search or select**Plugin Store** to begin installing and enabling Plugins.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Finally Connected to the Internet
 
@@ -123,21 +123,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-beat-breakers-crafting-compelling-video-music-scores-for-2024/"><u>[New] Beat Breakers Crafting Compelling Video Music Scores for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-syncopating-scenes-and-beats-the-tiktok-video-guide/"><u>[New] Syncopating Scenes & Beats The TikTok Video Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-transforming-photos-and-videos-from-instagram-to-iphones/"><u>[Updated] 2024 Approved Transforming Photos and Videos From Instagram to iPhones</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-15-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 15 Pro Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 7/iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-email-safety-with-two-factor-auth-a-simple-guide-to-securing-your-gmail-account/"><u>Boost Email Safety with Two-Factor Auth: A Simple Guide to Securing Your Gmail Account</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-xripad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone XR/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-6s-plus-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 6s Plus and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-13t-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi 13T to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X100 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-xsipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone XS/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-11-pro-max-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 11 Pro Max GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-g24-power-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola G24 Power Phone without Any Data Loss</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-motorola-edgeplus-2023-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Motorola Edge+ (2023) Phones</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-pc-launch-issues-in-world-of-warcraft-a-step-by-step-solution/"><u>Overcoming PC Launch Issues in World of Warcraft: A Step-by-Step Solution</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-13-proipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 13 Pro/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-audience-market-leaders-in-youtubes-short-clips-downloads/"><u>[Updated] 2024 Approved Audience’ Market Leaders in YouTube's Short Clips Downloads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-canvas-and-chroma-mastering-color-interaction/"><u>[Updated] Canvas and Chroma Mastering Color Interaction</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-the-file-explorer-performance/"><u>Boosting the File Explorer Performance</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-7-plusipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 7 Plus/iPad? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-quirked-folder-names-on-apple-computers/"><u>Fixing Quirked Folder Names on Apple Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guide-simple-comment-convertir-vos-chansons-mod-au-format-mp3-sans-frais-facilement-via-movavi/"><u>Guide Simple : Comment Convertir Vos Chansons MOD Au Format MP3 Sans Frais, Facilement via Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722981848864-hyperscape-pc-stability-issues-solutions-found/"><u>HyperScape PC Stability Issues - Solutions Found</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-13-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 13 Waze | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-13-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 13 and Android without others knowing | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Smart and Simple Ways to Change Home Address on Apple iPhone 11 | Dr.fone
-date: 2025-01-14T14:03:25.697Z
-updated: 2025-01-15T14:21:37.791Z
+date: 2025-01-20T18:59:52.444Z
+updated: 2025-01-21T16:19:24.314Z
 tags: 
   - virtual location chang
   - location changer
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 Have you recently been relocated to somewhere else or are tired of entering your Home address on Maps every day? Well, to save your time, why not add or change your home address on Apple iPhone 11. In this way, you can easily start your commute and share your address with others on the go. The good thing is that the provision to change home address in Apple iPhone 11 is available for both Apple and Google Maps. Let’s get started and learn how to change home address on Apple iPhone 11 like a pro!
 
 ![change home address Apple iPhone 11 1](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Change Home Address in Apple Maps on Apple iPhone 11
 
@@ -40,13 +44,13 @@ Step 5. Alternatively, if you want, you can also mark any location as your favor
 
 ![change home address Apple iPhone 11 5](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6. After selecting the location, swipe up to get more options related to the location and tap on the “Favorites” feature to save it.
 
 ![change home address Apple iPhone 11 6](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change Home Address in Apple iPhone 11 Autofill?
 
@@ -62,6 +66,10 @@ Step 4. Now, tap on the “My Info” option to view your details like name, ema
 
 ![change home address Apple iPhone 11 7](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Change Home Address in Google Maps on Apple iPhone 11?
 
 While Apple Maps is the native navigation application in Apple iPhone 11, a lot of people also prefer using Google Maps. Already used by over a billion people worldwide, Google Maps is the most popular and reliable navigation app in the world that runs on Android and Apple iPhone 11 alike. Though, unlike Apple Maps, Google Maps lets us save our home, work, or any other addresses in the app itself. In this way, you can easily share your address with others and select your home address for commuting. To learn how to change home address on Apple iPhone 11’s Google Maps app, just follow these steps:
@@ -73,7 +81,7 @@ Step 2. Once Google Maps is launched, tap on the hamburger icon at the top-left 
 ![change home address Apple iPhone 11 8](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3. This will list out all the saved addresses on the screen like your home, work, etc. To add or change your home address, you can just tap on the “Home” field here.
@@ -88,6 +96,10 @@ Step 5. That’s it! You can now save the changes you have made and review them 
 
 That’s a wrap, everyone! I’m sure that after reading this guide you would be able to change home address on Apple iPhone 11 like a pro. To make things easier for you, I have come up with a step-by-step tutorial on how to change home address on Apple iPhone 11 via Apple Maps as well as Google Maps. Furthermore, I have also listed a smart solution to change your address in Safari’s autofill to save your time. Well, this is what I did when I wanted to know how do I change my home address on Apple iPhone 11 a while back. You can follow this drill and share this guide with others to teach them the same.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -99,6 +111,10 @@ That’s a wrap, everyone! I’m sure that after reading this guide you would be
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable, Disable, and Change Safari Location on Apple iPhone 11
 
@@ -126,10 +142,6 @@ Go to the ‘Settings’ in the home screen of your Apple iPhone 11 and proceed 
 
 ![iphone settings](https://images.wondershare.com/drfone/2023/virtuallocation/iphone-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Choose Safari to modify the settings
 
 In the ‘Privacy’ window, you have to select ‘Location Services’ option and tap ‘Safari Websites’ from the list
@@ -141,10 +153,6 @@ Step 3: Alter the Safari location services
 You have to tap the ‘Safari Websites’ option to select from the expanded list. If you want to enable/disable the location services in Safari websites then you have to choose ‘While using’ option. This feature enables location service of the Safari websites when it is active and the location service becomes inactive if the Safari is not in use.
 
 ![enable disable](https://images.wondershare.com/drfone/2023/virtuallocation/enable-disable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to prevent Safari from asking for your location on Apple iPhone 11
 
@@ -166,19 +174,11 @@ In the ‘Privacy’ window, choose ‘Location Services’ and tap ‘Safari We
 
 ![privacy location services](https://images.wondershare.com/drfone/2023/virtuallocation/privacy-location-services.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Stop the location services
 
 In the pop-up screen, tick the ‘Never’ option to completely stop the ‘Location Services’ for Safari. This modification will prevent Safari from requesting to share the location details of the Apple iPhone 11 device.
 
 ![stop location services](https://images.wondershare.com/drfone/2023/virtuallocation/stop-location-services.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to change Safari location on Apple iPhone 11
 
@@ -211,6 +211,10 @@ The next window displays the current virtual location details of the Apple iPhon
 Select the ‘Teleport mode’ in the map view. You can find this icon at the top right of the screen. Choose the first image from the horizontal list of symbols. Then enter your favourite spot worldwide in the text box near the ‘Go’ button. It is high time to press the ‘Go’ button and fix your admirable spots as your default device location.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Authenticate the changes**
 
@@ -246,10 +250,6 @@ From the exact coordinates of places to their routes, a GPX file would contain t
 
 Let’s suppose you have devised a route between two points that you would need later on. You can now export the GPX file from the application and even import it to the same or another application. When you use the GPX viewer, it will let you access the route offline without an active internet connection. That’s why GPX files are used to view a route offline while hiking, trekking, cycling, and do other offline activities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to View GPX Files Online in Google Maps?
 
 The good thing is that there are tons of options to view GPX online on desktop, Android, or iOS platforms. Some of these freely available solutions to view GPX on Map are Google Earth, Google Maps, Bing Maps, Garmin BaseCamp, GPX Viewer, and so on.
@@ -262,13 +262,13 @@ To view GPX on the map, you can first head to the official website of Google Map
 
 ![Google Maps More Option](https://images.wondershare.com/drfone/article/2021/04/view-gpx-files-online-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This will display various options related to your Google Maps account. From here, you can just click on the “Your Places” feature.
 
 ![Google Maps Your Places](https://images.wondershare.com/drfone/article/2021/04/view-gpx-files-online-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Choose to Create a New Map**
 
@@ -303,7 +303,7 @@ The application would automatically detect your Apple iPhone 11 on the interface
 ![one stop mode](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can now drop the pin in a route on the map and click on the “Move Here” Button to start simulating the movement.
@@ -315,7 +315,7 @@ Subsequently, you can select the number of times you want to cover the route and
 ![select the speed](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Export or Import the GPX Files**
@@ -348,16 +348,20 @@ As you can see, it is pretty easy to view GPX online or offline using the right 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-films-best-shot-techniques-top-5-essentials/"><u>[New] 2024 Approved Film's Best Shot Techniques Top 5 Essentials</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-finding-the-right-angle-for-your-fb-videos-for-2024/"><u>[New] Finding the Right Angle for Your FB Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/finding-zen-in-windows-sleep-mode/"><u>Finding Zen in Windows Sleep Mode</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-your-gain-steam-points-strategies/"><u>Maximizing Your Gain: Steam Points Strategies</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-troubleshooting-for-fixing-the-d3dx933dll-not-found-problem/"><u>Step-by-Step Troubleshooting for Fixing the d3dx9_33.dll Not Found Problem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-choice-for-gamers-the-premier-speakers-testing-and-rankings/"><u>Ultimate Choice for Gamers : The Premier Speakers Testing & Rankings</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-redmi-13c-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Redmi 13C 5G</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-efficient-transfer-techniques-for-iphone-images-on-snapchat/"><u>[New] 2024 Approved Efficient Transfer Techniques for iPhone Images on Snapchat</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-dive-into-multi-tasking-mastery-with-chromes-pip-feature/"><u>[New] Dive Into Multi-Tasking Mastery with Chrome's PIP Feature</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-experience-unparalleled-text-design-with-top-5-downloadable-platforms-for-2024/"><u>[New] Experience Unparalleled Text Design with Top 5 Downloadable Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-most-viewed-vids-worldwide-roundup/"><u>[Updated] 2024 Approved Most Viewed Vids Worldwide Roundup</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-become-a-profitable-channel-with-ytp2024-mastery/"><u>[Updated] Become a Profitable Channel with YTP2024 Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-vidlens-app-quality-analysis/"><u>[Updated] VidLens App Quality Analysis</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-7-plusipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 7 Plus/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-se-2020-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone SE (2020) and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-14-proipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 14 Pro/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-13-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 13 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/what-are-luts-and-how-they-change-your-photo-for-2024/"><u>What Are LUTs and How They Change Your Photo for 2024</u></a></li>
 </ul></div>
 

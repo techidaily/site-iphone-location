@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Top-Rated, Cost-Effective Fellowes Microban Wired Keyboard: A Detailed Assessment"
-date: 2025-01-11T01:10:41.800Z
-updated: 2025-01-14T20:04:46.828Z
+date: 2025-01-17T16:26:10.991Z
+updated: 2025-01-21T17:14:15.651Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Top-Rated, Cost-Effective Fellowes Microban Wired Keyboard: A Detailed Assessment"
@@ -13,13 +13,13 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WDbYK32TR0KZYkaW6A8K51jQSpU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -49,6 +49,10 @@ Lifewire / Emily Isaacs
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
 [View On Amazon $78](https://www.amazon.com/Fellowes-Microban-Split-Design-Keyboard/dp/B0002CE0XO?tag=lifewire-onsite-prod-20&ascsubtag=4780294%7Cn668ce44e90054ecb91b1dbd3aca2275805%7CB0002CE0XO) [View On Walmart $78](https://www.walmart.com/ip/Fellowes-FEL98915-Split-Design-Ergonomic-Keyboard-with-Microban-1-Black/10363789) [View On Staples](https://www.staples.com/Fellowes-98915-Microban-Split-Design-Corded-Keyboard/product%5F806284)
@@ -70,15 +74,15 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Cleaner than the rest**
 
  Ergonomic keyboards are designed to encourage natural, neutral movements that put less strain on wrists and shoulders,[preventing repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) over time. This is especially important for people who spend large portions of their day in a home or office setting tethered to their computer.
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WPjeQmKmzof_KVFE5_fIwN92cXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_05-24f7f07146ae45cd86d2c5bdd4791ee5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -96,10 +100,6 @@ Lifewire / Emily Isaacs
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Emily Isaacs
 
 ## **Features: Multimedia hotkeys for ease of use**
@@ -112,13 +112,13 @@ Lifewire / Emily Isaacs
 
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: A budget-friendly ergonomic keyboard**
 
  Ergonomic keyboards tend to retail anywhere from $50-$200\. The Fellowes Microban Split Wired Keyboard tends to retail for around $50, which puts this well at the budget end. Its low price point makes it a great introductory ergonomic keyboard, particularly if you’re unsure of what you want and are experimenting with different design choices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fellowes Microban Split Design Wired Keyboard vs. Microsoft Sculpt Ergonomic Keyboard**
 
@@ -145,7 +145,7 @@ Lifewire / Emily Isaacs
  The Fellowes Microban Split Design Wired Keyboard is a good, albeit bulky, ergonomic keyboard designed to last. Its antimicrobial protection not only keeps germs, fungi, and bacteria at bay, but ensures the keyboard won’t deteriorate over time. While it may not be our first pick for home use, it’s a great choice if you’re on a budget or are an office working facing down cold and flu season.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -175,19 +175,19 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-10-essentials-for-flawless-instagram-unboxing-content/"><u>[Updated] 10 Essentials for Flawless Instagram Unboxing Content</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-navigating-the-world-of-podcast-rss-formatting/"><u>[Updated] Navigating the World of Podcast RSS Formatting</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-boost-your-revenue-yielding-earnings-from-youtube-at-500-followers/"><u>2024 Approved Boost Your Revenue Yielding Earnings From YouTube at 500 Followers</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-13-miniipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 13 mini/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 8/iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone XS/iPad? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-13-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 13 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-get-a-new-look-free-online-face-generators-for-everyone-for-2024/"><u>New Get a New Look Free Online Face Generators for Everyone for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-non-experts-guide-to-ai/"><u>The Non-Expert's Guide to AI</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-fast-forward-on-snapchat-a-starters-manual/"><u>[New] Mastering Fast-Forward on Snapchat A Starter's Manual</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-enhancing-narratives-with-temporal-and-spatial-shifts/"><u>[Updated] In 2024, Enhancing Narratives with Temporal & Spatial Shifts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-quick-guide-eradicating-unwanted-youtube-downloads-on-pcmac-for-2024/"><u>[Updated] Quick Guide Eradicating Unwanted YouTube Downloads on PC/Mac for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-what-are-the-laws-around-youtube-video-capture/"><u>[Updated] What Are the Laws Around YouTube Video Capture?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-nokia-c02-frp-bypass-by-drfone-android/"><u>About Nokia C02 FRP Bypass</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-14-proipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 14 Pro/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-13ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 13/iPad? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-and-simple-18-vlogging-projects/"><u>In 2024, Innovative & Simple 18 Vlogging Projects</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-complete-handbook-for-saving-movies-on-desktop-laptop-and-android/"><u>The Complete Handbook for Saving Movies on Desktop, Laptop & Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-the-full-potential-top-6-music-video-watching-apps-on-android/"><u>Unleash the Full Potential - Top 6 Music Video Watching Apps on Android</u></a></li>
 </ul></div>
 

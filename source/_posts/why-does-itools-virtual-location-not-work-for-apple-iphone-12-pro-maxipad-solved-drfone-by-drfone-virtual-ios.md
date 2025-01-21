@@ -1,7 +1,7 @@
 ---
 title: Why Does iTools Virtual Location Not Work For Apple iPhone 12 Pro Max/iPad? Solved | Dr.fone
-date: 2025-01-10T16:02:21.658Z
-updated: 2025-01-15T04:25:45.564Z
+date: 2025-01-16T16:08:36.490Z
+updated: 2025-01-21T16:41:37.985Z
 tags: 
   - virtual location chang
   - location changer
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 ## Why Does iTools Virtual Location Not Work For Apple iPhone 12 Pro Max/iPad? Solved
 
 It is no secret that a multiplicity of users across the globe have reported a bunch of problems using iTools Virtual Location. These problems vary in magnitude and make [iTools Virtual Location](https://www.thinkskysoft.com/itool-virtual-location/) not work. In this article, we are going to dig into probable causes and solutions for iTools Virtual Location that fails to work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Common Issues That iTools Virtual Location Not Working
 
@@ -47,6 +43,10 @@ With the significant problems mentioned, it's prudent for someone to ask now wha
 - **Not working on iOS 17-** As aforementioned, iOS 17 has had issues with iTools. One of the best ways to ensure a smooth click with iTools is to downgrade your iOS 17 to say iOS 16. The temporary solution offered for iOS 17 seems to work on some devices only.
 - **Location won't move-** when you change your current location and fail to move on your apps say google maps or Facebook, you will find yourself in fake location. Simply restart your device, and the problem will disappear.
 - **Image load failed-** This issue is often related to compatibility issues. Check if you downloaded the program after the forced PoGo updates. You can try downgrading your device if you are doing iOS 17.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dr.Fone - Virtual Location: Safer and Stable Tool To Change Location (iOS 17 Supported)
 
@@ -111,6 +111,10 @@ This will display various options related to your Google Maps account. From here
 
 ![Google Maps Your Places](https://images.wondershare.com/drfone/article/2021/04/view-gpx-files-online-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Choose to Create a New Map**
 
 As a dedicated section of “Your Places” would be launched, you can view all the saved places for your Google Maps account. Here, you can go to the “Maps” tab to view the existing saved route and spots. Since you have to view GPX in Google Maps, you can click on the “Create Map” option from the bottom to load a new map.
@@ -124,7 +128,7 @@ This will make Google Maps load a new page that will let you create a fresh map 
 ![Import GPX to Google Maps](https://images.wondershare.com/drfone/article/2021/04/view-gpx-files-online-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to View a GPX File Offline with Dr.Fone – Virtual Location?
@@ -156,7 +160,7 @@ Subsequently, you can select the number of times you want to cover the route and
 ![select the speed](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Export or Import the GPX Files**
@@ -169,27 +173,23 @@ Similarly, you can also import a GPX file directly to the Dr.Fone application. T
 
 ![import gpx file](https://images.wondershare.com/drfone/guide/import-gpx.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the GPX file is loaded, you can simply wait for a while and let the application process it without closing it in between.
 
 ![wait import gpx](https://images.wondershare.com/drfone/guide/wait-import-gpx.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As you can see, it is pretty easy to view GPX online or offline using the right tools. In this post, I have included a detailed guide on how to view GPX in Google Maps. Besides that, I have also included another solution to view GPX on a map using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS). Apart from importing/exporting GPX files, the application can also be used to spoof your Apple iPhone 12 Pro Max’s location or simulate its movement virtually from anywhere you want.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7 Fixes to 'No GPS - Showing Approximate Location' on Apple iPhone 12 Pro Max Waze
 
 With all the hectic days and schedule that we all have, being on time seems to be so challenging. In such demanding situations, we all make sure that to save time and do whatever it takes. When it comes to driving and reaching somewhere on time, knowing about the roads, traffic situations etc matter a lot. And Waze app is such a blessing that can surely help us with these. Not to mention, the app uses GPS services of your device. You can afford any issue with such apps, right. Therefore, in this article, we are going to point out an issue that is “no GPS showing approximate location” in Apple iPhone 12 Pro Max. If you are suffering with the same, please read the article to the end and get solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why Waze shows “No GPS - Showing approximate location” on Apple iPhone 12 Pro Max
 
@@ -203,10 +203,6 @@ Fixing the issue can be put as secondary thing. What should matter is why such t
 ## Part 2: Leave the place with poor signals
 
 It is understood that the Waze app runs on GPS. Therefore, having poor signals can be the main cause of why Apple iPhone 12 Pro Max says “no GPS showing approximate location”. This will not let the location services work properly and therefore arising the issues like these. And hence, as the first thing, we would like to suggest you leaving the place if there are poor or no signals at all. This will do nothing but ruin your mood and app’s performance. Do this and see if the problem goes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Check date & time settings
 
@@ -242,6 +238,10 @@ Step 3: Now, press the “Power” button again for long and power on your devic
 
 ![restart iphone](https://images.wondershare.com/drfone/2023/virtuallocation/restart-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Reset Network and Location & Privacy Settings
 
 If the above methods didn’t help you solving the problem, we would like to do some works with the network as well as location settings. It should be pointed out that when you reset your network settings, it will refresh and remove the entire settings related to networks like VPN, Wi-Fi etc. Also, by following the Location & Privacy settings, these settings will be restored to the default ones. However, this can be a great solution to fix Waze no GPS showing approximate location in iOS. This is what needs to be followed.
@@ -256,13 +256,13 @@ Step 3: Here, simply tap on “Reset Network Settings”. Confirm the actions an
 
 ![reset network settings](https://images.wondershare.com/drfone/2023/virtuallocation/reset-network-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To Reset Location & Privacy Settings, the steps are identical. Just tap on “Reset” followed by “Reset Location & Privacy Settings”.
 
 ![reset location privacy](https://images.wondershare.com/drfone/2023/virtuallocation/reset-location-privacy.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 6: Re-install Waze and grant location permission in settings
 
@@ -282,10 +282,14 @@ Step 6: Head to “Location Services” and look for the app.
 
 ![grant permission](https://images.wondershare.com/drfone/2023/virtuallocation/grant-permission.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: Toggle the switch on to give the location permission. You can choose between “While Using the App” and “Always”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 7: Toggle on and off Wi-Fi and cellular data
@@ -313,10 +317,6 @@ Step 2: Once you are in the next menu, you could see the “Software Update” a
 Step 3: Please tap on that and you will be able to see if the update is present or not. If yes, go ahead with the prompts and install it in your device to make things work.
 
 ![update ios](https://images.wondershare.com/drfone/2023/virtuallocation/update-ios.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -348,21 +348,22 @@ We have introduced various ways to be followed when there is no GPS showing appr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-groundwork-on-image-detail-a-novices-reference/"><u>[New] 2024 Approved Groundwork on Image Detail A Novice's Reference</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-elevating-your-video-game-choosing-a-gimbal-for-drones/"><u>[New] Elevating Your Video Game Choosing a Gimbal for Drones</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-confluence-of-visual-storytelling-and-soundtracks-top-5/"><u>[New] The Ultimate Confluence of Visual Storytelling and Soundtracks (Top 5)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-finest-racing-games-roundup-top-5/"><u>[Updated] In 2024, Finest Racing Games Roundup (Top 5)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unlocking-zoom-potentials-a-complete-guide-to-excellent-audio-recordings/"><u>[Updated] Unlocking Zoom Potentials A Complete Guide to Excellent Audio Recordings</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-15-plus-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 15 Plus Waze | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-6s-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 6s and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-11-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 11 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-13ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 13/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-canon-mx340-driver-on-pcs-running-windows-7810-download-guide/"><u>Installing Canon MX340 Driver on PCs Running Windows 7/8/10 - Download Guide</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unbox-the-ultimate-experience-master-windows-pc-screen-capturing-and-editing-for-2024/"><u>Unbox the Ultimate Experience Master Windows PC Screen Capturing and Editing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-elevate-your-video-edits-ken-burns-in-camtasia-for-2024/"><u>[New] Elevate Your Video Edits Ken Burns in Camtasia for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-quickly-mastering-instagram-written-communication/"><u>[Updated] 2024 Approved Quickly Mastering Instagram' Written Communication</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-connection-errors-with-your-echo-speaker-quick-guide/"><u>Fixing Connection Errors with Your Echo Speaker - Quick Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-11-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 11 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-13-miniipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 13 mini/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-12-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 12 Pro/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-13-miniipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 13 mini/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/igh-earnings-leveraging-youtube-analytics-and-monetization-for-2024/"><u>Sky High Earnings Leveraging YouTube Analytics & Monetization for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-itel-p55plus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Itel P55+? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-task-execution-fast-track-windows-outlook/"><u>Streamline Task Execution: Fast-Track Windows Outlook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/tale-bearers-school-distinguished-dothee/"><u>Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://win-net.techidaily.com/iuodleocoeocpoodqplusw9ouw8jplusobjomdnuwvvuwndog54plusplus6kgm44oq44o844k444on44oz44gr44gk44gr44kl44k144od44o844oi56pluse5zuyig/"><u>ファイル形式が非対応: 現行バージョンにおけるサポート範囲</u></a></li>
 </ul></div>
 

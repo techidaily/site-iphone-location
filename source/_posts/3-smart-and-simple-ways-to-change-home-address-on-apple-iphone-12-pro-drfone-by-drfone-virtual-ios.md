@@ -1,7 +1,7 @@
 ---
 title: 3 Smart and Simple Ways to Change Home Address on Apple iPhone 12 Pro | Dr.fone
-date: 2025-01-14T01:53:47.025Z
-updated: 2025-01-14T17:03:24.739Z
+date: 2025-01-17T18:41:11.043Z
+updated: 2025-01-21T18:22:07.825Z
 tags: 
   - virtual location chang
   - location changer
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 Have you recently been relocated to somewhere else or are tired of entering your Home address on Maps every day? Well, to save your time, why not add or change your home address on Apple iPhone 12 Pro. In this way, you can easily start your commute and share your address with others on the go. The good thing is that the provision to change home address in Apple iPhone 12 Pro is available for both Apple and Google Maps. Let’s get started and learn how to change home address on Apple iPhone 12 Pro like a pro!
 
 ![change home address Apple iPhone 12 Pro 1](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How to Change Home Address in Apple Maps on Apple iPhone 12 Pro
 
@@ -49,7 +45,7 @@ Step 6. After selecting the location, swipe up to get more options related to th
 ![change home address Apple iPhone 12 Pro 6](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change Home Address in Apple iPhone 12 Pro Autofill?
@@ -65,6 +61,10 @@ Step 3. Here, you can view details related to the automatic filling of contacts,
 Step 4. Now, tap on the “My Info” option to view your details like name, email, address, and so on. Just go to the “Address” field and manually enter your new address to change it.
 
 ![change home address Apple iPhone 12 Pro 7](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Change Home Address in Google Maps on Apple iPhone 12 Pro?
 
@@ -86,6 +86,10 @@ Step 5. That’s it! You can now save the changes you have made and review them 
 
 ![change home address Apple iPhone 12 Pro 10](https://images.wondershare.com/drfone/2023/virtuallocation/change-home-address-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That’s a wrap, everyone! I’m sure that after reading this guide you would be able to change home address on Apple iPhone 12 Pro like a pro. To make things easier for you, I have come up with a step-by-step tutorial on how to change home address on Apple iPhone 12 Pro via Apple Maps as well as Google Maps. Furthermore, I have also listed a smart solution to change your address in Safari’s autofill to save your time. Well, this is what I did when I wanted to know how do I change my home address on Apple iPhone 12 Pro a while back. You can follow this drill and share this guide with others to teach them the same.
 
 ### Dr.Fone - Virtual Location
@@ -106,19 +110,23 @@ Pokemon Go players always look forward to cheats and hacks that can help them ca
 
 One such cheat/hack, that has helped many iOS users collect Pokemon in the past, is PokeGo++. If you’ve been planning to use PokeGo++ to catch rare Pokemon, continue reading; this guide will provide you a deep insight into PokeGo++ and whether you can use it in 2021 or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is Pokego++?
 
 If you’re new to the Pokemon Go world and haven’t heard about PokeGo++, here’s what you need to know. It’s basically a hacked IPA version of the original Pokemon Go that comes with a built-in joystick feature. You can use this feature to teleport your location to anywhere in the world and catch a wide variety of Pokemon without even walking a single step.
 
 ![pokego++](https://images.wondershare.com/drfone/2020/2020/pokego++.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 PokeGo++ was developed by the developers at Global++ to give users leverage and help them catch their favorite Pokemon characters easily. These developers reverse-engineered the original Pokemon Go code released by Niantic and designed their own version of the game, i.e., Poke Go++. With PokeGo++, you can set your smartphone’s GPS location instantly and find some of the rarest Pokemon characters to increase your XP.
 
 It’s worth noting that PokeGo++ was released for both Android and iOS. Apple iPhone 12 Pro/iPad users could use PokeGo++ via Cydia Impactor. On the other hand, PokeGo++ Android could be installed using Fly GPS. For users who don’t know, Cydia Impactor is a dedicated iOS tool that lets users install and run sideload apps on the iDevice without having to jailbreak it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Where Can I get PokeGo ++
 
@@ -182,10 +190,6 @@ To start the process, you are required to get the Dr.Fone – Virtual Location (
 
 ![launch Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Connect the Apple iPhone 12 Pro device**
 
 Take help of your lightening cable and connect the Apple iPhone 12 Pro to the computer. Upon successful connection, hit on the “Get Started” button.
@@ -199,7 +203,7 @@ From the following window, you will be able to notice the actual location of you
 ![show gps location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Activate Teleport Mode**
@@ -209,7 +213,7 @@ To do this, simply go to the third icon in the upper right corner of the screen.
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5: Change Location**
@@ -226,17 +230,9 @@ If the above method didn’t suit you, this is how you can turn off tracking on 
 
 ![disable location](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Now, go for the “Location Services” and tap on it.
 
 ![Location Services](https://images.wondershare.com/drfone/article/2019/09/disable-location-completely-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Slide the switch next to “Location Services” to turn the locations off.
 
@@ -255,7 +251,7 @@ In the above section, you have stopped tracking on Apple iPhone 12 Pro entirely 
 ![make adjustments](https://images.wondershare.com/drfone/article/2019/09/disable-location-specific-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The first option will never send your location to the apps. Second option will use your location only when you use the particular app. And as it suggests itself, by choosing the “Always” option will always track your location.
@@ -278,10 +274,6 @@ Apart from the apps, Apple iPhone 12 Pro itself keeps record of where you travel
 
 ![Significant Locations](https://images.wondershare.com/drfone/article/2019/09/disable-significant-locations-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 5: Disable Share My Location service
 
 The feature “Share My Locations” enables you to share your locations with your family and friends. They can get to know your current location through apps like Find My Friends if this feature is turned on. So, if your concern is “how to stop my parents from tracking my Apple iPhone 12 Pro”, you can turn this off. The steps are mentioned below. Follow them and stop worrying if someone is tracking you or not.
@@ -291,6 +283,10 @@ The feature “Share My Locations” enables you to share your locations with yo
 **Step 2:** Look for the “Share My Location” and toggle it off.
 
 ![turn off Share My Location](https://images.wondershare.com/drfone/article/2019/09/disable-share-my-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 6: Disable location-based notifications or alerts
 
@@ -303,6 +299,10 @@ iPhone provides three kinds of location based services. These include the servic
 **Step 3:** Subsequently, you can disable the location based services or alerts as you want.
 
 ![disable the location services or alerts](https://images.wondershare.com/drfone/article/2019/09/disable-location-based-alerts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -322,17 +322,19 @@ We are concluding the topic here with a great hope that you now are well informe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unveiling-prime-5-chrome-tools-for-facebook-vids/"><u>[New] In 2024, Unveiling Prime 5 Chrome Tools for Facebook Vids</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlock-high-quality-video-playback-with-av1-on-youtube-for-2024/"><u>[Updated] Unlock High-Quality Video Playback with AV1 on YouTube for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/dissecting-facebook-short-videos-a-comprehensive-overview-for-2024/"><u>Dissecting Facebook Short Videos A Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-ai-enhancements-the-top-four-ios-upgrades-needed-for-iphones-to-compete-with-android-devices-insights/"><u>Essential AI Enhancements: The Top Four iOS Upgrades Needed for iPhones to Compete With Android Devices - Insights</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-11-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 11 Pro Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-14-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 14 Plus/iPad? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>In 2024, From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-interest-everyones-free-with-our-youtube-banner-samples/"><u>Spark Interest - Everyone's Free With Our YouTube Banner Samples!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-blueprint-to-dominate-with-your-spotify-ad-campaign/"><u>The Blueprint to Dominate With Your Spotify Ad Campaign</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-over-wi-fi-connectivity-how-to-fix-lenovo-pad-problems-on-pcs/"><u>Winning Over Wi-Fi Connectivity - How to Fix Lenovo Pad Problems on PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-mac-studio-with-state-of-the-art-screen-and-voice-logging/"><u>[Updated] 2024 Approved Top Mac Studio with State-of-the-Art Screen and Voice Logging</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/best-free-ghost-tools-compatible-with-windows-7-x64-and-x86-top-picks/"><u>Best Free Ghost Tools: Compatible with Windows 7 (X64 & X86) - Top Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-real-time-performance-of-yuzu-emulator/"><u>Enhance Real-Time Performance of Yuzu Emulator</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-or-get-new-drivers-for-your-amd-radeon-hd-7870-graphics-card-on-windows-11/"><u>How to Update or Get New Drivers for Your AMD Radeon HD 7870 Graphics Card on Windows 11</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-14ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 14/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-14-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 14 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-captivate-with-these-14-astonishing-text-animations/"><u>In 2024, Captivate with These 14 Astonishing Text Animations</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-12-pro-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 12 Pro and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-15-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 15 Pro GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-transforming-youtube-viewing-how-to-efficiently-insert-timestamps/"><u>In 2024, Transforming YouTube Viewing How to Efficiently Insert Timestamps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-and-tips-from-toms-hardware-store/"><u>In-Depth Analysis and Tips From Tom's Hardware Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-task-management-with-widgets-on-win-11/"><u>Streamlining Task Management with Widgets on Win 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/m4a-swfmovavi/"><u>オンラインで無料: M4A SWFフォーマット間の変換ソリューションを見つけるためにMovavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Technology: How Chatbots Mimic Human Dialogue"
-date: 2025-01-10T09:45:30.757Z
-updated: 2025-01-15T01:02:21.840Z
+date: 2025-01-14T18:49:06.610Z
+updated: 2025-01-21T18:21:07.348Z
 tags:
   - chatgpt
   - open-ai
@@ -17,12 +17,16 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  Large language models (LLMs) come in all shapes and sizes, and will assist you in any way you see fit. But which is best? We put the dominant AIs from Alphabet, OpenAI, and Meta to the test.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
  For the purposes of the test, we'll be running Stanford University's Alpaca 7B model—an adaptation of LLaMa—and pitching it against Bard and ChatGPT.
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Is the Easiest Large Language Model to Use?
 
@@ -67,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -82,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -99,25 +107,17 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -154,20 +154,24 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-open-air-fb-audio-downloads/"><u>[Updated] Open Air FB Audio Downloads</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-se-2020ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone SE (2020)/iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/demystifying-av1-a-first-time-guide/"><u>Demystifying AV1 A First-Time Guide</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 15/iPad? | Dr.fone</u></a></li>
-<li><a href="https://tools.techidaily.com/e-funnels/products/"><u>E-funnels's Products</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/easy-steps-to-clear-out-voicemail-messages-on-your-iphone-device/"><u>Easy Steps to Clear Out Voicemail Messages on Your iPhone Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-workflow-on-windows-11-for-professionals/"><u>Elevating Workflow on Windows 11 for Professionals</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-11-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 11 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-se-2022ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone SE (2022)/iPad | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-a05s-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Itel A05s to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-revolutionize-visual-narratives-using-prime-text-extensions/"><u>In 2024, Revolutionize Visual Narratives Using Prime Text Extensions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-ideapad-assessment-solid-construction-on-a-fundamental-machine/"><u>Lenovo Ideapad Assessment: Solid Construction on a Fundamental Machine</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/transformative-mobile-tools-discovering-the-top-game-changers-on-your-smartphone/"><u>Transformative Mobile Tools: Discovering the Top Game-Changers on Your Smartphone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-easy-lenovo-techniques-for-capturing-your-display/"><u>[New] In 2024, Easy Lenovo Techniques for Capturing Your Display</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-premier-presentation-planner-prodigy-for-2024/"><u>[New] Premier Presentation Planner Prodigy for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-audio-aficionados-curated-selection-of-free-lut-links-for-2024/"><u>[Updated] Audio Aficionados' Curated Selection of Free LUT Links for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-stepwise-guide-to-launching-and-managing-a-live-broadcast/"><u>[Updated] Stepwise Guide to Launching and Managing a Live Broadcast</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1-free-80s-classic-hits-video-collection-convert-and-download-in-multiple-formats-mp4-avi-mp3/"><u>1. Free 80'S Classic Hits Video Collection: Convert and Download in Multiple Formats (MP4, AVI, MP3)</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1-medieval-armor-wallpapers-and-visuals-download-high-quality-vintage-designs-by-yl-creations/"><u>1. Medieval Armor Wallpapers & Visuals: Download High-Quality Vintage Designs by YL Creations</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/enhance-your-powerpoint-with-youtube-content-a-step-by-step-guide-for-engaging-presentations/"><u>Enhance Your PowerPoint with YouTube Content: A Step-by-Step Guide for Engaging Presentations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-how-to-correctly-address-opengl-errors-in-minecraft/"><u>Expert Tips on How to Correctly Address OpenGL Errors in Minecraft</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-14-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 14 Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-se-2020ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone SE (2020)/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-huawei-nova-y91-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Huawei Nova Y91 Phones? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/trusted-iphone-software-for-permanently-clearing-out-private-files-and-personal-details/"><u>Trusted iPhone Software for Permanently Clearing Out Private Files and Personal Details</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-12-miniipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 12 mini/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 

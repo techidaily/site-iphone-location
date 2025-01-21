@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix the Apple iPhone 12 mini GPS not Working Issue | Dr.fone
-date: 2025-01-10T16:49:46.093Z
-updated: 2025-01-15T13:26:52.349Z
+date: 2025-01-14T17:08:02.398Z
+updated: 2025-01-21T18:37:45.131Z
 tags: 
   - virtual location chang
   - location changer
@@ -20,6 +20,10 @@ GPS (Global Positioning System) is an important utility in this modern age. Afte
 
 As a user with daily traveling, you want to avoid such issues. This article will make things easier because you will find ways and solutions to overcome this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Happens If Your Apple iPhone 12 mini GPS Does Not Work on Apple iPhone 12 mini?
 
 Apple iPhone 12 mini is among the most popular gadget devices in current times. Meanwhile, its GPS function allows users to stay active on the real-time map technology. However, GPS not working on Apple iPhone 12 minis is a common problem. When this happens, you cannot track pinpoint locations.
@@ -27,7 +31,7 @@ Apple iPhone 12 mini is among the most popular gadget devices in current times. 
 This means you will find difficulty in locating your destination. Moreover, you will not be able to use those applications that rely on GPS technology. For example, a fitness app needs to track your distance and route. Not to forget, a malfunctioning GPS may also drain more battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: What Are the Potential Reasons for Apple iPhone 12 mini GPS Not Working?
@@ -65,6 +69,10 @@ Restarting an Apple iPhone 12 mini is the ultimate way to rectify underlying pro
 
 - ****Step 2:**** Wait for some time till your device gets powered off. After this, hold the “Power” button until the Apple logo appears to restart your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 3: Force Restart Apple iPhone 12 mini
 
 Sometimes your Apple iPhone 12 mini may get hung up due to an underlying issue. So, when your device is not responding, you cannot restart it from settings. In this scenario, you need to force restart Apple iPhone 12 mini. To do this, perform these simple instructions:
@@ -75,6 +83,10 @@ Sometimes your Apple iPhone 12 mini may get hung up due to an underlying issue. 
 
 ![force restart Apple iPhone 12 mini](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 4: Reset Network Settings
 
 A network connection error is also the reason for ****Apple iPhone 12 mini GPS not working****. This happens when your Apple iPhone 12 mini isn't connected to a Wi-Fi network or facing problems in connection. For resetting the network settings, these steps are your trusted solution.
@@ -82,10 +94,6 @@ A network connection error is also the reason for ****Apple iPhone 12 mini GPS n
 - ****Step 1:**** From your Apple iPhone 12 mini, launch “Settings,” scroll down, and move into "General" from the settings menu.
 
 ![access the general settings](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - ****Step 2:**** Access the "Transfer or Reset Apple iPhone 12 mini" options, tap the "Reset" option, and select "Reset Network Settings.” Now reset your Apple iPhone 12 mini network settings to default by tapping "Reset Network Settings."
 
@@ -137,6 +145,10 @@ Download and launch Wondershare Dr.Fone's latest version on your computer. Next,
 
 ![choose the system repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 2: Choose Desired Repair Mode****
 
 Here choose "iOS Repair," and on the next screen, select the desired repair mode. Proceed with the "Standard Repair," as it will not affect your data. Now follow the on-screen instructions to activate Recovery Mode.
@@ -150,7 +162,7 @@ After recovery mode is enabled, the platform will automatically detect the Apple
 ![click on repair now](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -192,13 +204,13 @@ A majority of people forget to turn on GPS services on their respective Apple iP
 
 ![tap on privacy and security](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 2:**** Press “Privacy & Security” and turn on “Location Services” to enable GPS. You can also enable location for other apps from the same settings.
 
 ![activate the location services](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 2: Simple Restart Apple iPhone 12 mini
 
@@ -208,15 +220,7 @@ Restarting an Apple iPhone 12 mini is the ultimate way to rectify underlying pro
 
 ![tap on shut down option](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - ****Step 2:**** Wait for some time till your device gets powered off. After this, hold the “Power” button until the Apple logo appears to restart your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 3: Force Restart Apple iPhone 12 mini
 
@@ -227,10 +231,6 @@ Sometimes your Apple iPhone 12 mini may get hung up due to an underlying issue. 
 - ****Apple iPhone 12 mini 8 and Later:**** Initially, quickly press and release the “Volume Up” button, then perform the same with the “Volume Down” button. After this, press and hold the “Sleep/Wake” button, and release the button once the Apple logo appears.
 
 ![force restart Apple iPhone 12 mini](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 4: Reset Network Settings
 
@@ -255,10 +255,6 @@ In most scenarios, your location is used on many apps that risk GPS optimal func
 - ****Step 2:**** Now press the "Transfer or Reset Apple iPhone 12 mini" option from General. From the next screen, choose the "Reset" option, and select "Reset Location & Privacy." After pressing "Reset Settings," your device location settings will reset to default.
 
 ![choose reset location and privacy](https://images.wondershare.com/drfone/article/2023/05/fix-gps-problems-on-iphone-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 6: Use Wondershare Dr.Fone to Fix Apple iPhone 12 mini GPS Problems
 
@@ -305,6 +301,10 @@ Here choose "iOS Repair," and on the next screen, select the desired repair mode
 After recovery mode is enabled, the platform will automatically detect the Apple iPhone 12 mini device and provide firmware accordingly. Press "Download" against the required firmware to start downloading it. Once the firmware is downloaded, click "Repair Now” to repair GPS not working issue on Apple iPhone 12 mini.
 
 ![click on repair now](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -364,6 +364,10 @@ In your Apple iPhone 12 mini, tap ‘Settings’ then select the ‘Privacy’ o
 
 ![iphone settings](https://images.wondershare.com/drfone/2023/virtuallocation/iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Modify the options in Location Services
 
 In the ‘Privacy’ window, choose ‘Location Services’ and tap ‘Safari Websites’ from the displayed list.
@@ -390,6 +394,10 @@ Change the location details of your Apple iPhone 12 mini using the incredible so
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Establish a Virtual location**
 
 In the home page of this program, select the ‘Virtual Location’ option. In the next screen, tap the ‘Get Started’ button to trigger the procedure.
@@ -402,10 +410,6 @@ The next window displays the current virtual location details of the Apple iPhon
 
 ![virtual location 03](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Enter your favourite spot**
 
 Select the ‘Teleport mode’ in the map view. You can find this icon at the top right of the screen. Choose the first image from the horizontal list of symbols. Then enter your favourite spot worldwide in the text box near the ‘Go’ button. It is high time to press the ‘Go’ button and fix your admirable spots as your default device location.
@@ -417,10 +421,6 @@ Select the ‘Teleport mode’ in the map view. You can find this icon at the to
 The next map view shifts to the new location with a pop-up message ‘Move Here’. You must authenticate the changes by tapping this ‘Move here’ button.
 
 ![virtual location 05](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 6: Check the default location**
 
@@ -446,18 +446,19 @@ Thus, concealing the location details of your device protects you from unwanted 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-fastest-video-recorder-clear-latency-free-action/"><u>[New] 2024 Approved Fastest Video Recorder Clear, Latency-Free Action</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-spectrum-analysis-of-vsco-editing-features/"><u>[New] Full Spectrum Analysis of VSCO Editing Features</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-screens-sole-contender-software-or-hardware-triumph/"><u>[New] In 2024, The Screen's Sole Contender Software or Hardware Triumph?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-m14-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy M14 5G?</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-nokia-c12-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Nokia C12 for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a1-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A1 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-easily-unlock-infinix-screen-by-drfone-android/"><u>In 2024, How To Easily Unlock Infinix Screen?</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-nokia-g22-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Nokia G22</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfecting-your-rl-game-captures/"><u>[New] 2024 Approved Perfecting Your RL Game Captures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-uniting-zoom-timings-with-phone-and-pc-schedules-effortlessly/"><u>[New] 2024 Approved Uniting Zoom Timings with Phone & PC Schedules Effortlessly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-up-your-earning-potential-with-youtube-shorts-strategy-for-2024/"><u>[Updated] Channel Up Your Earning Potential with YouTube Shorts Strategy for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-vcompdll-cannot-be-located-error-a-step-by-step-solution/"><u>Fix Vcomp.dll Cannot Be Located Error: A Step-by-Step Solution</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-hover-and-watch-utilizing-the-float-feature-on-netflix/"><u>In 2024, Hover & Watch Utilizing the Float Feature on Netflix</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-the-0x80070490-error-on-your-windows-system/"><u>Troubleshooting and Solving the 0X80070490 Error on Your Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-permanent-fixes-for-continuous-load-screens-on-skyrim-gameplay/"><u>Unlocking Permanent Fixes for Continuous Load Screens on Skyrim Gameplay</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unmasking-youtubes-covert-video-collections-for-2024/"><u>Unmasking YouTube’s Covert Video Collections for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/windowsschijven-bewerking-windows-11-overzetting-en-hardeschijvensvervanging-in-3-praktische-manieren/"><u>Windowsschijven Bewerking: Windows 11-Overzetting en Hardeschijvensvervanging in 3 Praktische Manieren</u></a></li>
 </ul></div>
 
