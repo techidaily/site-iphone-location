@@ -1,7 +1,7 @@
 ---
 title: In 2024, Quick Steps to Change Weather Location on Apple iPhone 14 Pro | Dr.fone
-date: 2025-02-05T16:03:20.163Z
-updated: 2025-02-09T16:06:32.194Z
+date: 2025-02-14T17:14:56.723Z
+updated: 2025-02-19T17:17:51.811Z
 tags: 
   - virtual location chang
   - location changer
@@ -40,6 +40,10 @@ Are you planning a particular activity in the coming days? If so, the Ten-Day Fo
 
 If an extreme weather disturbance is detected in your area, the Weather app will send you an alert straight away. It can be a weather advisory issued by the state meteorological bureau or a flash report from a credible source. That’s why you should ensure the location settings on your Apple iPhone 14 Pro are well-calibrated. If not, take a moment to reconfigure it. There are lots of tutorials out there on how to change weather location on Apple iPhone 14 Pro. One of them can certainly assist you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Maps
 
 ![weather map](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-3.JPG)
@@ -51,7 +55,7 @@ The Apple iPhone 14 Pro’s Weather app has a map feature that exclusively displ
 ![air quality](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-4.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If information regarding air quality is widely available in your country, it will also show up on the Apple iPhone 14 Pro’s Weather app. You can view from there the recorded air quality index in your area together with a rating if it is good or not. At present, we cannot deny that being aware of the air quality around us is indeed essential. It somehow helps us lessen our exposure to harmful pollutants in the atmosphere. That’s why you should take advantage of this feature. Read the tutorial on how to change the weather location on your Apple iPhone 14 Pro and configure your settings. This way, you’ll stay updated on the air quality of the places you will visit going forward.
@@ -103,10 +107,6 @@ Is there any other way in case the first two techniques do not bring positive re
 
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Enter your desired location into the search bar and choose one from the list of suggestions. Right after, click the **Enter** icon to proceed.
 
 ![search for your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -125,7 +125,15 @@ It’s fair to say that Weather is not a primary iOS application. You can contin
 
 ![ipad weather widget](https://images.wondershare.com/drfone/article/2024/02/ipad-how-to-change-weather-location-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It doesn’t take much to follow the tutorials above on how to change weather location on Apple iPhone 14 Pro. Most of them can instantly be conducted and finished with just the snap of a finger. That’s why you should regularly calibrate its location settings and make sure that it’s showing appropriate weather reports. Who knows? Keeping tabs on the atmospheric conditions around your local area can help you in a specific way you don’t actually expect. For instance, severe weather alerts are definitely capable of preventing you from running or driving toward a bad storm. Another thing is that the Weather’s Ten-Day Forecast feature can help you organize your weekly schedules accordingly. For sure, Weather has a lot more to offer. Thus, try to explore it once in a while and take advantage of the benefits.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -161,10 +169,6 @@ Choosing Double Location Dongle will be a profit both because of its high functi
 
 ![double location dongle pic 2](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.1 iOS System-level location change
 
 It provides iOS system level GPS manipulation that changes your location in all apps and even the ones with Apple protection cannot detect where you are actually seated.
@@ -174,38 +178,30 @@ It provides iOS system level GPS manipulation that changes your location in all 
 This dongle is completely safe and blocks any external interferences that try to capture your data illegally. It shields the bans from the Manufacturer’s (Apple) side. Your data and you are absolutely safe.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.3 No Jailbreak
 
 Often, you might receive restrictions from the manufacturer during the GPS simulation. In that case, you have to consider jailbreak to get the job done. But Double Location doesn’t require jailbreak and smoothly gets your work done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.4 No need of PC
 
 You don’t need a computer for the Dongle to work. It is easy to attach it to your Apple iPhone 14 Pro or iPad’s charging port and then launch it into action. You can carry it wherever you go.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.5 Works for diverse Apps
 
 You can spoof your location on a wide range of apps like Google Maps, Find My iPhone, Zenly, Pokémon Go, Tinder, Snapchat, Instagram, and Facebook among more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part3. Why should you not choose Double Location Dongle?
 
 While you’ve already seen one side of the coin, it is time to see the other one. Yes, there are good benefits to Double Location but I have to mention the cons as well in this double location dongle review.
 
 ![double location dongle pic 3](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.1 Costly on Comparison
 
@@ -216,7 +212,7 @@ Double Location dongle devices are costly. Because of their high efficiency, the
 The delivery time is excruciatingly long. It will take a lot of time for them to deliver your piece and if you are expecting it on a particular day, you will certainly be disappointed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3.3 Website Design
@@ -239,6 +235,10 @@ The helpline center’s response is so slow that I sometimes wonder if there is 
 
 ![double location dongle pic 5](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Benefit 2:** Create a virtual illusion like you are riding a bike or driving a car in your new location.
 
 ![double location dongle pic 6](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-6.jpg)
@@ -252,10 +252,6 @@ The helpline center’s response is so slow that I sometimes wonder if there is 
 ![double location dongle pic 8](https://images.wondershare.com/drfone/2023/virtuallocation/double-location-dongle-pic-8.jpg)
 
 You need to select your location before you enter the game and not after it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part5. Any PC program if Double Location Dongle fails to work?
 
@@ -277,9 +273,17 @@ Dr. fone is similar software that spoofs your location. This is an economical pu
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How does it work?
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does iTools Virtual Location Not Work For Apple iPhone 14 Pro/iPad? Solved
 
@@ -328,10 +332,6 @@ There are several tools out there claiming to offer such, but none comes close t
 - **Change directions up to 360 degrees-** use the direction arrows to set the desired movement direction.
 - **Works with all GPS-** based AR games or apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -358,19 +358,24 @@ There are several tools out there claiming to offer such, but none comes close t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-a-detailed-guide-to-ending-your-linkedin-user-experience-for-2024/"><u>[New] A Detailed Guide to Ending Your LinkedIn User Experience for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-viral-video-voyage-unveiling-the-trendiest-tweets-of-2023/"><u>[Updated] In 2024, Viral Video Voyage Unveiling the Trendiest Tweets of 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-and-easy-comedy-unraveling-ifunnys-meme-magic/"><u>2024 Approved Quick & Easy Comedy Unraveling iFunny's Meme Magic</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-msi-b350-toms-tomahawk-motherboard-drivers-for-windows-11-and-7/"><u>Download MSI B350 TOM'S TOMAHAWK Motherboard Drivers for Windows 11 & 7</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-14ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 14/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/overcoming-virtual-reality-nausea/"><u>Overcoming Virtual Reality Nausea</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/precise-screen-record-azs-full-app-dissection/"><u>Precise Screen Record - AZ's Full App Dissection</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/recovering-lost-iphone-notes-made-easy-a-guide-to-note-recovery-programs/"><u>Recovering Lost iPhone Notes Made Easy: A Guide to Note Recovery Programs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-gadgets-and-peripherals-insights/"><u>Top-Rated iPad Gadgets and Peripherals - Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-melody-the-best-eight-iphone-audio-applications-without-cost/"><u>Unlocking Melody: The Best Eight iPhone Audio Applications Without Cost</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-13-miniipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 13 mini/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unleash-your-creativity-the-best-10-igtv-techniques-to-skyrocket-your-brand/"><u>[Updated] In 2024, Unleash Your Creativity The Best 10 IGTV Techniques to Skyrocket Your Brand</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-quick-file-scan-in-windows-for-2024/"><u>[Updated] Navigating Quick File Scan in Windows for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-details-with-intimate-filming-techniques/"><u>2024 Approved Capturing Details with Intimate Filming Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-latest-update-on-spotify-desktop-now-with-a-handy-miniplayer-for-your-media/"><u>Discover the Latest Update on Spotify Desktop – Now with a Handy Miniplayer for Your Media!</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-12ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 12/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-nvidia-drivers-updated-now-direct-download-links-available/"><u>Get Your NVIDIA Drivers Updated Now - Direct Download Links Available</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-14-pro-max-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 14 Pro Max and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-12-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 12 mini | Stellar</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone XS/iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-6ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 6/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-8-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 8 Plus GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-xr-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone XR GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/recuperacion-efectiva-de-archivos-eliminados-en-tarjetas-sd-tres-formas-probadas-y-confirmadas/"><u>Recuperación Efectiva De Archivos Eliminados en Tarjetas SD - Tres Formas Probadas Y Confirmadas</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-playback-problems-with-videos-in-mozilla-firefox-expert-tips/"><u>Solve Playback Problems with Videos in Mozilla Firefox | Expert Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-dvd-player-errors-solved-how-to-fix-non-functioning-media/"><u>Windows DVD Player Errors Solved – How to Fix Non-Functioning Media</u></a></li>
 </ul></div>
 
